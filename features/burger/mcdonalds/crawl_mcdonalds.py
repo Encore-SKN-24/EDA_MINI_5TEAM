@@ -51,9 +51,9 @@ try:
 
 # 4. csv 저장
 finally:
-    with open('mcdonalds.csv', 'w', newline='', encoding='utf-8') as f:
+    with open('./data/mcdonalds.csv', 'w', newline='', encoding='utf-8-sig') as f:
         writer = csv.writer(f)
-        writer.writerow(['매장명', '주소'])
+        writer.writerow(['store_name', 'address'])
         writer.writerows(store_list)
 
 print(len(store_list))
