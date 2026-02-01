@@ -18,7 +18,7 @@ def save_json(data, path):
 # 매장 리스트(records)를 지역별로 카운트 -> 반환
 # memo: def count_by_region(records: list[dict]) -> dict:
 # records: list[dict]-> records 딕셔너리들의 리스트임 
-def count_by_region(records)
+def count_by_region(records):
     out = defaultdict(lambda: defaultdict(int))
 
     for r in records:
@@ -50,7 +50,6 @@ def to_plain_dict(nested_defaultdict):
 
 
 def main():
-    # 
     files = {
         "kfc": "../burger/kfc/data/kfc.json",
         "burgerking": "../burger/burgerking/data/burgerking.json",
@@ -64,7 +63,7 @@ def main():
     for brand, path in files.items():
         records = load_json(path)
 
-        # records가 list인지 체크체크체크체크
+        # records가 list인지 체크
         if not isinstance(records, list):
             raise ValueError(f"{path}는 매장 리스트(list) 형태. 현재 타입: {type(records)}")
 
