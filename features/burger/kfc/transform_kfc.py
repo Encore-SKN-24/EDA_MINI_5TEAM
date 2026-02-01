@@ -1,4 +1,4 @@
-from utils.region import normalize_sido, normalize_sigungu
+from region import normalize_sido, normalize_sigungu
 
 def transform_store_data(records):
     out = []

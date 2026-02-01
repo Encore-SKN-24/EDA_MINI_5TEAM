@@ -9,7 +9,7 @@ import json
 
 from transform_kfc import transform_store_data
 
-# 상수
+# 고정값
 URL = "https://www.kfckorea.com/store/findStore"
 JSON_FILE = "kfc.json"
 
