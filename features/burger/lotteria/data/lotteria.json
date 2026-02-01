@@ -1,0 +1,7826 @@
+[
+  {
+    "StoreName": "가든파이브",
+    "sido": "서울",
+    "sigungu": "송파구",
+    "storecd": "11963"
+  },
+  {
+    "StoreName": "가산디지털단지",
+    "sido": "서울",
+    "sigungu": "금천구",
+    "storecd": "13174"
+  },
+  {
+    "StoreName": "가산IT",
+    "sido": "서울",
+    "sigungu": "금천구",
+    "storecd": "13287"
+  },
+  {
+    "StoreName": "가좌역",
+    "sido": "서울",
+    "sigungu": "서대문구",
+    "storecd": "13144"
+  },
+  {
+    "StoreName": "가평",
+    "sido": "경기",
+    "sigungu": "가평군",
+    "storecd": "11386"
+  },
+  {
+    "StoreName": "가평설악",
+    "sido": "경기",
+    "sigungu": "가평군",
+    "storecd": "12879"
+  },
+  {
+    "StoreName": "가평현리",
+    "sido": "경기",
+    "sigungu": "가평군",
+    "storecd": "12453"
+  },
+  {
+    "StoreName": "가평휴게소(상)",
+    "sido": "경기",
+    "sigungu": "가평군",
+    "storecd": "13057"
+  },
+  {
+    "StoreName": "강남역SELECT",
+    "sido": "서울",
+    "sigungu": "서초구",
+    "storecd": "13331"
+  },
+  {
+    "StoreName": "강남일원",
+    "sido": "서울",
+    "sigungu": "강남구",
+    "storecd": "12864"
+  },
+  {
+    "StoreName": "강동구청D/T",
+    "sido": "서울",
+    "sigungu": "강동구",
+    "storecd": "12410"
+  },
+  {
+    "StoreName": "강릉",
+    "sido": "강원",
+    "sigungu": "강릉시",
+    "storecd": "11462"
+  },
+  {
+    "StoreName": "강릉교동",
+    "sido": "강원",
+    "sigungu": "강릉시",
+    "storecd": "11085"
+  },
+  {
+    "StoreName": "강릉내곡",
+    "sido": "강원",
+    "sigungu": "강릉시",
+    "storecd": "13122"
+  },
+  {
+    "StoreName": "강릉입암",
+    "sido": "강원",
+    "sigungu": "강릉시",
+    "storecd": "12155"
+  },
+  {
+    "StoreName": "강릉주문진",
+    "sido": "강원",
+    "sigungu": "강릉시",
+    "storecd": "12575"
+  },
+  {
+    "StoreName": "강릉터미널",
+    "sido": "강원",
+    "sigungu": "강릉시",
+    "storecd": "11465"
+  },
+  {
+    "StoreName": "강릉포남",
+    "sido": "강원",
+    "sigungu": "강릉시",
+    "storecd": "12510"
+  },
+  {
+    "StoreName": "강변씨네마",
+    "sido": "서울",
+    "sigungu": "광진구",
+    "storecd": "11128"
+  },
+  {
+    "StoreName": "강서구청",
+    "sido": "서울",
+    "sigungu": "강서구",
+    "storecd": "13093"
+  },
+  {
+    "StoreName": "강원대학",
+    "sido": "강원",
+    "sigungu": "춘천시",
+    "storecd": "11470"
+  },
+  {
+    "StoreName": "강일",
+    "sido": "서울",
+    "sigungu": "강동구",
+    "storecd": "12108"
+  },
+  {
+    "StoreName": "강진",
+    "sido": "전남",
+    "sigungu": "강진군",
+    "storecd": "12272"
+  },
+  {
+    "StoreName": "개봉",
+    "sido": "서울",
+    "sigungu": "구로구",
+    "storecd": "12395"
+  },
+  {
+    "StoreName": "개봉역",
+    "sido": "서울",
+    "sigungu": "구로",
+    "storecd": "11155"
+  },
+  {
+    "StoreName": "거제고현",
+    "sido": "경남",
+    "sigungu": "거제시",
+    "storecd": "12964"
+  },
+  {
+    "StoreName": "거제상문",
+    "sido": "경남",
+    "sigungu": "거제시",
+    "storecd": "12626"
+  },
+  {
+    "StoreName": "거제수월",
+    "sido": "경남",
+    "sigungu": "거제시",
+    "storecd": "12499"
+  },
+  {
+    "StoreName": "거제아주",
+    "sido": "경남",
+    "sigungu": "거제시",
+    "storecd": "12457"
+  },
+  {
+    "StoreName": "거제옥포",
+    "sido": "경남",
+    "sigungu": "거제시",
+    "storecd": "11733"
+  },
+  {
+    "StoreName": "거창",
+    "sido": "경남",
+    "sigungu": "거창군",
+    "storecd": "11704"
+  },
+  {
+    "StoreName": "건대스타시티",
+    "sido": "서울",
+    "sigungu": "광진구",
+    "storecd": "11033"
+  },
+  {
+    "StoreName": "건대입구역",
+    "sido": "서울",
+    "sigungu": "광진구",
+    "storecd": "13185"
+  },
+  {
+    "StoreName": "검단신도시",
+    "sido": "인천",
+    "sigungu": "서구",
+    "storecd": "13145"
+  },
+  {
+    "StoreName": "경기광주역",
+    "sido": "경기",
+    "sigungu": "광주시",
+    "storecd": "12983"
+  },
+  {
+    "StoreName": "경기대역",
+    "sido": "경기",
+    "sigungu": "수원시",
+    "storecd": "12698"
+  },
+  {
+    "StoreName": "경기북부청사",
+    "sido": "경기",
+    "sigungu": "의정부시",
+    "storecd": "13031"
+  },
+  {
+    "StoreName": "경남남지",
+    "sido": "경남",
+    "sigungu": "창녕군남지읍",
+    "storecd": "12443"
+  },
+  {
+    "StoreName": "경남대",
+    "sido": "경남",
+    "sigungu": "창원시",
+    "storecd": "12899"
+  },
+  {
+    "StoreName": "경남산청",
+    "sido": "경남",
+    "sigungu": "산청군",
+    "storecd": "12961"
+  },
+  {
+    "StoreName": "경남의령",
+    "sido": "경남",
+    "sigungu": "의령군",
+    "storecd": "12929"
+  },
+  {
+    "StoreName": "경남창녕",
+    "sido": "경남",
+    "sigungu": "창녕군",
+    "storecd": "11766"
+  },
+  {
+    "StoreName": "경남하동",
+    "sido": "경남",
+    "sigungu": "하동군",
+    "storecd": "12546"
+  },
+  {
+    "StoreName": "경남함안",
+    "sido": "경남",
+    "sigungu": "함안군",
+    "storecd": "12378"
+  },
+  {
+    "StoreName": "경남합천",
+    "sido": "경남",
+    "sigungu": "합천군",
+    "storecd": "11778"
+  },
+  {
+    "StoreName": "경북고령",
+    "sido": "경북",
+    "sigungu": "고령군",
+    "storecd": "12514"
+  },
+  {
+    "StoreName": "경북도청",
+    "sido": "경북",
+    "sigungu": "안동시",
+    "storecd": "12737"
+  },
+  {
+    "StoreName": "경북봉화",
+    "sido": "경북",
+    "sigungu": "봉화군",
+    "storecd": "12552"
+  },
+  {
+    "StoreName": "경북신영주",
+    "sido": "경북",
+    "sigungu": "영주시",
+    "storecd": "12858"
+  },
+  {
+    "StoreName": "경북왜관",
+    "sido": "경북",
+    "sigungu": "칠곡군",
+    "storecd": "11716"
+  },
+  {
+    "StoreName": "경북의성",
+    "sido": "경북",
+    "sigungu": "의성군",
+    "storecd": "12861"
+  },
+  {
+    "StoreName": "경산",
+    "sido": "경북",
+    "sigungu": "경산시",
+    "storecd": "11684"
+  },
+  {
+    "StoreName": "경산사동",
+    "sido": "경북",
+    "sigungu": "경산시",
+    "storecd": "11743"
+  },
+  {
+    "StoreName": "경산진량",
+    "sido": "경북",
+    "sigungu": "경산시",
+    "storecd": "12339"
+  },
+  {
+    "StoreName": "경상대학",
+    "sido": "경남",
+    "sigungu": "진주시",
+    "storecd": "11777"
+  },
+  {
+    "StoreName": "경안제일",
+    "sido": "경기",
+    "sigungu": "광주시",
+    "storecd": "11302"
+  },
+  {
+    "StoreName": "경주",
+    "sido": "경북",
+    "sigungu": "경주시",
+    "storecd": "12242"
+  },
+  {
+    "StoreName": "경주보문",
+    "sido": "경북",
+    "sigungu": "경주시",
+    "storecd": "12798"
+  },
+  {
+    "StoreName": "경주안강",
+    "sido": "경북",
+    "sigungu": "경주시",
+    "storecd": "11770"
+  },
+  {
+    "StoreName": "경주용황",
+    "sido": "경북",
+    "sigungu": "경주시",
+    "storecd": "13139"
+  },
+  {
+    "StoreName": "경주황성",
+    "sido": "경북",
+    "sigungu": "경주시",
+    "storecd": "11737"
+  },
+  {
+    "StoreName": "계룡",
+    "sido": "충남",
+    "sigungu": "계룡시",
+    "storecd": "11526"
+  },
+  {
+    "StoreName": "계룡대실지구",
+    "sido": "충남",
+    "sigungu": "계룡시",
+    "storecd": "13160"
+  },
+  {
+    "StoreName": "고덕국제",
+    "sido": "경기",
+    "sigungu": "평택시",
+    "storecd": "12978"
+  },
+  {
+    "StoreName": "고덕역",
+    "sido": "서울",
+    "sigungu": "강동구",
+    "storecd": "11197"
+  },
+  {
+    "StoreName": "고성",
+    "sido": "경남",
+    "sigungu": "고성군",
+    "storecd": "11747"
+  },
+  {
+    "StoreName": "고성간성",
+    "sido": "강원",
+    "sigungu": "고성군",
+    "storecd": "12685"
+  },
+  {
+    "StoreName": "고양",
+    "sido": "경기",
+    "sigungu": "고양시",
+    "storecd": "12083"
+  },
+  {
+    "StoreName": "고양관산",
+    "sido": "경기",
+    "sigungu": "고양시",
+    "storecd": "12445"
+  },
+  {
+    "StoreName": "고양능곡",
+    "sido": "경기",
+    "sigungu": "고양시",
+    "storecd": "13168"
+  },
+  {
+    "StoreName": "고양덕은",
+    "sido": "경기",
+    "sigungu": "고양시",
+    "storecd": "13171"
+  },
+  {
+    "StoreName": "고양삼송",
+    "sido": "경기",
+    "sigungu": "고양시",
+    "storecd": "13060"
+  },
+  {
+    "StoreName": "고양원흥",
+    "sido": "경기",
+    "sigungu": "고양시",
+    "storecd": "12580"
+  },
+  {
+    "StoreName": "고양행신역",
+    "sido": "경기",
+    "sigungu": "고양시",
+    "storecd": "11440"
+  },
+  {
+    "StoreName": "고창",
+    "sido": "전북",
+    "sigungu": "고창군",
+    "storecd": "11655"
+  },
+  {
+    "StoreName": "곤지암",
+    "sido": "경기",
+    "sigungu": "광주시",
+    "storecd": "11384"
+  },
+  {
+    "StoreName": "공릉역",
+    "sido": "서울",
+    "sigungu": "노원구",
+    "storecd": "11964"
+  },
+  {
+    "StoreName": "공주",
+    "sido": "충남",
+    "sigungu": "공주시",
+    "storecd": "11501"
+  },
+  {
+    "StoreName": "공주신관",
+    "sido": "충남",
+    "sigungu": "공주시",
+    "storecd": "11537"
+  },
+  {
+    "StoreName": "공항신도시",
+    "sido": "인천",
+    "sigungu": "중구",
+    "storecd": "12041"
+  },
+  {
+    "StoreName": "과천렛츠런파크",
+    "sido": "경기",
+    "sigungu": "과천시",
+    "storecd": "12940"
+  },
+  {
+    "StoreName": "광교",
+    "sido": "경기",
+    "sigungu": "수원시",
+    "storecd": "12903"
+  },
+  {
+    "StoreName": "광교D/T",
+    "sido": "경기",
+    "sigungu": "용인시",
+    "storecd": "12154"
+  },
+  {
+    "StoreName": "광명",
+    "sido": "경기",
+    "sigungu": "광명시",
+    "storecd": "11401"
+  },
+  {
+    "StoreName": "광명소하",
+    "sido": "경기",
+    "sigungu": "광명시",
+    "storecd": "13117"
+  },
+  {
+    "StoreName": "광명역사",
+    "sido": "경기",
+    "sigungu": "광명시",
+    "storecd": "13037"
+  },
+  {
+    "StoreName": "광명철산",
+    "sido": "경기",
+    "sigungu": "광명시",
+    "storecd": "13306"
+  },
+  {
+    "StoreName": "광명하안",
+    "sido": "경기",
+    "sigungu": "광명시",
+    "storecd": "12098"
+  },
+  {
+    "StoreName": "광양",
+    "sido": "전남",
+    "sigungu": "광양시",
+    "storecd": "11634"
+  },
+  {
+    "StoreName": "광양마동",
+    "sido": "전남",
+    "sigungu": "광양시",
+    "storecd": "12105"
+  },
+  {
+    "StoreName": "광양중동",
+    "sido": "전남",
+    "sigungu": "광양시",
+    "storecd": "11621"
+  },
+  {
+    "StoreName": "광주금남로",
+    "sido": "광주",
+    "sigungu": "광역시",
+    "storecd": "11602"
+  },
+  {
+    "StoreName": "광주금호",
+    "sido": "광주",
+    "sigungu": "서구",
+    "storecd": "11625"
+  },
+  {
+    "StoreName": "광주농성",
+    "sido": "광주",
+    "sigungu": "서구",
+    "storecd": "12550"
+  },
+  {
+    "StoreName": "광주능평",
+    "sido": "경기",
+    "sigungu": "광주시",
+    "storecd": "12538"
+  },
+  {
+    "StoreName": "광주동강대",
+    "sido": "광주",
+    "sigungu": "북구",
+    "storecd": "12130"
+  },
+  {
+    "StoreName": "광주동림",
+    "sido": "광주",
+    "sigungu": "광역시",
+    "storecd": "11676"
+  },
+  {
+    "StoreName": "광주두암",
+    "sido": "광주",
+    "sigungu": "북구",
+    "storecd": "11983"
+  },
+  {
+    "StoreName": "광주문흥",
+    "sido": "광주",
+    "sigungu": "북구",
+    "storecd": "11650"
+  },
+  {
+    "StoreName": "광주백운",
+    "sido": "광주",
+    "sigungu": "남구",
+    "storecd": "12678"
+  },
+  {
+    "StoreName": "광주봉선",
+    "sido": "광주",
+    "sigungu": "남구",
+    "storecd": "11614"
+  },
+  {
+    "StoreName": "광주상무",
+    "sido": "광주",
+    "sigungu": "서구",
+    "storecd": "11664"
+  },
+  {
+    "StoreName": "광주선운",
+    "sido": "광주",
+    "sigungu": "광산구",
+    "storecd": "12590"
+  },
+  {
+    "StoreName": "광주소촌",
+    "sido": "광주",
+    "sigungu": "광산구",
+    "storecd": "13134"
+  },
+  {
+    "StoreName": "광주송정",
+    "sido": "광주",
+    "sigungu": "광산구",
+    "storecd": "11639"
+  },
+  {
+    "StoreName": "광주수완",
+    "sido": "광주",
+    "sigungu": "광산구",
+    "storecd": "11984"
+  },
+  {
+    "StoreName": "광주신용",
+    "sido": "광주",
+    "sigungu": "북구",
+    "storecd": "12485"
+  },
+  {
+    "StoreName": "광주신창",
+    "sido": "광주",
+    "sigungu": "광산구",
+    "storecd": "11648"
+  },
+  {
+    "StoreName": "광주양산",
+    "sido": "광주",
+    "sigungu": "북구",
+    "storecd": "12004"
+  },
+  {
+    "StoreName": "광주염주",
+    "sido": "광주",
+    "sigungu": "서구",
+    "storecd": "11615"
+  },
+  {
+    "StoreName": "광주오치",
+    "sido": "광주",
+    "sigungu": "북구",
+    "storecd": "11626"
+  },
+  {
+    "StoreName": "광주오포",
+    "sido": "경기",
+    "sigungu": "광주시",
+    "storecd": "12539"
+  },
+  {
+    "StoreName": "광주용봉",
+    "sido": "광주",
+    "sigungu": "북구",
+    "storecd": "11629"
+  },
+  {
+    "StoreName": "광주운남",
+    "sido": "광주",
+    "sigungu": "광산구",
+    "storecd": "11622"
+  },
+  {
+    "StoreName": "광주운리",
+    "sido": "광주",
+    "sigungu": "서구",
+    "storecd": "12958"
+  },
+  {
+    "StoreName": "광주운암DI",
+    "sido": "광주",
+    "sigungu": "북구",
+    "storecd": "12273"
+  },
+  {
+    "StoreName": "광주운천",
+    "sido": "광주",
+    "sigungu": "서구",
+    "storecd": "12965"
+  },
+  {
+    "StoreName": "광주일곡",
+    "sido": "광주",
+    "sigungu": "북구",
+    "storecd": "11618"
+  },
+  {
+    "StoreName": "광주임동",
+    "sido": "광주",
+    "sigungu": "북구",
+    "storecd": "13161"
+  },
+  {
+    "StoreName": "광주장덕",
+    "sido": "광주",
+    "sigungu": "광산구",
+    "storecd": "13146"
+  },
+  {
+    "StoreName": "광주주월",
+    "sido": "광주",
+    "sigungu": "남구",
+    "storecd": "13012"
+  },
+  {
+    "StoreName": "광주진월",
+    "sido": "광주",
+    "sigungu": "남구",
+    "storecd": "11632"
+  },
+  {
+    "StoreName": "광주첨단",
+    "sido": "광주",
+    "sigungu": "광산구",
+    "storecd": "12920"
+  },
+  {
+    "StoreName": "광주충장",
+    "sido": "광주",
+    "sigungu": "동구",
+    "storecd": "11612"
+  },
+  {
+    "StoreName": "광주태전",
+    "sido": "경기",
+    "sigungu": "광주시",
+    "storecd": "12461"
+  },
+  {
+    "StoreName": "광주퇴촌",
+    "sido": "경기",
+    "sigungu": "광주시",
+    "storecd": "12889"
+  },
+  {
+    "StoreName": "광주풍암",
+    "sido": "광주",
+    "sigungu": "서구",
+    "storecd": "11849"
+  },
+  {
+    "StoreName": "광주하남",
+    "sido": "광주",
+    "sigungu": "광산구",
+    "storecd": "11631"
+  },
+  {
+    "StoreName": "광주하남2지구",
+    "sido": "광주",
+    "sigungu": "광산구",
+    "storecd": "12799"
+  },
+  {
+    "StoreName": "광주학동",
+    "sido": "광주",
+    "sigungu": "동구",
+    "storecd": "11672"
+  },
+  {
+    "StoreName": "광주효천",
+    "sido": "광주",
+    "sigungu": "남구",
+    "storecd": "12990"
+  },
+  {
+    "StoreName": "광혜원",
+    "sido": "충북",
+    "sigungu": "진천군",
+    "storecd": "12101"
+  },
+  {
+    "StoreName": "괴산",
+    "sido": "충북",
+    "sigungu": "괴산군",
+    "storecd": "12170"
+  },
+  {
+    "StoreName": "구로디지털역",
+    "sido": "서울",
+    "sigungu": "관악구",
+    "storecd": "11007"
+  },
+  {
+    "StoreName": "구로시장",
+    "sido": "서울",
+    "sigungu": "구로구",
+    "storecd": "11010"
+  },
+  {
+    "StoreName": "구로IT",
+    "sido": "서울",
+    "sigungu": "구로구",
+    "storecd": "12203"
+  },
+  {
+    "StoreName": "구리갈매",
+    "sido": "경기",
+    "sigungu": "구리시",
+    "storecd": "12840"
+  },
+  {
+    "StoreName": "구리돌다리",
+    "sido": "경기",
+    "sigungu": "구리시",
+    "storecd": "12065"
+  },
+  {
+    "StoreName": "구리인창",
+    "sido": "경기",
+    "sigungu": "구리시",
+    "storecd": "12067"
+  },
+  {
+    "StoreName": "구리토평",
+    "sido": "경기",
+    "sigungu": "구리시",
+    "storecd": "12015"
+  },
+  {
+    "StoreName": "구미",
+    "sido": "경북",
+    "sigungu": "구미시",
+    "storecd": "11680"
+  },
+  {
+    "StoreName": "구미공단",
+    "sido": "경북",
+    "sigungu": "구미시",
+    "storecd": "12498"
+  },
+  {
+    "StoreName": "구미도량",
+    "sido": "경북",
+    "sigungu": "구미시",
+    "storecd": "11788"
+  },
+  {
+    "StoreName": "구미동아",
+    "sido": "경북",
+    "sigungu": "구미시",
+    "storecd": "11745"
+  },
+  {
+    "StoreName": "구미문성",
+    "sido": "경북",
+    "sigungu": "구미시",
+    "storecd": "12638"
+  },
+  {
+    "StoreName": "구미봉곡",
+    "sido": "경북",
+    "sigungu": "구미시",
+    "storecd": "13292"
+  },
+  {
+    "StoreName": "구미산동",
+    "sido": "경북",
+    "sigungu": "구미시",
+    "storecd": "12911"
+  },
+  {
+    "StoreName": "구미상모",
+    "sido": "경북",
+    "sigungu": "구미시",
+    "storecd": "11818"
+  },
+  {
+    "StoreName": "구미선산",
+    "sido": "경북",
+    "sigungu": "구미시",
+    "storecd": "12999"
+  },
+  {
+    "StoreName": "구미신평D/T",
+    "sido": "경북",
+    "sigungu": "구미시",
+    "storecd": "12824"
+  },
+  {
+    "StoreName": "구미양포",
+    "sido": "경북",
+    "sigungu": "구미시",
+    "storecd": "11826"
+  },
+  {
+    "StoreName": "구미오태D/T",
+    "sido": "경북",
+    "sigungu": "구미시",
+    "storecd": "11763"
+  },
+  {
+    "StoreName": "구미원평",
+    "sido": "경북",
+    "sigungu": "구미시",
+    "storecd": "11789"
+  },
+  {
+    "StoreName": "구미인동",
+    "sido": "경북",
+    "sigungu": "구미시",
+    "storecd": "11710"
+  },
+  {
+    "StoreName": "구미진평",
+    "sido": "경북",
+    "sigungu": "구미시",
+    "storecd": "11786"
+  },
+  {
+    "StoreName": "구미형곡",
+    "sido": "경북",
+    "sigungu": "구미시",
+    "storecd": "11706"
+  },
+  {
+    "StoreName": "구산역",
+    "sido": "서울",
+    "sigungu": "은평구",
+    "storecd": "12975"
+  },
+  {
+    "StoreName": "구서",
+    "sido": "부산",
+    "sigungu": "금정구",
+    "storecd": "11211"
+  },
+  {
+    "StoreName": "구월아시아드",
+    "sido": "인천",
+    "sigungu": "남동구",
+    "storecd": "12650"
+  },
+  {
+    "StoreName": "구의역",
+    "sido": "서울",
+    "sigungu": "광진구",
+    "storecd": "12366"
+  },
+  {
+    "StoreName": "구파발역",
+    "sido": "서울",
+    "sigungu": "은평구",
+    "storecd": "12087"
+  },
+  {
+    "StoreName": "구포",
+    "sido": "부산",
+    "sigungu": "북구",
+    "storecd": "11215"
+  },
+  {
+    "StoreName": "군산나운",
+    "sido": "전북",
+    "sigungu": "군산시",
+    "storecd": "11624"
+  },
+  {
+    "StoreName": "군산대명",
+    "sido": "전북",
+    "sigungu": "군산시",
+    "storecd": "13194"
+  },
+  {
+    "StoreName": "군산대학",
+    "sido": "전북",
+    "sigungu": "군산시",
+    "storecd": "11637"
+  },
+  {
+    "StoreName": "군산산북",
+    "sido": "전북",
+    "sigungu": "군산시",
+    "storecd": "11994"
+  },
+  {
+    "StoreName": "군산수송",
+    "sido": "전북",
+    "sigungu": "군산시",
+    "storecd": "12074"
+  },
+  {
+    "StoreName": "군산조촌D/T",
+    "sido": "전북",
+    "sigungu": "군산시",
+    "storecd": "12318"
+  },
+  {
+    "StoreName": "군산지곡",
+    "sido": "전북특별자치도",
+    "sigungu": "군산시",
+    "storecd": "13294"
+  },
+  {
+    "StoreName": "군포당동",
+    "sido": "경기",
+    "sigungu": "군포시",
+    "storecd": "11356"
+  },
+  {
+    "StoreName": "군포송정지구",
+    "sido": "경기",
+    "sigungu": "군포시",
+    "storecd": "12957"
+  },
+  {
+    "StoreName": "궁전라벤더",
+    "sido": "대구",
+    "sigungu": "동구",
+    "storecd": "11752"
+  },
+  {
+    "StoreName": "금곡",
+    "sido": "경기",
+    "sigungu": "남양주시",
+    "storecd": "12482"
+  },
+  {
+    "StoreName": "금산",
+    "sido": "충남",
+    "sigungu": "금산군",
+    "storecd": "11518"
+  },
+  {
+    "StoreName": "금왕",
+    "sido": "충북",
+    "sigungu": "음성군",
+    "storecd": "11547"
+  },
+  {
+    "StoreName": "금정역",
+    "sido": "경기",
+    "sigungu": "군포시",
+    "storecd": "12863"
+  },
+  {
+    "StoreName": "금촌",
+    "sido": "경기",
+    "sigungu": "파주시",
+    "storecd": "11262"
+  },
+  {
+    "StoreName": "금촌로터리",
+    "sido": "경기",
+    "sigungu": "파주시",
+    "storecd": "11330"
+  },
+  {
+    "StoreName": "금호",
+    "sido": "서울",
+    "sigungu": "성동구",
+    "storecd": "11127"
+  },
+  {
+    "StoreName": "기장일광",
+    "sido": "부산",
+    "sigungu": "기장군",
+    "storecd": "13125"
+  },
+  {
+    "StoreName": "길동",
+    "sido": "서울",
+    "sigungu": "강동구",
+    "storecd": "11005"
+  },
+  {
+    "StoreName": "길음뉴타운점",
+    "sido": "서울",
+    "sigungu": "성북구",
+    "storecd": "12020"
+  },
+  {
+    "StoreName": "김제",
+    "sido": "전북",
+    "sigungu": "김제시",
+    "storecd": "11610"
+  },
+  {
+    "StoreName": "김천",
+    "sido": "경상북도",
+    "sigungu": "김천시",
+    "storecd": "13111"
+  },
+  {
+    "StoreName": "김천혁신도시",
+    "sido": "경북",
+    "sigungu": "김천시",
+    "storecd": "12668"
+  },
+  {
+    "StoreName": "김천EXP",
+    "sido": "경북",
+    "sigungu": "김천시",
+    "storecd": "11797"
+  },
+  {
+    "StoreName": "김포고촌",
+    "sido": "경기",
+    "sigungu": "김포시",
+    "storecd": "12995"
+  },
+  {
+    "StoreName": "김포구래",
+    "sido": "경기",
+    "sigungu": "김포시",
+    "storecd": "12465"
+  },
+  {
+    "StoreName": "김포국제공항국내선청사4층",
+    "sido": "서울",
+    "sigungu": "강서구",
+    "storecd": "12854"
+  },
+  {
+    "StoreName": "김포마산",
+    "sido": "경기",
+    "sigungu": "김포시",
+    "storecd": "13051"
+  },
+  {
+    "StoreName": "김포사우",
+    "sido": "경기",
+    "sigungu": "김포시",
+    "storecd": "12352"
+  },
+  {
+    "StoreName": "김포양곡",
+    "sido": "경기",
+    "sigungu": "김포시",
+    "storecd": "12157"
+  },
+  {
+    "StoreName": "김포운양",
+    "sido": "경기",
+    "sigungu": "김포시",
+    "storecd": "12455"
+  },
+  {
+    "StoreName": "김포장기",
+    "sido": "경기",
+    "sigungu": "김포시",
+    "storecd": "11444"
+  },
+  {
+    "StoreName": "김포통진",
+    "sido": "경기",
+    "sigungu": "김포시",
+    "storecd": "12077"
+  },
+  {
+    "StoreName": "김포풍무",
+    "sido": "경기",
+    "sigungu": "김포시",
+    "storecd": "13019"
+  },
+  {
+    "StoreName": "김해공항국제선",
+    "sido": "부산",
+    "sigungu": "강서구",
+    "storecd": "13153"
+  },
+  {
+    "StoreName": "김해내외D/I",
+    "sido": "경남",
+    "sigungu": "김해시",
+    "storecd": "12431"
+  },
+  {
+    "StoreName": "김해부원",
+    "sido": "경남",
+    "sigungu": "김해시",
+    "storecd": "11695"
+  },
+  {
+    "StoreName": "김해북부",
+    "sido": "경남",
+    "sigungu": "김해시",
+    "storecd": "11793"
+  },
+  {
+    "StoreName": "김해어방",
+    "sido": "경남",
+    "sigungu": "김해시",
+    "storecd": "11717"
+  },
+  {
+    "StoreName": "김해율하",
+    "sido": "경남",
+    "sigungu": "김해시",
+    "storecd": "11839"
+  },
+  {
+    "StoreName": "김해율하2지구",
+    "sido": "경남",
+    "sigungu": "김해시",
+    "storecd": "13302"
+  },
+  {
+    "StoreName": "김해장유",
+    "sido": "경남",
+    "sigungu": "김해시",
+    "storecd": "12924"
+  },
+  {
+    "StoreName": "김해주촌",
+    "sido": "경남",
+    "sigungu": "김해시",
+    "storecd": "13280"
+  },
+  {
+    "StoreName": "김해진영",
+    "sido": "경남",
+    "sigungu": "김해시",
+    "storecd": "11765"
+  },
+  {
+    "StoreName": "까치산역",
+    "sido": "서울",
+    "sigungu": "강서구",
+    "storecd": "11147"
+  },
+  {
+    "StoreName": "나주",
+    "sido": "전남",
+    "sigungu": "나주시",
+    "storecd": "11617"
+  },
+  {
+    "StoreName": "나주혁신",
+    "sido": "전남",
+    "sigungu": "나주시금천면",
+    "storecd": "12554"
+  },
+  {
+    "StoreName": "남부터미널",
+    "sido": "서울",
+    "sigungu": "서초구",
+    "storecd": "11150"
+  },
+  {
+    "StoreName": "남성역",
+    "sido": "서울",
+    "sigungu": "동작구",
+    "storecd": "12701"
+  },
+  {
+    "StoreName": "남악",
+    "sido": "전남",
+    "sigungu": "무안군",
+    "storecd": "11850"
+  },
+  {
+    "StoreName": "남양주덕소",
+    "sido": "경기",
+    "sigungu": "남양주시",
+    "storecd": "13026"
+  },
+  {
+    "StoreName": "남양주진접",
+    "sido": "경기",
+    "sigungu": "남양주시",
+    "storecd": "13283"
+  },
+  {
+    "StoreName": "남양주청학",
+    "sido": "경기",
+    "sigungu": "남양주시",
+    "storecd": "11339"
+  },
+  {
+    "StoreName": "남양주화도D/T",
+    "sido": "경기",
+    "sigungu": "남양주시",
+    "storecd": "12971"
+  },
+  {
+    "StoreName": "남원",
+    "sido": "전북",
+    "sigungu": "남원시",
+    "storecd": "11607"
+  },
+  {
+    "StoreName": "남원도통",
+    "sido": "전북",
+    "sigungu": "남원시",
+    "storecd": "12206"
+  },
+  {
+    "StoreName": "남해",
+    "sido": "경남",
+    "sigungu": "남해군",
+    "storecd": "11727"
+  },
+  {
+    "StoreName": "노량진",
+    "sido": "서울",
+    "sigungu": "동작구",
+    "storecd": "11035"
+  },
+  {
+    "StoreName": "노원역",
+    "sido": "서울",
+    "sigungu": "노원구",
+    "storecd": "11129"
+  },
+  {
+    "StoreName": "녹번",
+    "sido": "서울",
+    "sigungu": "은평구",
+    "storecd": "12379"
+  },
+  {
+    "StoreName": "논산",
+    "sido": "충남",
+    "sigungu": "논산시",
+    "storecd": "11505"
+  },
+  {
+    "StoreName": "논산내동",
+    "sido": "충남",
+    "sigungu": "논산시",
+    "storecd": "13022"
+  },
+  {
+    "StoreName": "논산연무",
+    "sido": "충남",
+    "sigungu": "논산시연무읍",
+    "storecd": "12471"
+  },
+  {
+    "StoreName": "능평삼거리",
+    "sido": "경기",
+    "sigungu": "광주시",
+    "storecd": "13058"
+  },
+  {
+    "StoreName": "다산",
+    "sido": "경기",
+    "sigungu": "남양주시",
+    "storecd": "11412"
+  },
+  {
+    "StoreName": "다산진건",
+    "sido": "경기",
+    "sigungu": "남양주시",
+    "storecd": "12915"
+  },
+  {
+    "StoreName": "단구롯데시네마",
+    "sido": "강원",
+    "sigungu": "원주시",
+    "storecd": "13089"
+  },
+  {
+    "StoreName": "단양",
+    "sido": "충북",
+    "sigungu": "단양군",
+    "storecd": "12001"
+  },
+  {
+    "StoreName": "담양D/I",
+    "sido": "전남",
+    "sigungu": "담양군",
+    "storecd": "12402"
+  },
+  {
+    "StoreName": "답십리",
+    "sido": "서울",
+    "sigungu": "성동구",
+    "storecd": "12334"
+  },
+  {
+    "StoreName": "당진",
+    "sido": "충남",
+    "sigungu": "당진시",
+    "storecd": "12442"
+  },
+  {
+    "StoreName": "당진기지시",
+    "sido": "충남",
+    "sigungu": "당진시",
+    "storecd": "12844"
+  },
+  {
+    "StoreName": "당진송산",
+    "sido": "충남",
+    "sigungu": "당진시",
+    "storecd": "13147"
+  },
+  {
+    "StoreName": "당진신평",
+    "sido": "충남",
+    "sigungu": "당진시",
+    "storecd": "12599"
+  },
+  {
+    "StoreName": "당진합덕",
+    "sido": "충남",
+    "sigungu": "당진시",
+    "storecd": "12908"
+  },
+  {
+    "StoreName": "대구가창D/T",
+    "sido": "대구",
+    "sigungu": "달성군",
+    "storecd": "12715"
+  },
+  {
+    "StoreName": "대구감삼",
+    "sido": "대구",
+    "sigungu": "서구",
+    "storecd": "11688"
+  },
+  {
+    "StoreName": "대구계명",
+    "sido": "대구",
+    "sigungu": "남구",
+    "storecd": "11711"
+  },
+  {
+    "StoreName": "대구고산",
+    "sido": "대구",
+    "sigungu": "수성구",
+    "storecd": "13073"
+  },
+  {
+    "StoreName": "대구구지",
+    "sido": "대구",
+    "sigungu": "달성군",
+    "storecd": "13137"
+  },
+  {
+    "StoreName": "대구금호사수",
+    "sido": "대구",
+    "sigungu": "북구",
+    "storecd": "12740"
+  },
+  {
+    "StoreName": "대구내당",
+    "sido": "대구",
+    "sigungu": "달서구",
+    "storecd": "13348"
+  },
+  {
+    "StoreName": "대구논공",
+    "sido": "대구",
+    "sigungu": "달성군",
+    "storecd": "11768"
+  },
+  {
+    "StoreName": "대구다사",
+    "sido": "대구",
+    "sigungu": "달성군",
+    "storecd": "11771"
+  },
+  {
+    "StoreName": "대구대곡",
+    "sido": "대구",
+    "sigungu": "달서구",
+    "storecd": "11715"
+  },
+  {
+    "StoreName": "대구대곡역",
+    "sido": "대구",
+    "sigungu": "달성군",
+    "storecd": "12308"
+  },
+  {
+    "StoreName": "대구도남",
+    "sido": "대구광역시",
+    "sigungu": "북구",
+    "storecd": "13214"
+  },
+  {
+    "StoreName": "대구동서변",
+    "sido": "대구",
+    "sigungu": "북구",
+    "storecd": "11787"
+  },
+  {
+    "StoreName": "대구동성로",
+    "sido": "대구",
+    "sigungu": "중구",
+    "storecd": "11967"
+  },
+  {
+    "StoreName": "대구동호D/T",
+    "sido": "대구",
+    "sigungu": "동구",
+    "storecd": "12128"
+  },
+  {
+    "StoreName": "대구만촌",
+    "sido": "대구",
+    "sigungu": "수성구",
+    "storecd": "11693"
+  },
+  {
+    "StoreName": "대구방촌",
+    "sido": "대구",
+    "sigungu": "동구",
+    "storecd": "11773"
+  },
+  {
+    "StoreName": "대구복현",
+    "sido": "대구",
+    "sigungu": "북구",
+    "storecd": "11701"
+  },
+  {
+    "StoreName": "대구사월역",
+    "sido": "대구",
+    "sigungu": "수성구",
+    "storecd": "11835"
+  },
+  {
+    "StoreName": "대구삼덕",
+    "sido": "대구",
+    "sigungu": "중구",
+    "storecd": "12949"
+  },
+  {
+    "StoreName": "대구상인",
+    "sido": "대구",
+    "sigungu": "달서구",
+    "storecd": "11687"
+  },
+  {
+    "StoreName": "대구서부정류장",
+    "sido": "대구",
+    "sigungu": "달서구",
+    "storecd": "11838"
+  },
+  {
+    "StoreName": "대구서성네거리",
+    "sido": "대구",
+    "sigungu": "중구",
+    "storecd": "12934"
+  },
+  {
+    "StoreName": "대구서재",
+    "sido": "대구",
+    "sigungu": "달성군",
+    "storecd": "11837"
+  },
+  {
+    "StoreName": "대구성당D/T",
+    "sido": "대구",
+    "sigungu": "달서구",
+    "storecd": "13054"
+  },
+  {
+    "StoreName": "대구세천",
+    "sido": "대구",
+    "sigungu": "달성군",
+    "storecd": "12718"
+  },
+  {
+    "StoreName": "대구수성구청",
+    "sido": "대구",
+    "sigungu": "수성구",
+    "storecd": "11840"
+  },
+  {
+    "StoreName": "대구스타디움",
+    "sido": "대구",
+    "sigungu": "수성구",
+    "storecd": "12111"
+  },
+  {
+    "StoreName": "대구스파밸리",
+    "sido": "대구",
+    "sigungu": "달성군",
+    "storecd": "11832"
+  },
+  {
+    "StoreName": "대구신당",
+    "sido": "대구",
+    "sigungu": "달서구",
+    "storecd": "11738"
+  },
+  {
+    "StoreName": "대구신암",
+    "sido": "대구",
+    "sigungu": "동구",
+    "storecd": "11689"
+  },
+  {
+    "StoreName": "대구신월성",
+    "sido": "대구",
+    "sigungu": "달서구",
+    "storecd": "13298"
+  },
+  {
+    "StoreName": "대구아양교",
+    "sido": "대구",
+    "sigungu": "동구",
+    "storecd": "11831"
+  },
+  {
+    "StoreName": "대구안지랑",
+    "sido": "대구",
+    "sigungu": "남구",
+    "storecd": "11767"
+  },
+  {
+    "StoreName": "대구역사",
+    "sido": "대구",
+    "sigungu": "북구",
+    "storecd": "12564"
+  },
+  {
+    "StoreName": "대구연경",
+    "sido": "대구",
+    "sigungu": "동구",
+    "storecd": "13001"
+  },
+  {
+    "StoreName": "대구옥포",
+    "sido": "대구",
+    "sigungu": "달성군",
+    "storecd": "12954"
+  },
+  {
+    "StoreName": "대구용산",
+    "sido": "대구",
+    "sigungu": "달서구",
+    "storecd": "11725"
+  },
+  {
+    "StoreName": "대구월드컵대로",
+    "sido": "대구",
+    "sigungu": "수성구",
+    "storecd": "12547"
+  },
+  {
+    "StoreName": "대구율하중앙",
+    "sido": "대구",
+    "sigungu": "동구",
+    "storecd": "12659"
+  },
+  {
+    "StoreName": "대구이시아폴리스",
+    "sido": "대구",
+    "sigungu": "동구",
+    "storecd": "13274"
+  },
+  {
+    "StoreName": "대구장기",
+    "sido": "대구",
+    "sigungu": "달서구",
+    "storecd": "13014"
+  },
+  {
+    "StoreName": "대구중동",
+    "sido": "대구",
+    "sigungu": "수성구",
+    "storecd": "13190"
+  },
+  {
+    "StoreName": "대구지산",
+    "sido": "대구",
+    "sigungu": "수성구",
+    "storecd": "11700"
+  },
+  {
+    "StoreName": "대구청구네거리",
+    "sido": "대구",
+    "sigungu": "수성구",
+    "storecd": "12433"
+  },
+  {
+    "StoreName": "대구칠곡구암",
+    "sido": "대구",
+    "sigungu": "북구",
+    "storecd": "11782"
+  },
+  {
+    "StoreName": "대구칠곡매천",
+    "sido": "대구",
+    "sigungu": "북구",
+    "storecd": "11799"
+  },
+  {
+    "StoreName": "대구칠곡운암",
+    "sido": "대구",
+    "sigungu": "북구",
+    "storecd": "13278"
+  },
+  {
+    "StoreName": "대구침산",
+    "sido": "대구",
+    "sigungu": "북구",
+    "storecd": "13006"
+  },
+  {
+    "StoreName": "대구퀸스로드",
+    "sido": "대구",
+    "sigungu": "서구",
+    "storecd": "11780"
+  },
+  {
+    "StoreName": "대구평리",
+    "sido": "대구",
+    "sigungu": "서구",
+    "storecd": "11731"
+  },
+  {
+    "StoreName": "대구화원",
+    "sido": "대구",
+    "sigungu": "달성군",
+    "storecd": "11734"
+  },
+  {
+    "StoreName": "대구황금네거리",
+    "sido": "대구",
+    "sigungu": "수성구",
+    "storecd": "12933"
+  },
+  {
+    "StoreName": "대구효목",
+    "sido": "대구",
+    "sigungu": "수성구",
+    "storecd": "11699"
+  },
+  {
+    "StoreName": "대림역",
+    "sido": "서울",
+    "sigungu": "영등포구",
+    "storecd": "11172"
+  },
+  {
+    "StoreName": "대방역",
+    "sido": "서울",
+    "sigungu": "영등포구",
+    "storecd": "12171"
+  },
+  {
+    "StoreName": "대산",
+    "sido": "충남",
+    "sigungu": "서산시",
+    "storecd": "11570"
+  },
+  {
+    "StoreName": "대소",
+    "sido": "충북",
+    "sigungu": "음성군",
+    "storecd": "12400"
+  },
+  {
+    "StoreName": "대전가수원",
+    "sido": "대전",
+    "sigungu": "서구",
+    "storecd": "12321"
+  },
+  {
+    "StoreName": "대전가양D/T",
+    "sido": "대전",
+    "sigungu": "대덕구",
+    "storecd": "12292"
+  },
+  {
+    "StoreName": "대전가오",
+    "sido": "대전",
+    "sigungu": "동구",
+    "storecd": "11580"
+  },
+  {
+    "StoreName": "대전가장",
+    "sido": "대전",
+    "sigungu": "서구",
+    "storecd": "11549"
+  },
+  {
+    "StoreName": "대전갈마",
+    "sido": "대전",
+    "sigungu": "서구",
+    "storecd": "11527"
+  },
+  {
+    "StoreName": "대전관저",
+    "sido": "대전광역시",
+    "sigungu": "서구",
+    "storecd": "13191"
+  },
+  {
+    "StoreName": "대전관평",
+    "sido": "대전",
+    "sigungu": "유성구",
+    "storecd": "12392"
+  },
+  {
+    "StoreName": "대전노은",
+    "sido": "대전",
+    "sigungu": "유성구",
+    "storecd": "11532"
+  },
+  {
+    "StoreName": "대전대동",
+    "sido": "대전",
+    "sigungu": "동구",
+    "storecd": "12343"
+  },
+  {
+    "StoreName": "대전대사",
+    "sido": "대전",
+    "sigungu": "중구",
+    "storecd": "12323"
+  },
+  {
+    "StoreName": "대전도마",
+    "sido": "대전",
+    "sigungu": "서구",
+    "storecd": "11509"
+  },
+  {
+    "StoreName": "대전도안",
+    "sido": "대전",
+    "sigungu": "유성구",
+    "storecd": "13081"
+  },
+  {
+    "StoreName": "대전동부",
+    "sido": "대전",
+    "sigungu": "동구",
+    "storecd": "11497"
+  },
+  {
+    "StoreName": "대전목원대",
+    "sido": "대전",
+    "sigungu": "서구",
+    "storecd": "13035"
+  },
+  {
+    "StoreName": "대전반석",
+    "sido": "대전",
+    "sigungu": "유성구",
+    "storecd": "11569"
+  },
+  {
+    "StoreName": "대전배재",
+    "sido": "대전",
+    "sigungu": "서구",
+    "storecd": "11864"
+  },
+  {
+    "StoreName": "대전버드내",
+    "sido": "대전",
+    "sigungu": "중구",
+    "storecd": "11496"
+  },
+  {
+    "StoreName": "대전복수",
+    "sido": "대전",
+    "sigungu": "서구",
+    "storecd": "12288"
+  },
+  {
+    "StoreName": "대전비래",
+    "sido": "대전",
+    "sigungu": "대덕구",
+    "storecd": "11552"
+  },
+  {
+    "StoreName": "대전산내낭월",
+    "sido": "대전",
+    "sigungu": "동구",
+    "storecd": "13107"
+  },
+  {
+    "StoreName": "대전산성",
+    "sido": "대전",
+    "sigungu": "중구",
+    "storecd": "12761"
+  },
+  {
+    "StoreName": "대전성남",
+    "sido": "대전",
+    "sigungu": "동구",
+    "storecd": "13284"
+  },
+  {
+    "StoreName": "대전송강",
+    "sido": "대전",
+    "sigungu": "유성구",
+    "storecd": "11535"
+  },
+  {
+    "StoreName": "대전송촌",
+    "sido": "대전",
+    "sigungu": "대덕구",
+    "storecd": "11539"
+  },
+  {
+    "StoreName": "대전시청",
+    "sido": "대전",
+    "sigungu": "서구",
+    "storecd": "12008"
+  },
+  {
+    "StoreName": "대전신성",
+    "sido": "대전시",
+    "sigungu": "유성구",
+    "storecd": "11550"
+  },
+  {
+    "StoreName": "대전역사",
+    "sido": "대전",
+    "sigungu": "동구",
+    "storecd": "11560"
+  },
+  {
+    "StoreName": "대전오정",
+    "sido": "대전",
+    "sigungu": "대덕구",
+    "storecd": "13078"
+  },
+  {
+    "StoreName": "대전용산",
+    "sido": "대전",
+    "sigungu": "유성구",
+    "storecd": "13203"
+  },
+  {
+    "StoreName": "대전용운",
+    "sido": "대전",
+    "sigungu": "동구",
+    "storecd": "12533"
+  },
+  {
+    "StoreName": "대전월평",
+    "sido": "대전",
+    "sigungu": "서구",
+    "storecd": "12572"
+  },
+  {
+    "StoreName": "대전유성",
+    "sido": "대전",
+    "sigungu": "유성구",
+    "storecd": "12210"
+  },
+  {
+    "StoreName": "대전전민",
+    "sido": "대전",
+    "sigungu": "유성구",
+    "storecd": "11578"
+  },
+  {
+    "StoreName": "대전정림",
+    "sido": "대전",
+    "sigungu": "서구",
+    "storecd": "12204"
+  },
+  {
+    "StoreName": "대전죽동",
+    "sido": "대전",
+    "sigungu": "유성구",
+    "storecd": "12777"
+  },
+  {
+    "StoreName": "대전중동",
+    "sido": "대전시",
+    "sigungu": "동구",
+    "storecd": "11508"
+  },
+  {
+    "StoreName": "대전중앙",
+    "sido": "대전",
+    "sigungu": "중구",
+    "storecd": "11490"
+  },
+  {
+    "StoreName": "대전중촌",
+    "sido": "대전",
+    "sigungu": "중구",
+    "storecd": "11544"
+  },
+  {
+    "StoreName": "대전타임월드",
+    "sido": "대전",
+    "sigungu": "서구",
+    "storecd": "11513"
+  },
+  {
+    "StoreName": "대전터미널",
+    "sido": "대전",
+    "sigungu": "동구",
+    "storecd": "12375"
+  },
+  {
+    "StoreName": "대전한밭대",
+    "sido": "대전",
+    "sigungu": "유성구",
+    "storecd": "12454"
+  },
+  {
+    "StoreName": "대전효동",
+    "sido": "대전",
+    "sigungu": "동구",
+    "storecd": "13127"
+  },
+  {
+    "StoreName": "대천",
+    "sido": "충남",
+    "sigungu": "보령시",
+    "storecd": "11503"
+  },
+  {
+    "StoreName": "대천광장",
+    "sido": "충남",
+    "sigungu": "보령시",
+    "storecd": "11555"
+  },
+  {
+    "StoreName": "대흥역",
+    "sido": "서울",
+    "sigungu": "마포구",
+    "storecd": "12237"
+  },
+  {
+    "StoreName": "덕성여대",
+    "sido": "서울",
+    "sigungu": "강북구",
+    "storecd": "12411"
+  },
+  {
+    "StoreName": "독도테스트",
+    "sido": "경상북도",
+    "sigungu": "울릉군",
+    "storecd": "19999"
+  },
+  {
+    "StoreName": "독도테스트(오더)",
+    "sido": "경상북도",
+    "sigungu": "울릉군",
+    "storecd": "11009"
+  },
+  {
+    "StoreName": "독도테스트2",
+    "sido": "경상북도",
+    "sigungu": "울릉군",
+    "storecd": "19998"
+  },
+  {
+    "StoreName": "동대구",
+    "sido": "대구",
+    "sigungu": "동구",
+    "storecd": "11691"
+  },
+  {
+    "StoreName": "동대구역사",
+    "sido": "대구",
+    "sigungu": "동구",
+    "storecd": "13113"
+  },
+  {
+    "StoreName": "동대문광장",
+    "sido": "서울",
+    "sigungu": "종로구",
+    "storecd": "11187"
+  },
+  {
+    "StoreName": "동대문역사문화공원역",
+    "sido": "서울",
+    "sigungu": "중구",
+    "storecd": "11038"
+  },
+  {
+    "StoreName": "동두천",
+    "sido": "경기",
+    "sigungu": "동두천시",
+    "storecd": "11274"
+  },
+  {
+    "StoreName": "동래허심청",
+    "sido": "부산",
+    "sigungu": "동래구",
+    "storecd": "13313"
+  },
+  {
+    "StoreName": "동묘역",
+    "sido": "서울",
+    "sigungu": "종로구",
+    "storecd": "12216"
+  },
+  {
+    "StoreName": "동수원",
+    "sido": "경기",
+    "sigungu": "수원시",
+    "storecd": "11306"
+  },
+  {
+    "StoreName": "동암남부",
+    "sido": "인천",
+    "sigungu": "부평구",
+    "storecd": "11336"
+  },
+  {
+    "StoreName": "동인천역전",
+    "sido": "인천",
+    "sigungu": "중구",
+    "storecd": "11333"
+  },
+  {
+    "StoreName": "동탄산척",
+    "sido": "경기",
+    "sigungu": "화성시",
+    "storecd": "13000"
+  },
+  {
+    "StoreName": "동탄신리천",
+    "sido": "경기",
+    "sigungu": "화성시",
+    "storecd": "13159"
+  },
+  {
+    "StoreName": "동탄역사",
+    "sido": "경기",
+    "sigungu": "화성시",
+    "storecd": "12744"
+  },
+  {
+    "StoreName": "동탄주거단지",
+    "sido": "경기도",
+    "sigungu": "화성시",
+    "storecd": "12877"
+  },
+  {
+    "StoreName": "동탄커뮤니티",
+    "sido": "경기",
+    "sigungu": "화성시",
+    "storecd": "12664"
+  },
+  {
+    "StoreName": "동탄호수공원",
+    "sido": "경기",
+    "sigungu": "화성시",
+    "storecd": "12982"
+  },
+  {
+    "StoreName": "동탄CGV",
+    "sido": "경기",
+    "sigungu": "화성시",
+    "storecd": "12853"
+  },
+  {
+    "StoreName": "동해",
+    "sido": "강원",
+    "sigungu": "동해시",
+    "storecd": "11484"
+  },
+  {
+    "StoreName": "동해쇄운",
+    "sido": "강원",
+    "sigungu": "동해시",
+    "storecd": "12177"
+  },
+  {
+    "StoreName": "둔산선사",
+    "sido": "대전",
+    "sigungu": "서구",
+    "storecd": "11500"
+  },
+  {
+    "StoreName": "등촌역",
+    "sido": "서울",
+    "sigungu": "강서구",
+    "storecd": "13312"
+  },
+  {
+    "StoreName": "뚝섬유원지",
+    "sido": "서울",
+    "sigungu": "광진구",
+    "storecd": "12152"
+  },
+  {
+    "StoreName": "롯데김해워터파크",
+    "sido": "경남",
+    "sigungu": "김해시",
+    "storecd": "12427"
+  },
+  {
+    "StoreName": "롯데김해워터파크2호점",
+    "sido": "경남",
+    "sigungu": "김해시",
+    "storecd": "12589"
+  },
+  {
+    "StoreName": "롯데마인천삼산B1",
+    "sido": "인천",
+    "sigungu": "부평구",
+    "storecd": "11406"
+  },
+  {
+    "StoreName": "롯데마트고양",
+    "sido": "경기",
+    "sigungu": "고양시",
+    "storecd": "11438"
+  },
+  {
+    "StoreName": "롯데마트광주수완",
+    "sido": "광주",
+    "sigungu": "광산구",
+    "storecd": "11673"
+  },
+  {
+    "StoreName": "롯데마트김포한강신도시",
+    "sido": "경기",
+    "sigungu": "김포시",
+    "storecd": "12823"
+  },
+  {
+    "StoreName": "롯데마트당진",
+    "sido": "충남",
+    "sigungu": "당진시",
+    "storecd": "11594"
+  },
+  {
+    "StoreName": "롯데마트동래",
+    "sido": "부산",
+    "sigungu": "동래구",
+    "storecd": "12881"
+  },
+  {
+    "StoreName": "롯데마트마산양덕",
+    "sido": "경남",
+    "sigungu": "창원시",
+    "storecd": "12653"
+  },
+  {
+    "StoreName": "롯데마트맥스영등포",
+    "sido": "서울",
+    "sigungu": "영등포구",
+    "storecd": "13326"
+  },
+  {
+    "StoreName": "롯데마트부평",
+    "sido": "인천",
+    "sigungu": "부평구",
+    "storecd": "13059"
+  },
+  {
+    "StoreName": "롯데마트서대전",
+    "sido": "대전",
+    "sigungu": "유성구",
+    "storecd": "11563"
+  },
+  {
+    "StoreName": "롯데마트서산",
+    "sido": "충남",
+    "sigungu": "서산시",
+    "storecd": "11598"
+  },
+  {
+    "StoreName": "롯데마트서울양평",
+    "sido": "서울",
+    "sigungu": "영등포구",
+    "storecd": "13163"
+  },
+  {
+    "StoreName": "롯데마트송파",
+    "sido": "서울",
+    "sigungu": "송파구",
+    "storecd": "12141"
+  },
+  {
+    "StoreName": "롯데마트수원천천",
+    "sido": "경기",
+    "sigungu": "수원시",
+    "storecd": "12185"
+  },
+  {
+    "StoreName": "롯데마트시흥",
+    "sido": "경기",
+    "sigungu": "시흥시",
+    "storecd": "12234"
+  },
+  {
+    "StoreName": "롯데마트시흥배곧",
+    "sido": "경기",
+    "sigungu": "시흥시",
+    "storecd": "12797"
+  },
+  {
+    "StoreName": "롯데마트여천",
+    "sido": "전남",
+    "sigungu": "여수시",
+    "storecd": "12416"
+  },
+  {
+    "StoreName": "롯데마트오산",
+    "sido": "경기",
+    "sigungu": "오산시",
+    "storecd": "11364"
+  },
+  {
+    "StoreName": "롯데마트울산",
+    "sido": "울산",
+    "sigungu": "남구",
+    "storecd": "13336"
+  },
+  {
+    "StoreName": "롯데마트웅상",
+    "sido": "경남",
+    "sigungu": "양산시",
+    "storecd": "11801"
+  },
+  {
+    "StoreName": "롯데마트장유",
+    "sido": "경남",
+    "sigungu": "김해시",
+    "storecd": "11808"
+  },
+  {
+    "StoreName": "롯데마트전주",
+    "sido": "전북",
+    "sigungu": "전주시",
+    "storecd": "11665"
+  },
+  {
+    "StoreName": "롯데마트제천",
+    "sido": "충북",
+    "sigungu": "제천시",
+    "storecd": "12018"
+  },
+  {
+    "StoreName": "롯데마트천안성정",
+    "sido": "충남",
+    "sigungu": "천안시",
+    "storecd": "11568"
+  },
+  {
+    "StoreName": "롯데마트첨단",
+    "sido": "광주",
+    "sigungu": "광산구",
+    "storecd": "11640"
+  },
+  {
+    "StoreName": "롯데마트충주",
+    "sido": "충북",
+    "sigungu": "충주시",
+    "storecd": "13290"
+  },
+  {
+    "StoreName": "롯데마트통영",
+    "sido": "경남",
+    "sigungu": "통영시",
+    "storecd": "11833"
+  },
+  {
+    "StoreName": "롯데마트행당역",
+    "sido": "서울",
+    "sigungu": "성동구",
+    "storecd": "12182"
+  },
+  {
+    "StoreName": "롯데백잠실광장",
+    "sido": "서울",
+    "sigungu": "송파구",
+    "storecd": "12404"
+  },
+  {
+    "StoreName": "롯데속초리조트",
+    "sido": "강원",
+    "sigungu": "속초시",
+    "storecd": "12811"
+  },
+  {
+    "StoreName": "롯데아울렛고양터미널",
+    "sido": "경기",
+    "sigungu": "고양시",
+    "storecd": "12620"
+  },
+  {
+    "StoreName": "롯데아울렛광명",
+    "sido": "경기",
+    "sigungu": "광명시",
+    "storecd": "12553"
+  },
+  {
+    "StoreName": "롯데아울렛동부산1층",
+    "sido": "부산",
+    "sigungu": "기장군",
+    "storecd": "12555"
+  },
+  {
+    "StoreName": "롯데아울렛청주",
+    "sido": "충북",
+    "sigungu": "청주시",
+    "storecd": "12249"
+  },
+  {
+    "StoreName": "롯데월드부산",
+    "sido": "부산",
+    "sigungu": "기장군",
+    "storecd": "13064"
+  },
+  {
+    "StoreName": "롯데이천아울렛",
+    "sido": "경기",
+    "sigungu": "이천시",
+    "storecd": "12574"
+  },
+  {
+    "StoreName": "마곡역",
+    "sido": "서울",
+    "sigungu": "강서구",
+    "storecd": "12976"
+  },
+  {
+    "StoreName": "마산내서",
+    "sido": "경남",
+    "sigungu": "창원시",
+    "storecd": "13149"
+  },
+  {
+    "StoreName": "마산로봇랜드",
+    "sido": "경상남도",
+    "sigungu": "창원시",
+    "storecd": "12945"
+  },
+  {
+    "StoreName": "마산역",
+    "sido": "경남",
+    "sigungu": "창원시",
+    "storecd": "12342"
+  },
+  {
+    "StoreName": "마산중앙",
+    "sido": "경남",
+    "sigungu": "창원시",
+    "storecd": "13069"
+  },
+  {
+    "StoreName": "마산진동",
+    "sido": "경남",
+    "sigungu": "창원시",
+    "storecd": "12500"
+  },
+  {
+    "StoreName": "마산터미널",
+    "sido": "경남",
+    "sigungu": "창원시",
+    "storecd": "11111"
+  },
+  {
+    "StoreName": "마산호계",
+    "sido": "경남",
+    "sigungu": "창원시",
+    "storecd": "11781"
+  },
+  {
+    "StoreName": "마석",
+    "sido": "경기",
+    "sigungu": "남양주시화도읍",
+    "storecd": "11298"
+  },
+  {
+    "StoreName": "마천",
+    "sido": "서울",
+    "sigungu": "송파구",
+    "storecd": "11131"
+  },
+  {
+    "StoreName": "만안구청",
+    "sido": "경기",
+    "sigungu": "안양시",
+    "storecd": "12354"
+  },
+  {
+    "StoreName": "망우",
+    "sido": "서울",
+    "sigungu": "중랑구",
+    "storecd": "12136"
+  },
+  {
+    "StoreName": "망원",
+    "sido": "서울",
+    "sigungu": "마포구",
+    "storecd": "12502"
+  },
+  {
+    "StoreName": "망포역",
+    "sido": "경기",
+    "sigungu": "수원시",
+    "storecd": "12368"
+  },
+  {
+    "StoreName": "먹골역",
+    "sido": "서울",
+    "sigungu": "중랑구",
+    "storecd": "13308"
+  },
+  {
+    "StoreName": "메가마트언양",
+    "sido": "울산",
+    "sigungu": "울주군",
+    "storecd": "11982"
+  },
+  {
+    "StoreName": "면목중앙",
+    "sido": "서울",
+    "sigungu": "중랑구",
+    "storecd": "11013"
+  },
+  {
+    "StoreName": "명덕네거리",
+    "sido": "대구",
+    "sigungu": "중구",
+    "storecd": "12515"
+  },
+  {
+    "StoreName": "명지대학",
+    "sido": "서울",
+    "sigungu": "서대문구",
+    "storecd": "11156"
+  },
+  {
+    "StoreName": "모란역",
+    "sido": "경기",
+    "sigungu": "성남시",
+    "storecd": "13143"
+  },
+  {
+    "StoreName": "모슬포",
+    "sido": "제주",
+    "sigungu": "서귀포시",
+    "storecd": "12600"
+  },
+  {
+    "StoreName": "목감신도시",
+    "sido": "경기",
+    "sigungu": "시흥시",
+    "storecd": "12738"
+  },
+  {
+    "StoreName": "목동",
+    "sido": "서울",
+    "sigungu": "양천구",
+    "storecd": "12253"
+  },
+  {
+    "StoreName": "목동사거리",
+    "sido": "서울",
+    "sigungu": "양천구",
+    "storecd": "11135"
+  },
+  {
+    "StoreName": "목동킴스클럽",
+    "sido": "서울",
+    "sigungu": "양천구",
+    "storecd": "12830"
+  },
+  {
+    "StoreName": "목포",
+    "sido": "전남",
+    "sigungu": "목포시",
+    "storecd": "11675"
+  },
+  {
+    "StoreName": "목포대학",
+    "sido": "전남",
+    "sigungu": "무안군",
+    "storecd": "12193"
+  },
+  {
+    "StoreName": "목포북항",
+    "sido": "전남",
+    "sigungu": "목포시",
+    "storecd": "11674"
+  },
+  {
+    "StoreName": "목포상동",
+    "sido": "전남",
+    "sigungu": "목포시",
+    "storecd": "11094"
+  },
+  {
+    "StoreName": "목포석현",
+    "sido": "전남",
+    "sigungu": "목포시",
+    "storecd": "11992"
+  },
+  {
+    "StoreName": "목포용해",
+    "sido": "전남",
+    "sigungu": "목포시",
+    "storecd": "12163"
+  },
+  {
+    "StoreName": "목포하당",
+    "sido": "전남",
+    "sigungu": "목포시",
+    "storecd": "12248"
+  },
+  {
+    "StoreName": "몽촌토성역",
+    "sido": "서울",
+    "sigungu": "송파구",
+    "storecd": "13166"
+  },
+  {
+    "StoreName": "무안",
+    "sido": "전남",
+    "sigungu": "무안군",
+    "storecd": "13032"
+  },
+  {
+    "StoreName": "무안오룡",
+    "sido": "전남",
+    "sigungu": "무안군",
+    "storecd": "13324"
+  },
+  {
+    "StoreName": "무주",
+    "sido": "전북",
+    "sigungu": "무주군",
+    "storecd": "12148"
+  },
+  {
+    "StoreName": "문경새재",
+    "sido": "경북",
+    "sigungu": "문경시",
+    "storecd": "12338"
+  },
+  {
+    "StoreName": "문경시청",
+    "sido": "경북",
+    "sigungu": "문경시",
+    "storecd": "13038"
+  },
+  {
+    "StoreName": "문막",
+    "sido": "강원",
+    "sigungu": "원주시",
+    "storecd": "12109"
+  },
+  {
+    "StoreName": "문산",
+    "sido": "경기",
+    "sigungu": "파주시",
+    "storecd": "12006"
+  },
+  {
+    "StoreName": "문정로데오",
+    "sido": "서울",
+    "sigungu": "송파구",
+    "storecd": "12327"
+  },
+  {
+    "StoreName": "문현",
+    "sido": "부산",
+    "sigungu": "남구",
+    "storecd": "11210"
+  },
+  {
+    "StoreName": "미사역",
+    "sido": "경기",
+    "sigungu": "하남시",
+    "storecd": "12896"
+  },
+  {
+    "StoreName": "미아역",
+    "sido": "서울",
+    "sigungu": "강북구",
+    "storecd": "13297"
+  },
+  {
+    "StoreName": "밀양삼문",
+    "sido": "경남",
+    "sigungu": "밀양시",
+    "storecd": "12867"
+  },
+  {
+    "StoreName": "밀양하남",
+    "sido": "경남",
+    "sigungu": "밀양시",
+    "storecd": "12873"
+  },
+  {
+    "StoreName": "발산역",
+    "sido": "서울",
+    "sigungu": "강서구",
+    "storecd": "12103"
+  },
+  {
+    "StoreName": "방배역",
+    "sido": "서울",
+    "sigungu": "서초구",
+    "storecd": "12870"
+  },
+  {
+    "StoreName": "방이역",
+    "sido": "서울",
+    "sigungu": "송파구",
+    "storecd": "12428"
+  },
+  {
+    "StoreName": "방학",
+    "sido": "서울",
+    "sigungu": "도봉구",
+    "storecd": "12113"
+  },
+  {
+    "StoreName": "방화",
+    "sido": "서울",
+    "sigungu": "강서구",
+    "storecd": "12038"
+  },
+  {
+    "StoreName": "배곧신도시",
+    "sido": "경기",
+    "sigungu": "시흥시",
+    "storecd": "12778"
+  },
+  {
+    "StoreName": "번동",
+    "sido": "서울",
+    "sigungu": "강북구",
+    "storecd": "12303"
+  },
+  {
+    "StoreName": "벌교",
+    "sido": "전남",
+    "sigungu": "보성군",
+    "storecd": "12822"
+  },
+  {
+    "StoreName": "별내",
+    "sido": "경기",
+    "sigungu": "남양주시",
+    "storecd": "12207"
+  },
+  {
+    "StoreName": "별내신도시",
+    "sido": "경기",
+    "sigungu": "남양주시",
+    "storecd": "12221"
+  },
+  {
+    "StoreName": "병점역",
+    "sido": "경기",
+    "sigungu": "화성시",
+    "storecd": "13357"
+  },
+  {
+    "StoreName": "보라매타운",
+    "sido": "서울",
+    "sigungu": "관악구",
+    "storecd": "12839"
+  },
+  {
+    "StoreName": "보령동대",
+    "sido": "충남",
+    "sigungu": "보령시",
+    "storecd": "12640"
+  },
+  {
+    "StoreName": "보은",
+    "sido": "충북",
+    "sigungu": "보은군",
+    "storecd": "11504"
+  },
+  {
+    "StoreName": "봉일천",
+    "sido": "경기",
+    "sigungu": "파주시",
+    "storecd": "11352"
+  },
+  {
+    "StoreName": "봉천",
+    "sido": "서울",
+    "sigungu": "관악구",
+    "storecd": "11120"
+  },
+  {
+    "StoreName": "봉천역",
+    "sido": "서울",
+    "sigungu": "관악구",
+    "storecd": "12367"
+  },
+  {
+    "StoreName": "부산감천",
+    "sido": "부산",
+    "sigungu": "사하구",
+    "storecd": "12267"
+  },
+  {
+    "StoreName": "부산개금",
+    "sido": "부산광역시",
+    "sigungu": "부산진구",
+    "storecd": "13207"
+  },
+  {
+    "StoreName": "부산거제",
+    "sido": "부산",
+    "sigungu": "연제구",
+    "storecd": "12217"
+  },
+  {
+    "StoreName": "부산경성대",
+    "sido": "부산",
+    "sigungu": "남구",
+    "storecd": "11243"
+  },
+  {
+    "StoreName": "부산광안역",
+    "sido": "부산",
+    "sigungu": "수영구",
+    "storecd": "12807"
+  },
+  {
+    "StoreName": "부산괴정",
+    "sido": "부산",
+    "sigungu": "사하구",
+    "storecd": "12447"
+  },
+  {
+    "StoreName": "부산기장",
+    "sido": "부산",
+    "sigungu": "기장군",
+    "storecd": "13204"
+  },
+  {
+    "StoreName": "부산남산정역",
+    "sido": "부산",
+    "sigungu": "북구",
+    "storecd": "12805"
+  },
+  {
+    "StoreName": "부산남포",
+    "sido": "부산",
+    "sigungu": "중구",
+    "storecd": "12458"
+  },
+  {
+    "StoreName": "부산다대포",
+    "sido": "부산",
+    "sigungu": "사하구",
+    "storecd": "12463"
+  },
+  {
+    "StoreName": "부산당감",
+    "sido": "부산",
+    "sigungu": "부산진구",
+    "storecd": "13303"
+  },
+  {
+    "StoreName": "부산대",
+    "sido": "부산",
+    "sigungu": "금정구",
+    "storecd": "13186"
+  },
+  {
+    "StoreName": "부산대신",
+    "sido": "부산",
+    "sigungu": "서구",
+    "storecd": "11218"
+  },
+  {
+    "StoreName": "부산대연",
+    "sido": "부산",
+    "sigungu": "남구",
+    "storecd": "11230"
+  },
+  {
+    "StoreName": "부산덕천",
+    "sido": "부산",
+    "sigungu": "북구",
+    "storecd": "13164"
+  },
+  {
+    "StoreName": "부산동래역",
+    "sido": "부산",
+    "sigungu": "동래구",
+    "storecd": "11852"
+  },
+  {
+    "StoreName": "부산동아대",
+    "sido": "부산",
+    "sigungu": "사하구",
+    "storecd": "13007"
+  },
+  {
+    "StoreName": "부산망미",
+    "sido": "부산",
+    "sigungu": "수영구",
+    "storecd": "12512"
+  },
+  {
+    "StoreName": "부산명지",
+    "sido": "부산",
+    "sigungu": "강서구",
+    "storecd": "12115"
+  },
+  {
+    "StoreName": "부산명지국제신도시",
+    "sido": "부산",
+    "sigungu": "강서구",
+    "storecd": "12726"
+  },
+  {
+    "StoreName": "부산물만골역",
+    "sido": "부산",
+    "sigungu": "연제구",
+    "storecd": "12503"
+  },
+  {
+    "StoreName": "부산미남역",
+    "sido": "부산",
+    "sigungu": "동래구",
+    "storecd": "12124"
+  },
+  {
+    "StoreName": "부산반송",
+    "sido": "부산",
+    "sigungu": "해운대구",
+    "storecd": "11854"
+  },
+  {
+    "StoreName": "부산반여",
+    "sido": "부산",
+    "sigungu": "해운대구",
+    "storecd": "11220"
+  },
+  {
+    "StoreName": "부산범어사역",
+    "sido": "부산",
+    "sigungu": "금정구",
+    "storecd": "12030"
+  },
+  {
+    "StoreName": "부산비프광장",
+    "sido": "부산",
+    "sigungu": "중구",
+    "storecd": "11051"
+  },
+  {
+    "StoreName": "부산사상",
+    "sido": "부산",
+    "sigungu": "사상구",
+    "storecd": "11060"
+  },
+  {
+    "StoreName": "부산서동",
+    "sido": "부산",
+    "sigungu": "금정구",
+    "storecd": "12869"
+  },
+  {
+    "StoreName": "부산송도",
+    "sido": "부산",
+    "sigungu": "서구",
+    "storecd": "12604"
+  },
+  {
+    "StoreName": "부산신모라",
+    "sido": "부산",
+    "sigungu": "사상구",
+    "storecd": "12340"
+  },
+  {
+    "StoreName": "부산신항",
+    "sido": "경남",
+    "sigungu": "창원시",
+    "storecd": "13042"
+  },
+  {
+    "StoreName": "부산신호",
+    "sido": "부산",
+    "sigungu": "강서구",
+    "storecd": "12670"
+  },
+  {
+    "StoreName": "부산안락",
+    "sido": "부산",
+    "sigungu": "동래구",
+    "storecd": "11224"
+  },
+  {
+    "StoreName": "부산안민",
+    "sido": "부산",
+    "sigungu": "동래구",
+    "storecd": "13123"
+  },
+  {
+    "StoreName": "부산양정",
+    "sido": "부산",
+    "sigungu": "부산진구",
+    "storecd": "11200"
+  },
+  {
+    "StoreName": "부산역",
+    "sido": "부산",
+    "sigungu": "동구",
+    "storecd": "11058"
+  },
+  {
+    "StoreName": "부산연산",
+    "sido": "부산",
+    "sigungu": "연제구",
+    "storecd": "11203"
+  },
+  {
+    "StoreName": "부산연지",
+    "sido": "부산",
+    "sigungu": "부산진구",
+    "storecd": "12850"
+  },
+  {
+    "StoreName": "부산온천장역",
+    "sido": "부산",
+    "sigungu": "동래구",
+    "storecd": "13066"
+  },
+  {
+    "StoreName": "부산용호",
+    "sido": "부산",
+    "sigungu": "남구",
+    "storecd": "11206"
+  },
+  {
+    "StoreName": "부산용호메트로시티",
+    "sido": "부산",
+    "sigungu": "남구",
+    "storecd": "13334"
+  },
+  {
+    "StoreName": "부산장림",
+    "sido": "부산",
+    "sigungu": "사하구",
+    "storecd": "11213"
+  },
+  {
+    "StoreName": "부산재송",
+    "sido": "부산",
+    "sigungu": "해운대구",
+    "storecd": "12693"
+  },
+  {
+    "StoreName": "부산전포",
+    "sido": "부산",
+    "sigungu": "부산진구",
+    "storecd": "12771"
+  },
+  {
+    "StoreName": "부산정관",
+    "sido": "부산",
+    "sigungu": "기장군",
+    "storecd": "11851"
+  },
+  {
+    "StoreName": "부산주례역",
+    "sido": "부산",
+    "sigungu": "사상구",
+    "storecd": "11227"
+  },
+  {
+    "StoreName": "부산진역",
+    "sido": "부산",
+    "sigungu": "동구",
+    "storecd": "11204"
+  },
+  {
+    "StoreName": "부산토곡",
+    "sido": "부산",
+    "sigungu": "연제구",
+    "storecd": "12407"
+  },
+  {
+    "StoreName": "부산하단",
+    "sido": "부산",
+    "sigungu": "사하구",
+    "storecd": "12304"
+  },
+  {
+    "StoreName": "부산학장",
+    "sido": "부산",
+    "sigungu": "사상구",
+    "storecd": "12494"
+  },
+  {
+    "StoreName": "부산해운대좌동",
+    "sido": "부산",
+    "sigungu": "해운대구",
+    "storecd": "12697"
+  },
+  {
+    "StoreName": "부산화명",
+    "sido": "부산",
+    "sigungu": "북구",
+    "storecd": "12179"
+  },
+  {
+    "StoreName": "부안",
+    "sido": "전북",
+    "sigungu": "부안군",
+    "storecd": "12397"
+  },
+  {
+    "StoreName": "부여아울렛",
+    "sido": "충남",
+    "sigungu": "부여군",
+    "storecd": "12349"
+  },
+  {
+    "StoreName": "부천고강",
+    "sido": "경기",
+    "sigungu": "부천시",
+    "storecd": "11300"
+  },
+  {
+    "StoreName": "부천도당",
+    "sido": "경기",
+    "sigungu": "부천시",
+    "storecd": "12484"
+  },
+  {
+    "StoreName": "부천범박",
+    "sido": "경기",
+    "sigungu": "부천시",
+    "storecd": "12085"
+  },
+  {
+    "StoreName": "부천상동",
+    "sido": "경기",
+    "sigungu": "부천시",
+    "storecd": "11349"
+  },
+  {
+    "StoreName": "부천송내",
+    "sido": "경기",
+    "sigungu": "부천시",
+    "storecd": "11259"
+  },
+  {
+    "StoreName": "부천송내D/T",
+    "sido": "경기",
+    "sigungu": "부천시",
+    "storecd": "12923"
+  },
+  {
+    "StoreName": "부천시청역",
+    "sido": "경기",
+    "sigungu": "부천시",
+    "storecd": "12422"
+  },
+  {
+    "StoreName": "부천약대",
+    "sido": "경기",
+    "sigungu": "부천시",
+    "storecd": "12347"
+  },
+  {
+    "StoreName": "부천역",
+    "sido": "경기",
+    "sigungu": "부천시",
+    "storecd": "11079"
+  },
+  {
+    "StoreName": "부천오정",
+    "sido": "경기",
+    "sigungu": "부천시",
+    "storecd": "11859"
+  },
+  {
+    "StoreName": "부천옥길",
+    "sido": "경기",
+    "sigungu": "부천시",
+    "storecd": "13272"
+  },
+  {
+    "StoreName": "부천원미",
+    "sido": "경기",
+    "sigungu": "부천시",
+    "storecd": "11268"
+  },
+  {
+    "StoreName": "부천원종",
+    "sido": "경기",
+    "sigungu": "부천시",
+    "storecd": "11266"
+  },
+  {
+    "StoreName": "부천중동",
+    "sido": "경기",
+    "sigungu": "부천시",
+    "storecd": "12191"
+  },
+  {
+    "StoreName": "부평",
+    "sido": "인천",
+    "sigungu": "부평구",
+    "storecd": "12086"
+  },
+  {
+    "StoreName": "부평시장역",
+    "sido": "인천",
+    "sigungu": "부평구",
+    "storecd": "13170"
+  },
+  {
+    "StoreName": "북마산",
+    "sido": "경남",
+    "sigungu": "창원시",
+    "storecd": "11718"
+  },
+  {
+    "StoreName": "북비산",
+    "sido": "대구",
+    "sigungu": "서구",
+    "storecd": "11740"
+  },
+  {
+    "StoreName": "분당미금",
+    "sido": "경기",
+    "sigungu": "성남시",
+    "storecd": "11351"
+  },
+  {
+    "StoreName": "분당미금아울렛",
+    "sido": "경기",
+    "sigungu": "성남시",
+    "storecd": "11381"
+  },
+  {
+    "StoreName": "분당서현",
+    "sido": "경기",
+    "sigungu": "성남시",
+    "storecd": "13205"
+  },
+  {
+    "StoreName": "분당수내동",
+    "sido": "경기",
+    "sigungu": "성남시",
+    "storecd": "12374"
+  },
+  {
+    "StoreName": "불광역",
+    "sido": "서울",
+    "sigungu": "은평구",
+    "storecd": "13325"
+  },
+  {
+    "StoreName": "비발디파크",
+    "sido": "강원",
+    "sigungu": "홍천군",
+    "storecd": "12967"
+  },
+  {
+    "StoreName": "사가정역",
+    "sido": "서울",
+    "sigungu": "중랑구",
+    "storecd": "11198"
+  },
+  {
+    "StoreName": "사당역",
+    "sido": "서울",
+    "sigungu": "동작구",
+    "storecd": "13347"
+  },
+  {
+    "StoreName": "사천",
+    "sido": "경남",
+    "sigungu": "사천시",
+    "storecd": "11728"
+  },
+  {
+    "StoreName": "산본",
+    "sido": "경기",
+    "sigungu": "군포시",
+    "storecd": "11270"
+  },
+  {
+    "StoreName": "삼양사거리",
+    "sido": "서울",
+    "sigungu": "강북구",
+    "storecd": "12618"
+  },
+  {
+    "StoreName": "삼척",
+    "sido": "강원",
+    "sigungu": "삼척시",
+    "storecd": "11472"
+  },
+  {
+    "StoreName": "삼천포벌리",
+    "sido": "경남",
+    "sigungu": "사천시",
+    "storecd": "11757"
+  },
+  {
+    "StoreName": "삼호한마음",
+    "sido": "전남",
+    "sigungu": "영암군",
+    "storecd": "11998"
+  },
+  {
+    "StoreName": "상계",
+    "sido": "서울",
+    "sigungu": "노원구",
+    "storecd": "12129"
+  },
+  {
+    "StoreName": "상봉역",
+    "sido": "서울",
+    "sigungu": "중랑구",
+    "storecd": "12064"
+  },
+  {
+    "StoreName": "상암",
+    "sido": "서울",
+    "sigungu": "마포구",
+    "storecd": "12114"
+  },
+  {
+    "StoreName": "상일동",
+    "sido": "서울",
+    "sigungu": "강동구",
+    "storecd": "12420"
+  },
+  {
+    "StoreName": "상주",
+    "sido": "경북",
+    "sigungu": "상주시",
+    "storecd": "11694"
+  },
+  {
+    "StoreName": "상주 (특설)",
+    "sido": "경북",
+    "sigungu": "상주시",
+    "storecd": "12794"
+  },
+  {
+    "StoreName": "서귀포",
+    "sido": "제주",
+    "sigungu": "서귀포시",
+    "storecd": "11844"
+  },
+  {
+    "StoreName": "서귀포혁신",
+    "sido": "제주",
+    "sigungu": "서귀포시",
+    "storecd": "13061"
+  },
+  {
+    "StoreName": "서대문역",
+    "sido": "서울",
+    "sigungu": "서대문구",
+    "storecd": "12601"
+  },
+  {
+    "StoreName": "서동탄역",
+    "sido": "경기",
+    "sigungu": "화성시",
+    "storecd": "12571"
+  },
+  {
+    "StoreName": "서면일번가",
+    "sido": "부산",
+    "sigungu": "부산진구",
+    "storecd": "12396"
+  },
+  {
+    "StoreName": "서산터미날",
+    "sido": "충남",
+    "sigungu": "서산시",
+    "storecd": "11523"
+  },
+  {
+    "StoreName": "서산테크노밸리",
+    "sido": "충남",
+    "sigungu": "서산시",
+    "storecd": "12886"
+  },
+  {
+    "StoreName": "서산해미",
+    "sido": "충남",
+    "sigungu": "서산시",
+    "storecd": "12699"
+  },
+  {
+    "StoreName": "서산호수공원",
+    "sido": "충남",
+    "sigungu": "서산시",
+    "storecd": "12394"
+  },
+  {
+    "StoreName": "서울대",
+    "sido": "서울",
+    "sigungu": "관악구",
+    "storecd": "12561"
+  },
+  {
+    "StoreName": "서울대입구역",
+    "sido": "서울",
+    "sigungu": "관악구",
+    "storecd": "12578"
+  },
+  {
+    "StoreName": "서울랜드2호",
+    "sido": "경기",
+    "sigungu": "과천시",
+    "storecd": "11353"
+  },
+  {
+    "StoreName": "서울역사",
+    "sido": "서울",
+    "sigungu": "용산구",
+    "storecd": "11021"
+  },
+  {
+    "StoreName": "서원대",
+    "sido": "충북",
+    "sigungu": "청주시",
+    "storecd": "12472"
+  },
+  {
+    "StoreName": "서천",
+    "sido": "충남",
+    "sigungu": "서천군",
+    "storecd": "11567"
+  },
+  {
+    "StoreName": "서천장항",
+    "sido": "충남",
+    "sigungu": "서천군",
+    "storecd": "12969"
+  },
+  {
+    "StoreName": "서초중앙로",
+    "sido": "서울",
+    "sigungu": "서초구",
+    "storecd": "13115"
+  },
+  {
+    "StoreName": "서충주신도시",
+    "sido": "충북",
+    "sigungu": "충주시",
+    "storecd": "12860"
+  },
+  {
+    "StoreName": "석계",
+    "sido": "서울",
+    "sigungu": "노원구",
+    "storecd": "11122"
+  },
+  {
+    "StoreName": "석관",
+    "sido": "서울",
+    "sigungu": "성북구",
+    "storecd": "11151"
+  },
+  {
+    "StoreName": "선릉",
+    "sido": "서울",
+    "sigungu": "강남구",
+    "storecd": "13254"
+  },
+  {
+    "StoreName": "성남",
+    "sido": "경기",
+    "sigungu": "성남시",
+    "storecd": "11250"
+  },
+  {
+    "StoreName": "성남단대",
+    "sido": "경기",
+    "sigungu": "성남시",
+    "storecd": "11451"
+  },
+  {
+    "StoreName": "성남도촌",
+    "sido": "경기",
+    "sigungu": "성남시",
+    "storecd": "12577"
+  },
+  {
+    "StoreName": "성남상대원",
+    "sido": "경기",
+    "sigungu": "성남시",
+    "storecd": "11371"
+  },
+  {
+    "StoreName": "성남신흥",
+    "sido": "경기",
+    "sigungu": "성남시",
+    "storecd": "11257"
+  },
+  {
+    "StoreName": "성남양지",
+    "sido": "경기",
+    "sigungu": "성남시",
+    "storecd": "11267"
+  },
+  {
+    "StoreName": "성남태평역",
+    "sido": "경기",
+    "sigungu": "성남시",
+    "storecd": "13337"
+  },
+  {
+    "StoreName": "성남테크노밸리",
+    "sido": "경기",
+    "sigungu": "성남시",
+    "storecd": "12056"
+  },
+  {
+    "StoreName": "성대시장",
+    "sido": "서울",
+    "sigungu": "동작구",
+    "storecd": "11123"
+  },
+  {
+    "StoreName": "성수역",
+    "sido": "서울",
+    "sigungu": "성동구",
+    "storecd": "12084"
+  },
+  {
+    "StoreName": "성신여대",
+    "sido": "서울",
+    "sigungu": "성북구",
+    "storecd": "11023"
+  },
+  {
+    "StoreName": "성주",
+    "sido": "경북",
+    "sigungu": "성주군",
+    "storecd": "12393"
+  },
+  {
+    "StoreName": "성환",
+    "sido": "충남",
+    "sigungu": "천안시",
+    "storecd": "11531"
+  },
+  {
+    "StoreName": "세곡",
+    "sido": "서울",
+    "sigungu": "강남구",
+    "storecd": "12412"
+  },
+  {
+    "StoreName": "세이브마트",
+    "sido": "서울",
+    "sigungu": "관악구",
+    "storecd": "11134"
+  },
+  {
+    "StoreName": "세종고운",
+    "sido": "세종",
+    "sigungu": "마음안1로",
+    "storecd": "12951"
+  },
+  {
+    "StoreName": "세종반곡",
+    "sido": "세종",
+    "sigungu": "한누리대로",
+    "storecd": "13018"
+  },
+  {
+    "StoreName": "세종보람디엠시티",
+    "sido": "세종",
+    "sigungu": "한누리대로",
+    "storecd": "12952"
+  },
+  {
+    "StoreName": "세종부강",
+    "sido": "세종",
+    "sigungu": "부강면",
+    "storecd": "12637"
+  },
+  {
+    "StoreName": "세종산울",
+    "sido": "세종특별자치시",
+    "sigungu": "산울동",
+    "storecd": "13265"
+  },
+  {
+    "StoreName": "세종새롬",
+    "sido": "세종",
+    "sigungu": "새롬중앙로",
+    "storecd": "13079"
+  },
+  {
+    "StoreName": "세종소담",
+    "sido": "세종",
+    "sigungu": "한누리대로",
+    "storecd": "12947"
+  },
+  {
+    "StoreName": "세종종촌",
+    "sido": "세종",
+    "sigungu": "도움1로",
+    "storecd": "12681"
+  },
+  {
+    "StoreName": "세종테크밸리",
+    "sido": "세종",
+    "sigungu": "남세종로",
+    "storecd": "13096"
+  },
+  {
+    "StoreName": "센텀프라자빌딩",
+    "sido": "부산",
+    "sigungu": "해운대구",
+    "storecd": "12551"
+  },
+  {
+    "StoreName": "소공2호",
+    "sido": "서울",
+    "sigungu": "중구",
+    "storecd": "11001"
+  },
+  {
+    "StoreName": "속초",
+    "sido": "강원",
+    "sigungu": "속초시",
+    "storecd": "11464"
+  },
+  {
+    "StoreName": "속초조양",
+    "sido": "강원특별자치도",
+    "sigungu": "속초시",
+    "storecd": "13329"
+  },
+  {
+    "StoreName": "송도달빛공원",
+    "sido": "인천",
+    "sigungu": "연수구",
+    "storecd": "13040"
+  },
+  {
+    "StoreName": "송도랜드마크시티",
+    "sido": "인천",
+    "sigungu": "연수구",
+    "storecd": "13030"
+  },
+  {
+    "StoreName": "송도센트럴파크",
+    "sido": "인천",
+    "sigungu": "연수구",
+    "storecd": "12408"
+  },
+  {
+    "StoreName": "송산새솔동",
+    "sido": "경기도",
+    "sigungu": "화성시",
+    "storecd": "12914"
+  },
+  {
+    "StoreName": "송산휴게소",
+    "sido": "경기",
+    "sigungu": "화성시",
+    "storecd": "12278"
+  },
+  {
+    "StoreName": "송악",
+    "sido": "충남",
+    "sigungu": "당진시",
+    "storecd": "11591"
+  },
+  {
+    "StoreName": "송파",
+    "sido": "서울",
+    "sigungu": "송파구",
+    "storecd": "12158"
+  },
+  {
+    "StoreName": "송파삼전",
+    "sido": "서울",
+    "sigungu": "송파구",
+    "storecd": "12198"
+  },
+  {
+    "StoreName": "송파하비오",
+    "sido": "서울",
+    "sigungu": "송파구",
+    "storecd": "12796"
+  },
+  {
+    "StoreName": "수락산역",
+    "sido": "서울",
+    "sigungu": "노원구",
+    "storecd": "12192"
+  },
+  {
+    "StoreName": "수서역사",
+    "sido": "서울",
+    "sigungu": "강남구",
+    "storecd": "12743"
+  },
+  {
+    "StoreName": "수영로타리",
+    "sido": "부산",
+    "sigungu": "수영구",
+    "storecd": "12016"
+  },
+  {
+    "StoreName": "수원고색",
+    "sido": "경기",
+    "sigungu": "수원시",
+    "storecd": "12910"
+  },
+  {
+    "StoreName": "수원곡반정",
+    "sido": "경기",
+    "sigungu": "수원시",
+    "storecd": "12385"
+  },
+  {
+    "StoreName": "수원권선",
+    "sido": "경기",
+    "sigungu": "수원시",
+    "storecd": "11318"
+  },
+  {
+    "StoreName": "수원금곡",
+    "sido": "경기",
+    "sigungu": "수원시",
+    "storecd": "13101"
+  },
+  {
+    "StoreName": "수원당수",
+    "sido": "경기",
+    "sigungu": "수원시",
+    "storecd": "12943"
+  },
+  {
+    "StoreName": "수원매탄",
+    "sido": "경기",
+    "sigungu": "수원시",
+    "storecd": "11255"
+  },
+  {
+    "StoreName": "수원북문",
+    "sido": "경기",
+    "sigungu": "수원시",
+    "storecd": "11415"
+  },
+  {
+    "StoreName": "수원성대",
+    "sido": "경기",
+    "sigungu": "수원시",
+    "storecd": "11411"
+  },
+  {
+    "StoreName": "수원역광장",
+    "sido": "경기",
+    "sigungu": "수원시",
+    "storecd": "11076"
+  },
+  {
+    "StoreName": "수원역사",
+    "sido": "경기",
+    "sigungu": "수원시",
+    "storecd": "12290"
+  },
+  {
+    "StoreName": "수원연무",
+    "sido": "경기",
+    "sigungu": "수원시",
+    "storecd": "12719"
+  },
+  {
+    "StoreName": "수원영통",
+    "sido": "경기",
+    "sigungu": "수원시",
+    "storecd": "12919"
+  },
+  {
+    "StoreName": "수원율현",
+    "sido": "경기",
+    "sigungu": "수원시",
+    "storecd": "11361"
+  },
+  {
+    "StoreName": "수원정자",
+    "sido": "경기",
+    "sigungu": "수원시",
+    "storecd": "12048"
+  },
+  {
+    "StoreName": "수원탑동",
+    "sido": "경기",
+    "sigungu": "수원시",
+    "storecd": "12508"
+  },
+  {
+    "StoreName": "수원터미널",
+    "sido": "경기",
+    "sigungu": "수원시",
+    "storecd": "11324"
+  },
+  {
+    "StoreName": "수원파장",
+    "sido": "경기",
+    "sigungu": "수원시",
+    "storecd": "13055"
+  },
+  {
+    "StoreName": "수원팔달",
+    "sido": "경기",
+    "sigungu": "수원시",
+    "storecd": "11387"
+  },
+  {
+    "StoreName": "수원호매실",
+    "sido": "경기",
+    "sigungu": "수원시",
+    "storecd": "12254"
+  },
+  {
+    "StoreName": "수원화서",
+    "sido": "경기",
+    "sigungu": "수원시",
+    "storecd": "11278"
+  },
+  {
+    "StoreName": "수유역",
+    "sido": "서울",
+    "sigungu": "강북구",
+    "storecd": "13094"
+  },
+  {
+    "StoreName": "수지풍덕천",
+    "sido": "경기",
+    "sigungu": "용인시",
+    "storecd": "12690"
+  },
+  {
+    "StoreName": "숙대입구역",
+    "sido": "서울",
+    "sigungu": "용산구",
+    "storecd": "11043"
+  },
+  {
+    "StoreName": "순창D/I",
+    "sido": "전북",
+    "sigungu": "순창군",
+    "storecd": "12475"
+  },
+  {
+    "StoreName": "순천",
+    "sido": "전남",
+    "sigungu": "순천시",
+    "storecd": "11603"
+  },
+  {
+    "StoreName": "순천금당",
+    "sido": "전남",
+    "sigungu": "순천시",
+    "storecd": "11619"
+  },
+  {
+    "StoreName": "순천시청",
+    "sido": "전남",
+    "sigungu": "순천시",
+    "storecd": "11638"
+  },
+  {
+    "StoreName": "순천신대",
+    "sido": "전남",
+    "sigungu": "순천시",
+    "storecd": "12399"
+  },
+  {
+    "StoreName": "순천연향",
+    "sido": "전남",
+    "sigungu": "순천시",
+    "storecd": "11611"
+  },
+  {
+    "StoreName": "순천오천",
+    "sido": "전남",
+    "sigungu": "순천시",
+    "storecd": "12717"
+  },
+  {
+    "StoreName": "순천용당",
+    "sido": "전남",
+    "sigungu": "순천시",
+    "storecd": "12835"
+  },
+  {
+    "StoreName": "순천조례",
+    "sido": "전남",
+    "sigungu": "순천시",
+    "storecd": "12880"
+  },
+  {
+    "StoreName": "순천풍덕",
+    "sido": "전남",
+    "sigungu": "순천시",
+    "storecd": "13072"
+  },
+  {
+    "StoreName": "순천향대학D/T",
+    "sido": "충남",
+    "sigungu": "아산시",
+    "storecd": "12320"
+  },
+  {
+    "StoreName": "숭실대입구역",
+    "sido": "서울",
+    "sigungu": "동작구",
+    "storecd": "12255"
+  },
+  {
+    "StoreName": "시흥거모",
+    "sido": "경기",
+    "sigungu": "시흥시",
+    "storecd": "12389"
+  },
+  {
+    "StoreName": "시흥능곡",
+    "sido": "경기",
+    "sigungu": "시흥시",
+    "storecd": "11996"
+  },
+  {
+    "StoreName": "시흥시화",
+    "sido": "경기",
+    "sigungu": "시흥시",
+    "storecd": "11343"
+  },
+  {
+    "StoreName": "시흥연성",
+    "sido": "경기",
+    "sigungu": "시흥시",
+    "storecd": "11350"
+  },
+  {
+    "StoreName": "시흥월곶",
+    "sido": "경기",
+    "sigungu": "시흥시",
+    "storecd": "12112"
+  },
+  {
+    "StoreName": "시흥은계",
+    "sido": "경기",
+    "sigungu": "시흥시",
+    "storecd": "12974"
+  },
+  {
+    "StoreName": "시흥은행",
+    "sido": "경기",
+    "sigungu": "시흥시",
+    "storecd": "11315"
+  },
+  {
+    "StoreName": "시흥정왕",
+    "sido": "경기",
+    "sigungu": "시흥시",
+    "storecd": "11294"
+  },
+  {
+    "StoreName": "시흥정왕역",
+    "sido": "경기",
+    "sigungu": "시흥시",
+    "storecd": "12093"
+  },
+  {
+    "StoreName": "시흥제일",
+    "sido": "경기",
+    "sigungu": "시흥시",
+    "storecd": "11358"
+  },
+  {
+    "StoreName": "시흥중앙",
+    "sido": "서울",
+    "sigungu": "금천구",
+    "storecd": "11149"
+  },
+  {
+    "StoreName": "시흥하중",
+    "sido": "경기",
+    "sigungu": "시흥시",
+    "storecd": "12647"
+  },
+  {
+    "StoreName": "시흥현대시장",
+    "sido": "서울",
+    "sigungu": "금천구",
+    "storecd": "12849"
+  },
+  {
+    "StoreName": "시흥휴게소",
+    "sido": "경기",
+    "sigungu": "시흥시",
+    "storecd": "12834"
+  },
+  {
+    "StoreName": "신검단중앙역",
+    "sido": "인천",
+    "sigungu": "서구",
+    "storecd": "13355"
+  },
+  {
+    "StoreName": "신경주역사",
+    "sido": "경북",
+    "sigungu": "경주시",
+    "storecd": "12117"
+  },
+  {
+    "StoreName": "신곡시장",
+    "sido": "서울",
+    "sigungu": "양천구",
+    "storecd": "11191"
+  },
+  {
+    "StoreName": "신길",
+    "sido": "서울",
+    "sigungu": "영등포구",
+    "storecd": "13346"
+  },
+  {
+    "StoreName": "신김포공항",
+    "sido": "서울",
+    "sigungu": "강서구",
+    "storecd": "11015"
+  },
+  {
+    "StoreName": "신당역",
+    "sido": "서울",
+    "sigungu": "중구",
+    "storecd": "11183"
+  },
+  {
+    "StoreName": "신도림역",
+    "sido": "서울",
+    "sigungu": "구로구",
+    "storecd": "11195"
+  },
+  {
+    "StoreName": "신림녹두",
+    "sido": "서울",
+    "sigungu": "관악구",
+    "storecd": "11146"
+  },
+  {
+    "StoreName": "신림역",
+    "sido": "서울",
+    "sigungu": "관악구",
+    "storecd": "11039"
+  },
+  {
+    "StoreName": "신방화역",
+    "sido": "서울",
+    "sigungu": "강서구",
+    "storecd": "12424"
+  },
+  {
+    "StoreName": "신부여",
+    "sido": "충남",
+    "sigungu": "부여군",
+    "storecd": "11524"
+  },
+  {
+    "StoreName": "신정네거리역",
+    "sido": "서울",
+    "sigungu": "양천구",
+    "storecd": "13043"
+  },
+  {
+    "StoreName": "신제주",
+    "sido": "제주",
+    "sigungu": "제주시",
+    "storecd": "11845"
+  },
+  {
+    "StoreName": "신촌역",
+    "sido": "서울",
+    "sigungu": "서대문구",
+    "storecd": "13276"
+  },
+  {
+    "StoreName": "신탄진",
+    "sido": "대전시",
+    "sigungu": "대덕구",
+    "storecd": "11516"
+  },
+  {
+    "StoreName": "신평탑마트",
+    "sido": "부산",
+    "sigungu": "사하구",
+    "storecd": "11219"
+  },
+  {
+    "StoreName": "신호매실",
+    "sido": "경기",
+    "sigungu": "수원시",
+    "storecd": "12520"
+  },
+  {
+    "StoreName": "쌍문역",
+    "sido": "서울",
+    "sigungu": "도봉구",
+    "storecd": "11138"
+  },
+  {
+    "StoreName": "아산남성",
+    "sido": "충남",
+    "sigungu": "아산시",
+    "storecd": "13188"
+  },
+  {
+    "StoreName": "아산둔포",
+    "sido": "충남",
+    "sigungu": "아산시",
+    "storecd": "11595"
+  },
+  {
+    "StoreName": "아산배방",
+    "sido": "충남시",
+    "sigungu": "아산시",
+    "storecd": "11573"
+  },
+  {
+    "StoreName": "아산북수",
+    "sido": "충남",
+    "sigungu": "아산시",
+    "storecd": "12746"
+  },
+  {
+    "StoreName": "아산용화",
+    "sido": "충남",
+    "sigungu": "아산시",
+    "storecd": "12583"
+  },
+  {
+    "StoreName": "아산장재",
+    "sido": "충남",
+    "sigungu": "아산시",
+    "storecd": "13052"
+  },
+  {
+    "StoreName": "아산탕정",
+    "sido": "충남",
+    "sigungu": "아산시",
+    "storecd": "12090"
+  },
+  {
+    "StoreName": "아산테크노밸리",
+    "sido": "충남",
+    "sigungu": "아산시",
+    "storecd": "12762"
+  },
+  {
+    "StoreName": "아차산역",
+    "sido": "서울",
+    "sigungu": "광진구",
+    "storecd": "11140"
+  },
+  {
+    "StoreName": "안동강남",
+    "sido": "경북",
+    "sigungu": "안동시",
+    "storecd": "13099"
+  },
+  {
+    "StoreName": "안동문화의거리",
+    "sido": "경북",
+    "sigungu": "안동시",
+    "storecd": "12871"
+  },
+  {
+    "StoreName": "안동옥동",
+    "sido": "경북",
+    "sigungu": "안동시",
+    "storecd": "11758"
+  },
+  {
+    "StoreName": "안동용상",
+    "sido": "경북",
+    "sigungu": "안동시",
+    "storecd": "13304"
+  },
+  {
+    "StoreName": "안동터미널",
+    "sido": "경북",
+    "sigungu": "안동시",
+    "storecd": "12337"
+  },
+  {
+    "StoreName": "안산그랑시티자이",
+    "sido": "경기",
+    "sigungu": "안산시",
+    "storecd": "13036"
+  },
+  {
+    "StoreName": "안산반월",
+    "sido": "경기",
+    "sigungu": "안산시",
+    "storecd": "12277"
+  },
+  {
+    "StoreName": "안산본오",
+    "sido": "경기",
+    "sigungu": "안산시",
+    "storecd": "11328"
+  },
+  {
+    "StoreName": "안산부곡",
+    "sido": "경기",
+    "sigungu": "안산시",
+    "storecd": "12676"
+  },
+  {
+    "StoreName": "안산사동",
+    "sido": "경기",
+    "sigungu": "안산시",
+    "storecd": "13045"
+  },
+  {
+    "StoreName": "안산상록수",
+    "sido": "경기",
+    "sigungu": "안산시",
+    "storecd": "11260"
+  },
+  {
+    "StoreName": "안산선부",
+    "sido": "경기",
+    "sigungu": "안산시",
+    "storecd": "11261"
+  },
+  {
+    "StoreName": "안산신도시",
+    "sido": "경기",
+    "sigungu": "안산시",
+    "storecd": "11347"
+  },
+  {
+    "StoreName": "안산역사",
+    "sido": "경기",
+    "sigungu": "안산시",
+    "storecd": "11359"
+  },
+  {
+    "StoreName": "안산와동",
+    "sido": "경기",
+    "sigungu": "안산시",
+    "storecd": "12756"
+  },
+  {
+    "StoreName": "안산제일",
+    "sido": "경기",
+    "sigungu": "안산시",
+    "storecd": "11355"
+  },
+  {
+    "StoreName": "안산중앙",
+    "sido": "경기",
+    "sigungu": "안산시",
+    "storecd": "13167"
+  },
+  {
+    "StoreName": "안산초지",
+    "sido": "경기",
+    "sigungu": "안산시",
+    "storecd": "11340"
+  },
+  {
+    "StoreName": "안산한양대",
+    "sido": "경기",
+    "sigungu": "안산시",
+    "storecd": "11856"
+  },
+  {
+    "StoreName": "안산D/T",
+    "sido": "경기",
+    "sigungu": "안산시",
+    "storecd": "11069"
+  },
+  {
+    "StoreName": "안성공도터미널D/T",
+    "sido": "경기",
+    "sigungu": "안성시",
+    "storecd": "13095"
+  },
+  {
+    "StoreName": "안성공도D/T",
+    "sido": "경기",
+    "sigungu": "안성시",
+    "storecd": "12058"
+  },
+  {
+    "StoreName": "안성대림",
+    "sido": "경기",
+    "sigungu": "안성시",
+    "storecd": "13279"
+  },
+  {
+    "StoreName": "안성맞춤휴게소(하)",
+    "sido": "경기",
+    "sigungu": "안성시",
+    "storecd": "12710"
+  },
+  {
+    "StoreName": "안성아양",
+    "sido": "경기",
+    "sigungu": "안성시",
+    "storecd": "13119"
+  },
+  {
+    "StoreName": "안성죽산",
+    "sido": "경기",
+    "sigungu": "안성시",
+    "storecd": "13074"
+  },
+  {
+    "StoreName": "안성중앙",
+    "sido": "경기",
+    "sigungu": "안성시",
+    "storecd": "11354"
+  },
+  {
+    "StoreName": "안성중앙대",
+    "sido": "경기",
+    "sigungu": "안성시",
+    "storecd": "12895"
+  },
+  {
+    "StoreName": "안양",
+    "sido": "경기",
+    "sigungu": "안양시",
+    "storecd": "13286"
+  },
+  {
+    "StoreName": "안양관양",
+    "sido": "경기",
+    "sigungu": "안양시",
+    "storecd": "12220"
+  },
+  {
+    "StoreName": "안양박달D/I",
+    "sido": "경기",
+    "sigungu": "안양시",
+    "storecd": "12241"
+  },
+  {
+    "StoreName": "안양범계",
+    "sido": "경기",
+    "sigungu": "안양시",
+    "storecd": "13268"
+  },
+  {
+    "StoreName": "안양비산",
+    "sido": "경기",
+    "sigungu": "안양시",
+    "storecd": "11367"
+  },
+  {
+    "StoreName": "안양석수",
+    "sido": "경기",
+    "sigungu": "안양시",
+    "storecd": "13005"
+  },
+  {
+    "StoreName": "안양역사",
+    "sido": "경기",
+    "sigungu": "안양시",
+    "storecd": "11338"
+  },
+  {
+    "StoreName": "안양중앙",
+    "sido": "경기",
+    "sigungu": "안양시",
+    "storecd": "12313"
+  },
+  {
+    "StoreName": "안양호계",
+    "sido": "경기",
+    "sigungu": "안양시",
+    "storecd": "12335"
+  },
+  {
+    "StoreName": "암사역",
+    "sido": "서울",
+    "sigungu": "강동구",
+    "storecd": "12078"
+  },
+  {
+    "StoreName": "압구정역",
+    "sido": "서울특별시",
+    "sigungu": "강남구",
+    "storecd": "13148"
+  },
+  {
+    "StoreName": "야탑역",
+    "sido": "경기",
+    "sigungu": "성남시",
+    "storecd": "11348"
+  },
+  {
+    "StoreName": "양구",
+    "sido": "강원",
+    "sigungu": "양구군",
+    "storecd": "11474"
+  },
+  {
+    "StoreName": "양산",
+    "sido": "경남",
+    "sigungu": "양산시",
+    "storecd": "11692"
+  },
+  {
+    "StoreName": "양산덕계",
+    "sido": "경남",
+    "sigungu": "양산시",
+    "storecd": "11753"
+  },
+  {
+    "StoreName": "양산물금",
+    "sido": "경남",
+    "sigungu": "양산시",
+    "storecd": "12729"
+  },
+  {
+    "StoreName": "양산부산대",
+    "sido": "경남",
+    "sigungu": "양산시",
+    "storecd": "11834"
+  },
+  {
+    "StoreName": "양산사송",
+    "sido": "경남",
+    "sigungu": "양산시",
+    "storecd": "13138"
+  },
+  {
+    "StoreName": "양산석산",
+    "sido": "경남",
+    "sigungu": "양산시",
+    "storecd": "12423"
+  },
+  {
+    "StoreName": "양산중부",
+    "sido": "경남",
+    "sigungu": "양산시",
+    "storecd": "11784"
+  },
+  {
+    "StoreName": "양산증산",
+    "sido": "경남",
+    "sigungu": "양산시",
+    "storecd": "13056"
+  },
+  {
+    "StoreName": "양양",
+    "sido": "강원",
+    "sigungu": "양양군",
+    "storecd": "12986"
+  },
+  {
+    "StoreName": "양원역",
+    "sido": "서울특별시",
+    "sigungu": "중랑구",
+    "storecd": "13120"
+  },
+  {
+    "StoreName": "양재동",
+    "sido": "서울",
+    "sigungu": "서초구",
+    "storecd": "12724"
+  },
+  {
+    "StoreName": "양재역",
+    "sido": "서울특별시",
+    "sigungu": "서초구",
+    "storecd": "13267"
+  },
+  {
+    "StoreName": "양주고읍",
+    "sido": "경기",
+    "sigungu": "양주시",
+    "storecd": "11966"
+  },
+  {
+    "StoreName": "양주광적",
+    "sido": "경기",
+    "sigungu": "양주시",
+    "storecd": "12783"
+  },
+  {
+    "StoreName": "양주덕계",
+    "sido": "경기도",
+    "sigungu": "양주시",
+    "storecd": "13307"
+  },
+  {
+    "StoreName": "양주덕정",
+    "sido": "경기",
+    "sigungu": "양주시",
+    "storecd": "11316"
+  },
+  {
+    "StoreName": "양주백석D/T",
+    "sido": "경기",
+    "sigungu": "양주시",
+    "storecd": "13154"
+  },
+  {
+    "StoreName": "양주옥정",
+    "sido": "경기",
+    "sigungu": "양주시",
+    "storecd": "12784"
+  },
+  {
+    "StoreName": "양지오남",
+    "sido": "경기",
+    "sigungu": "남양주시",
+    "storecd": "11860"
+  },
+  {
+    "StoreName": "양평",
+    "sido": "경기",
+    "sigungu": "양평군",
+    "storecd": "11342"
+  },
+  {
+    "StoreName": "양평용문",
+    "sido": "경기",
+    "sigungu": "양평군",
+    "storecd": "12537"
+  },
+  {
+    "StoreName": "언더랜드",
+    "sido": "서울",
+    "sigungu": "송파구",
+    "storecd": "11003"
+  },
+  {
+    "StoreName": "언양",
+    "sido": "울산",
+    "sigungu": "울주군",
+    "storecd": "11702"
+  },
+  {
+    "StoreName": "여수국동",
+    "sido": "전남",
+    "sigungu": "여수시",
+    "storecd": "13300"
+  },
+  {
+    "StoreName": "여수신기",
+    "sido": "전남",
+    "sigungu": "여수시",
+    "storecd": "11636"
+  },
+  {
+    "StoreName": "여수여서",
+    "sido": "전남",
+    "sigungu": "여수시",
+    "storecd": "11960"
+  },
+  {
+    "StoreName": "여수예술랜드",
+    "sido": "전남",
+    "sigungu": "여수시",
+    "storecd": "12887"
+  },
+  {
+    "StoreName": "여수웅천지구",
+    "sido": "전남",
+    "sigungu": "여수시",
+    "storecd": "12459"
+  },
+  {
+    "StoreName": "여수죽림",
+    "sido": "전남",
+    "sigungu": "여수시",
+    "storecd": "12856"
+  },
+  {
+    "StoreName": "여수중앙",
+    "sido": "전남",
+    "sigungu": "여수시",
+    "storecd": "11605"
+  },
+  {
+    "StoreName": "여주",
+    "sido": "경기",
+    "sigungu": "여주시",
+    "storecd": "11286"
+  },
+  {
+    "StoreName": "여주375아울렛",
+    "sido": "경기",
+    "sigungu": "여주시",
+    "storecd": "12271"
+  },
+  {
+    "StoreName": "여주가남",
+    "sido": "경기",
+    "sigungu": "여주시",
+    "storecd": "12570"
+  },
+  {
+    "StoreName": "여주교동",
+    "sido": "경기",
+    "sigungu": "여주시",
+    "storecd": "13136"
+  },
+  {
+    "StoreName": "여주오학",
+    "sido": "경기",
+    "sigungu": "여주시",
+    "storecd": "13135"
+  },
+  {
+    "StoreName": "여천",
+    "sido": "전남",
+    "sigungu": "여수시",
+    "storecd": "11620"
+  },
+  {
+    "StoreName": "역곡역",
+    "sido": "경기",
+    "sigungu": "부천시",
+    "storecd": "12017"
+  },
+  {
+    "StoreName": "연신내역",
+    "sido": "서울",
+    "sigungu": "은평구",
+    "storecd": "11132"
+  },
+  {
+    "StoreName": "영광",
+    "sido": "전남",
+    "sigungu": "영광군",
+    "storecd": "12131"
+  },
+  {
+    "StoreName": "영남대D/T",
+    "sido": "경북",
+    "sigungu": "경산시",
+    "storecd": "12898"
+  },
+  {
+    "StoreName": "영대병원",
+    "sido": "대구",
+    "sigungu": "남구",
+    "storecd": "11722"
+  },
+  {
+    "StoreName": "영덕",
+    "sido": "경북",
+    "sigungu": "영덕군",
+    "storecd": "11820"
+  },
+  {
+    "StoreName": "영도남항",
+    "sido": "부산",
+    "sigungu": "영도구",
+    "storecd": "11214"
+  },
+  {
+    "StoreName": "영도동삼",
+    "sido": "부산",
+    "sigungu": "영도구",
+    "storecd": "11212"
+  },
+  {
+    "StoreName": "영등포역사",
+    "sido": "서울",
+    "sigungu": "영등포구",
+    "storecd": "12731"
+  },
+  {
+    "StoreName": "영등포타임스퀘어B2",
+    "sido": "서울",
+    "sigungu": "영등포구",
+    "storecd": "11045"
+  },
+  {
+    "StoreName": "영암대불",
+    "sido": "전남",
+    "sigungu": "영암군",
+    "storecd": "13044"
+  },
+  {
+    "StoreName": "영월",
+    "sido": "강원",
+    "sigungu": "영월군",
+    "storecd": "11476"
+  },
+  {
+    "StoreName": "영주",
+    "sido": "경북",
+    "sigungu": "영주시",
+    "storecd": "11682"
+  },
+  {
+    "StoreName": "영주가흥",
+    "sido": "경북",
+    "sigungu": "영주시",
+    "storecd": "12704"
+  },
+  {
+    "StoreName": "영천시장",
+    "sido": "경북",
+    "sigungu": "영천시",
+    "storecd": "11709"
+  },
+  {
+    "StoreName": "영천D/T",
+    "sido": "경북",
+    "sigungu": "영천시",
+    "storecd": "12319"
+  },
+  {
+    "StoreName": "영풍문고종각종로본점",
+    "sido": "서울",
+    "sigungu": "종로구",
+    "storecd": "13183"
+  },
+  {
+    "StoreName": "예산",
+    "sido": "충남",
+    "sigungu": "예산군",
+    "storecd": "11506"
+  },
+  {
+    "StoreName": "예천",
+    "sido": "경북",
+    "sigungu": "예천군",
+    "storecd": "11791"
+  },
+  {
+    "StoreName": "오금",
+    "sido": "서울",
+    "sigungu": "송파구",
+    "storecd": "12436"
+  },
+  {
+    "StoreName": "오남어람",
+    "sido": "경기",
+    "sigungu": "남양주시",
+    "storecd": "12865"
+  },
+  {
+    "StoreName": "오류동역",
+    "sido": "서울",
+    "sigungu": "구로구",
+    "storecd": "11199"
+  },
+  {
+    "StoreName": "오목천",
+    "sido": "경기",
+    "sigungu": "수원시",
+    "storecd": "12534"
+  },
+  {
+    "StoreName": "오산궐동",
+    "sido": "경기",
+    "sigungu": "오산시",
+    "storecd": "13098"
+  },
+  {
+    "StoreName": "오산세교D/T",
+    "sido": "경기",
+    "sigungu": "오산시",
+    "storecd": "12749"
+  },
+  {
+    "StoreName": "오산원동",
+    "sido": "경기",
+    "sigungu": "오산시",
+    "storecd": "11390"
+  },
+  {
+    "StoreName": "오송역사",
+    "sido": "충북",
+    "sigungu": "청주시",
+    "storecd": "12988"
+  },
+  {
+    "StoreName": "오이도D/I",
+    "sido": "경기",
+    "sigungu": "시흥시",
+    "storecd": "12122"
+  },
+  {
+    "StoreName": "오창",
+    "sido": "충북",
+    "sigungu": "청주시",
+    "storecd": "11571"
+  },
+  {
+    "StoreName": "오창2산단",
+    "sido": "충북",
+    "sigungu": "청주시",
+    "storecd": "12682"
+  },
+  {
+    "StoreName": "옥정신도시",
+    "sido": "경기",
+    "sigungu": "양주시",
+    "storecd": "13328"
+  },
+  {
+    "StoreName": "옥천",
+    "sido": "충북",
+    "sigungu": "옥천군",
+    "storecd": "11522"
+  },
+  {
+    "StoreName": "온양",
+    "sido": "충남",
+    "sigungu": "아산시",
+    "storecd": "11498"
+  },
+  {
+    "StoreName": "온양온천",
+    "sido": "충남",
+    "sigungu": "아산시",
+    "storecd": "12211"
+  },
+  {
+    "StoreName": "온양D/T",
+    "sido": "충남",
+    "sigungu": "아산시",
+    "storecd": "12383"
+  },
+  {
+    "StoreName": "완도",
+    "sido": "전남",
+    "sigungu": "완도군",
+    "storecd": "12054"
+  },
+  {
+    "StoreName": "완주봉동",
+    "sido": "전북",
+    "sigungu": "완주군",
+    "storecd": "12293"
+  },
+  {
+    "StoreName": "완주삼례",
+    "sido": "전북",
+    "sigungu": "완주군",
+    "storecd": "12417"
+  },
+  {
+    "StoreName": "왕십리역사",
+    "sido": "서울",
+    "sigungu": "성동구",
+    "storecd": "12884"
+  },
+  {
+    "StoreName": "외대역",
+    "sido": "서울",
+    "sigungu": "동대문구",
+    "storecd": "12579"
+  },
+  {
+    "StoreName": "용산서계",
+    "sido": "서울",
+    "sigungu": "용산구",
+    "storecd": "12642"
+  },
+  {
+    "StoreName": "용산역사",
+    "sido": "서울",
+    "sigungu": "용산구",
+    "storecd": "12977"
+  },
+  {
+    "StoreName": "용산역사ST",
+    "sido": "서울",
+    "sigungu": "용산구",
+    "storecd": "12035"
+  },
+  {
+    "StoreName": "용인강남대",
+    "sido": "경기",
+    "sigungu": "용인시",
+    "storecd": "13076"
+  },
+  {
+    "StoreName": "용인고림",
+    "sido": "경기",
+    "sigungu": "용인시",
+    "storecd": "13097"
+  },
+  {
+    "StoreName": "용인구성",
+    "sido": "경기",
+    "sigungu": "용인시",
+    "storecd": "11396"
+  },
+  {
+    "StoreName": "용인남사",
+    "sido": "경기",
+    "sigungu": "용인시",
+    "storecd": "12872"
+  },
+  {
+    "StoreName": "용인동백",
+    "sido": "경기",
+    "sigungu": "용인시",
+    "storecd": "13289"
+  },
+  {
+    "StoreName": "용인동천",
+    "sido": "경기",
+    "sigungu": "용인시",
+    "storecd": "12331"
+  },
+  {
+    "StoreName": "용인둔전",
+    "sido": "경기",
+    "sigungu": "용인시",
+    "storecd": "11454"
+  },
+  {
+    "StoreName": "용인모현",
+    "sido": "경기도",
+    "sigungu": "용인시",
+    "storecd": "12703"
+  },
+  {
+    "StoreName": "용인백암",
+    "sido": "경기",
+    "sigungu": "용인시",
+    "storecd": "12814"
+  },
+  {
+    "StoreName": "용인보라",
+    "sido": "경기",
+    "sigungu": "용인시",
+    "storecd": "12270"
+  },
+  {
+    "StoreName": "용인보정",
+    "sido": "경기",
+    "sigungu": "용인시",
+    "storecd": "11432"
+  },
+  {
+    "StoreName": "용인상현",
+    "sido": "경기",
+    "sigungu": "용인시",
+    "storecd": "11405"
+  },
+  {
+    "StoreName": "용인송전",
+    "sido": "경기",
+    "sigungu": "용인시",
+    "storecd": "12876"
+  },
+  {
+    "StoreName": "용인시청",
+    "sido": "경기",
+    "sigungu": "용인시",
+    "storecd": "12812"
+  },
+  {
+    "StoreName": "용인신갈",
+    "sido": "경기",
+    "sigungu": "용인시",
+    "storecd": "13293"
+  },
+  {
+    "StoreName": "용인신봉",
+    "sido": "경기",
+    "sigungu": "용인시",
+    "storecd": "12013"
+  },
+  {
+    "StoreName": "용인양지",
+    "sido": "경기",
+    "sigungu": "용인시",
+    "storecd": "12384"
+  },
+  {
+    "StoreName": "용인역북",
+    "sido": "경기",
+    "sigungu": "용인시",
+    "storecd": "12219"
+  },
+  {
+    "StoreName": "용인죽전1동",
+    "sido": "경기",
+    "sigungu": "용인시",
+    "storecd": "12060"
+  },
+  {
+    "StoreName": "용인천리",
+    "sido": "경기",
+    "sigungu": "용인시",
+    "storecd": "12692"
+  },
+  {
+    "StoreName": "용인터미널",
+    "sido": "경기",
+    "sigungu": "용인시",
+    "storecd": "11276"
+  },
+  {
+    "StoreName": "용인흥덕",
+    "sido": "경기",
+    "sigungu": "용인시",
+    "storecd": "12061"
+  },
+  {
+    "StoreName": "운정한빛",
+    "sido": "경기",
+    "sigungu": "파주시",
+    "storecd": "12040"
+  },
+  {
+    "StoreName": "울릉도",
+    "sido": "경북",
+    "sigungu": "울릉군",
+    "storecd": "12810"
+  },
+  {
+    "StoreName": "울산구영",
+    "sido": "울산",
+    "sigungu": "울주군",
+    "storecd": "11811"
+  },
+  {
+    "StoreName": "울산남목",
+    "sido": "울산",
+    "sigungu": "동구",
+    "storecd": "12069"
+  },
+  {
+    "StoreName": "울산대학",
+    "sido": "울산",
+    "sigungu": "남구",
+    "storecd": "11696"
+  },
+  {
+    "StoreName": "울산매곡",
+    "sido": "울산",
+    "sigungu": "북구",
+    "storecd": "12973"
+  },
+  {
+    "StoreName": "울산명촌",
+    "sido": "울산",
+    "sigungu": "북구",
+    "storecd": "12669"
+  },
+  {
+    "StoreName": "울산반구",
+    "sido": "울산",
+    "sigungu": "중구",
+    "storecd": "12635"
+  },
+  {
+    "StoreName": "울산방어",
+    "sido": "울산",
+    "sigungu": "동구",
+    "storecd": "12233"
+  },
+  {
+    "StoreName": "울산범서",
+    "sido": "울산",
+    "sigungu": "울주군",
+    "storecd": "11748"
+  },
+  {
+    "StoreName": "울산삼산",
+    "sido": "울산",
+    "sigungu": "남구",
+    "storecd": "13288"
+  },
+  {
+    "StoreName": "울산삼호",
+    "sido": "울산",
+    "sigungu": "남구",
+    "storecd": "13310"
+  },
+  {
+    "StoreName": "울산성안",
+    "sido": "울산",
+    "sigungu": "중구",
+    "storecd": "12474"
+  },
+  {
+    "StoreName": "울산세이브존",
+    "sido": "울산",
+    "sigungu": "남구",
+    "storecd": "12135"
+  },
+  {
+    "StoreName": "울산송정",
+    "sido": "울산",
+    "sigungu": "북구",
+    "storecd": "12970"
+  },
+  {
+    "StoreName": "울산신정",
+    "sido": "울산",
+    "sigungu": "남구",
+    "storecd": "13323"
+  },
+  {
+    "StoreName": "울산염포",
+    "sido": "울산",
+    "sigungu": "북구",
+    "storecd": "13187"
+  },
+  {
+    "StoreName": "울산옥동타워",
+    "sido": "울산",
+    "sigungu": "남구",
+    "storecd": "12696"
+  },
+  {
+    "StoreName": "울산온산",
+    "sido": "울산",
+    "sigungu": "울주군",
+    "storecd": "11762"
+  },
+  {
+    "StoreName": "울산온양",
+    "sido": "울산",
+    "sigungu": "을주군",
+    "storecd": "11866"
+  },
+  {
+    "StoreName": "울산우정",
+    "sido": "울산",
+    "sigungu": "중구",
+    "storecd": "12768"
+  },
+  {
+    "StoreName": "울산전하",
+    "sido": "울산",
+    "sigungu": "동구",
+    "storecd": "12376"
+  },
+  {
+    "StoreName": "울산정자해변",
+    "sido": "울산",
+    "sigungu": "북구",
+    "storecd": "12780"
+  },
+  {
+    "StoreName": "울산청량",
+    "sido": "울산",
+    "sigungu": "울주군",
+    "storecd": "13275"
+  },
+  {
+    "StoreName": "울산터미널",
+    "sido": "울산",
+    "sigungu": "남구",
+    "storecd": "11100"
+  },
+  {
+    "StoreName": "울산호계",
+    "sido": "울산",
+    "sigungu": "북구",
+    "storecd": "11772"
+  },
+  {
+    "StoreName": "울산화봉",
+    "sido": "울산",
+    "sigungu": "북구",
+    "storecd": "12188"
+  },
+  {
+    "StoreName": "울산화정",
+    "sido": "울산",
+    "sigungu": "동구",
+    "storecd": "11776"
+  },
+  {
+    "StoreName": "울진D/I",
+    "sido": "경북",
+    "sigungu": "울진군",
+    "storecd": "11756"
+  },
+  {
+    "StoreName": "원광대",
+    "sido": "전북",
+    "sigungu": "익산시",
+    "storecd": "11658"
+  },
+  {
+    "StoreName": "원당",
+    "sido": "경기",
+    "sigungu": "고양시",
+    "storecd": "11253"
+  },
+  {
+    "StoreName": "원주기업도시",
+    "sido": "강원",
+    "sigungu": "원주시",
+    "storecd": "12953"
+  },
+  {
+    "StoreName": "원주단계",
+    "sido": "강원",
+    "sigungu": "원주시",
+    "storecd": "12161"
+  },
+  {
+    "StoreName": "원주단관",
+    "sido": "강원",
+    "sigungu": "원주시",
+    "storecd": "12996"
+  },
+  {
+    "StoreName": "원주무실",
+    "sido": "강원",
+    "sigungu": "원주시",
+    "storecd": "11477"
+  },
+  {
+    "StoreName": "원주반곡",
+    "sido": "강원",
+    "sigungu": "원주시",
+    "storecd": "12540"
+  },
+  {
+    "StoreName": "원주봉산",
+    "sido": "강원",
+    "sigungu": "원주시",
+    "storecd": "13039"
+  },
+  {
+    "StoreName": "원주우산",
+    "sido": "강원",
+    "sigungu": "원주시",
+    "storecd": "11466"
+  },
+  {
+    "StoreName": "원주치악로",
+    "sido": "강원",
+    "sigungu": "원주",
+    "storecd": "13333"
+  },
+  {
+    "StoreName": "원주태장",
+    "sido": "강원",
+    "sigungu": "원주시",
+    "storecd": "12414"
+  },
+  {
+    "StoreName": "원주하나로",
+    "sido": "강원",
+    "sigungu": "원주시",
+    "storecd": "11471"
+  },
+  {
+    "StoreName": "원주흥업",
+    "sido": "강원",
+    "sigungu": "원주시",
+    "storecd": "12843"
+  },
+  {
+    "StoreName": "원통",
+    "sido": "강원",
+    "sigungu": "인제군",
+    "storecd": "11481"
+  },
+  {
+    "StoreName": "월계역",
+    "sido": "서울",
+    "sigungu": "노원구",
+    "storecd": "13299"
+  },
+  {
+    "StoreName": "위례역",
+    "sido": "경기",
+    "sigungu": "성남시",
+    "storecd": "12662"
+  },
+  {
+    "StoreName": "음성",
+    "sido": "충북",
+    "sigungu": "음성군",
+    "storecd": "11565"
+  },
+  {
+    "StoreName": "음성삼성",
+    "sido": "충북",
+    "sigungu": "음성군",
+    "storecd": "12855"
+  },
+  {
+    "StoreName": "응암",
+    "sido": "서울",
+    "sigungu": "은평구",
+    "storecd": "13273"
+  },
+  {
+    "StoreName": "응암오거리",
+    "sido": "서울",
+    "sigungu": "은평구",
+    "storecd": "11160"
+  },
+  {
+    "StoreName": "의왕부곡",
+    "sido": "경기",
+    "sigungu": "의왕시",
+    "storecd": "11455"
+  },
+  {
+    "StoreName": "의정부가능역점",
+    "sido": "경기",
+    "sigungu": "의정부시",
+    "storecd": "11380"
+  },
+  {
+    "StoreName": "의정부고산",
+    "sido": "경기",
+    "sigungu": "의정부시",
+    "storecd": "13046"
+  },
+  {
+    "StoreName": "의정부낙양",
+    "sido": "경기",
+    "sigungu": "의정부시",
+    "storecd": "12801"
+  },
+  {
+    "StoreName": "의정부녹양역",
+    "sido": "경기",
+    "sigungu": "의정부시",
+    "storecd": "12275"
+  },
+  {
+    "StoreName": "의정부민락",
+    "sido": "경기",
+    "sigungu": "의정부시",
+    "storecd": "12674"
+  },
+  {
+    "StoreName": "의정부시청",
+    "sido": "경기",
+    "sigungu": "의정부시",
+    "storecd": "12388"
+  },
+  {
+    "StoreName": "의정부신곡",
+    "sido": "경기",
+    "sigungu": "의정부시",
+    "storecd": "11861"
+  },
+  {
+    "StoreName": "의정부용현",
+    "sido": "경기",
+    "sigungu": "의정부시",
+    "storecd": "11334"
+  },
+  {
+    "StoreName": "의정부제일",
+    "sido": "경기",
+    "sigungu": "의정부시",
+    "storecd": "11399"
+  },
+  {
+    "StoreName": "의정부회룡역",
+    "sido": "경기",
+    "sigungu": "의정부시",
+    "storecd": "13338"
+  },
+  {
+    "StoreName": "이대",
+    "sido": "서울",
+    "sigungu": "서대문구",
+    "storecd": "12925"
+  },
+  {
+    "StoreName": "이마트여수",
+    "sido": "전라남도",
+    "sigungu": "여수시",
+    "storecd": "13327"
+  },
+  {
+    "StoreName": "이수역",
+    "sido": "서울",
+    "sigungu": "동작구",
+    "storecd": "12002"
+  },
+  {
+    "StoreName": "이천",
+    "sido": "경기",
+    "sigungu": "이천시",
+    "storecd": "12984"
+  },
+  {
+    "StoreName": "이천마장",
+    "sido": "경기",
+    "sigungu": "이천시",
+    "storecd": "13252"
+  },
+  {
+    "StoreName": "이천송정",
+    "sido": "경기",
+    "sigungu": "이천시",
+    "storecd": "12980"
+  },
+  {
+    "StoreName": "이천증포",
+    "sido": "경기",
+    "sigungu": "이천시",
+    "storecd": "12478"
+  },
+  {
+    "StoreName": "이천하이닉스",
+    "sido": "경기",
+    "sigungu": "이천시",
+    "storecd": "12691"
+  },
+  {
+    "StoreName": "익산동산",
+    "sido": "전북",
+    "sigungu": "익산시",
+    "storecd": "12332"
+  },
+  {
+    "StoreName": "익산모현",
+    "sido": "전북",
+    "sigungu": "익산시",
+    "storecd": "11865"
+  },
+  {
+    "StoreName": "익산배산",
+    "sido": "전북",
+    "sigungu": "익산시",
+    "storecd": "12425"
+  },
+  {
+    "StoreName": "익산부송",
+    "sido": "전북",
+    "sigungu": "익산시",
+    "storecd": "11633"
+  },
+  {
+    "StoreName": "익산역",
+    "sido": "전북",
+    "sigungu": "익산시",
+    "storecd": "12764"
+  },
+  {
+    "StoreName": "익산영등",
+    "sido": "전북",
+    "sigungu": "익산시",
+    "storecd": "12324"
+  },
+  {
+    "StoreName": "익산제일",
+    "sido": "전북",
+    "sigungu": "익산시",
+    "storecd": "12927"
+  },
+  {
+    "StoreName": "인덕원역",
+    "sido": "경기",
+    "sigungu": "안양시",
+    "storecd": "12671"
+  },
+  {
+    "StoreName": "인제터미널",
+    "sido": "강원",
+    "sigungu": "인제군",
+    "storecd": "12052"
+  },
+  {
+    "StoreName": "인천가정",
+    "sido": "인천",
+    "sigungu": "서구",
+    "storecd": "12882"
+  },
+  {
+    "StoreName": "인천가좌",
+    "sido": "인천",
+    "sigungu": "서구",
+    "storecd": "11403"
+  },
+  {
+    "StoreName": "인천간석",
+    "sido": "인천",
+    "sigungu": "남동구",
+    "storecd": "11453"
+  },
+  {
+    "StoreName": "인천갈산",
+    "sido": "인천",
+    "sigungu": "부평구",
+    "storecd": "12259"
+  },
+  {
+    "StoreName": "인천강화",
+    "sido": "인천",
+    "sigungu": "강화군",
+    "storecd": "11322"
+  },
+  {
+    "StoreName": "인천검단",
+    "sido": "인천",
+    "sigungu": "서구",
+    "storecd": "12390"
+  },
+  {
+    "StoreName": "인천검암",
+    "sido": "인천",
+    "sigungu": "서구",
+    "storecd": "11459"
+  },
+  {
+    "StoreName": "인천검암한들",
+    "sido": "인천",
+    "sigungu": "서구",
+    "storecd": "13339"
+  },
+  {
+    "StoreName": "인천계산",
+    "sido": "인천",
+    "sigungu": "계양구",
+    "storecd": "11256"
+  },
+  {
+    "StoreName": "인천계양",
+    "sido": "인천",
+    "sigungu": "계양구",
+    "storecd": "11283"
+  },
+  {
+    "StoreName": "인천공항1층",
+    "sido": "인천",
+    "sigungu": "중구",
+    "storecd": "12594"
+  },
+  {
+    "StoreName": "인천공항제2여객터미널1층",
+    "sido": "인천",
+    "sigungu": "중구",
+    "storecd": "12821"
+  },
+  {
+    "StoreName": "인천공항탑승동",
+    "sido": "인천",
+    "sigungu": "중구",
+    "storecd": "12587"
+  },
+  {
+    "StoreName": "인천공항T2A/S서편",
+    "sido": "인천",
+    "sigungu": "중구",
+    "storecd": "12962"
+  },
+  {
+    "StoreName": "인천구월",
+    "sido": "인천",
+    "sigungu": "남동구",
+    "storecd": "11289"
+  },
+  {
+    "StoreName": "인천남동공단",
+    "sido": "인천",
+    "sigungu": "남동구",
+    "storecd": "11446"
+  },
+  {
+    "StoreName": "인천남동구청",
+    "sido": "인천",
+    "sigungu": "남동구",
+    "storecd": "11309"
+  },
+  {
+    "StoreName": "인천논현",
+    "sido": "인천",
+    "sigungu": "남동구",
+    "storecd": "11426"
+  },
+  {
+    "StoreName": "인천당하",
+    "sido": "인천",
+    "sigungu": "서구",
+    "storecd": "11372"
+  },
+  {
+    "StoreName": "인천도화",
+    "sido": "인천",
+    "sigungu": "미추홀구",
+    "storecd": "12890"
+  },
+  {
+    "StoreName": "인천동양",
+    "sido": "인천",
+    "sigungu": "계양구",
+    "storecd": "12282"
+  },
+  {
+    "StoreName": "인천동춘",
+    "sido": "인천",
+    "sigungu": "연수구",
+    "storecd": "12372"
+  },
+  {
+    "StoreName": "인천루원시티",
+    "sido": "인천",
+    "sigungu": "서구",
+    "storecd": "13271"
+  },
+  {
+    "StoreName": "인천만수",
+    "sido": "인천",
+    "sigungu": "남동구",
+    "storecd": "11398"
+  },
+  {
+    "StoreName": "인천백운",
+    "sido": "인천",
+    "sigungu": "부평구",
+    "storecd": "11273"
+  },
+  {
+    "StoreName": "인천병방",
+    "sido": "인천",
+    "sigungu": "계양구",
+    "storecd": "11291"
+  },
+  {
+    "StoreName": "인천부개",
+    "sido": "인천",
+    "sigungu": "부평구",
+    "storecd": "11296"
+  },
+  {
+    "StoreName": "인천부개역",
+    "sido": "인천",
+    "sigungu": "부평구",
+    "storecd": "12236"
+  },
+  {
+    "StoreName": "인천불로",
+    "sido": "인천",
+    "sigungu": "서구",
+    "storecd": "12409"
+  },
+  {
+    "StoreName": "인천서구",
+    "sido": "인천",
+    "sigungu": "서구",
+    "storecd": "12773"
+  },
+  {
+    "StoreName": "인천서창",
+    "sido": "인천",
+    "sigungu": "남동구",
+    "storecd": "12464"
+  },
+  {
+    "StoreName": "인천석남",
+    "sido": "인천",
+    "sigungu": "서구",
+    "storecd": "11395"
+  },
+  {
+    "StoreName": "인천석바위",
+    "sido": "인천",
+    "sigungu": "미추홀구",
+    "storecd": "12235"
+  },
+  {
+    "StoreName": "인천소래포구역",
+    "sido": "인천",
+    "sigungu": "남동구",
+    "storecd": "12356"
+  },
+  {
+    "StoreName": "인천송도",
+    "sido": "인천",
+    "sigungu": "연수구",
+    "storecd": "11436"
+  },
+  {
+    "StoreName": "인천시티오씨엘",
+    "sido": "인천",
+    "sigungu": "미추홀구",
+    "storecd": "13344"
+  },
+  {
+    "StoreName": "인천신기",
+    "sido": "인천",
+    "sigungu": "미추홀구",
+    "storecd": "11279"
+  },
+  {
+    "StoreName": "인천연수",
+    "sido": "인천",
+    "sigungu": "연수구",
+    "storecd": "11307"
+  },
+  {
+    "StoreName": "인천연희D/T",
+    "sido": "인천",
+    "sigungu": "서구",
+    "storecd": "11077"
+  },
+  {
+    "StoreName": "인천영종하늘도시",
+    "sido": "인천",
+    "sigungu": "중구",
+    "storecd": "12504"
+  },
+  {
+    "StoreName": "인천옥련",
+    "sido": "인천",
+    "sigungu": "연수구",
+    "storecd": "11295"
+  },
+  {
+    "StoreName": "인천올리브",
+    "sido": "인천",
+    "sigungu": "남동구",
+    "storecd": "11439"
+  },
+  {
+    "StoreName": "인천왕길역",
+    "sido": "인천",
+    "sigungu": "서구",
+    "storecd": "13027"
+  },
+  {
+    "StoreName": "인천용현",
+    "sido": "인천",
+    "sigungu": "미추홀구",
+    "storecd": "11331"
+  },
+  {
+    "StoreName": "인천원당",
+    "sido": "인천",
+    "sigungu": "서구",
+    "storecd": "11379"
+  },
+  {
+    "StoreName": "인천작전",
+    "sido": "인천",
+    "sigungu": "계양구",
+    "storecd": "11327"
+  },
+  {
+    "StoreName": "인천청라",
+    "sido": "인천",
+    "sigungu": "서구",
+    "storecd": "12120"
+  },
+  {
+    "StoreName": "인천청라호수공원",
+    "sido": "인천",
+    "sigungu": "서구",
+    "storecd": "12452"
+  },
+  {
+    "StoreName": "인천청천",
+    "sido": "인천",
+    "sigungu": "부평구",
+    "storecd": "11345"
+  },
+  {
+    "StoreName": "인천학산",
+    "sido": "인천",
+    "sigungu": "미추홀구",
+    "storecd": "12636"
+  },
+  {
+    "StoreName": "인천학익",
+    "sido": "인천",
+    "sigungu": "미추홀구",
+    "storecd": "11317"
+  },
+  {
+    "StoreName": "인천허브D/I",
+    "sido": "인천",
+    "sigungu": "중구",
+    "storecd": "12285"
+  },
+  {
+    "StoreName": "일동",
+    "sido": "경기",
+    "sigungu": "포천시",
+    "storecd": "11312"
+  },
+  {
+    "StoreName": "일산가좌",
+    "sido": "경기",
+    "sigungu": "고양시",
+    "storecd": "12080"
+  },
+  {
+    "StoreName": "일산대화",
+    "sido": "경기",
+    "sigungu": "고양시",
+    "storecd": "11370"
+  },
+  {
+    "StoreName": "일산대화역",
+    "sido": "경기",
+    "sigungu": "고양시",
+    "storecd": "12460"
+  },
+  {
+    "StoreName": "일산마두",
+    "sido": "경기",
+    "sigungu": "고양시",
+    "storecd": "11313"
+  },
+  {
+    "StoreName": "일산식사",
+    "sido": "경기",
+    "sigungu": "고양시",
+    "storecd": "12072"
+  },
+  {
+    "StoreName": "일산중산",
+    "sido": "경기",
+    "sigungu": "고양시",
+    "storecd": "11365"
+  },
+  {
+    "StoreName": "일산킨텍스",
+    "sido": "경기",
+    "sigungu": "고양시",
+    "storecd": "12121"
+  },
+  {
+    "StoreName": "일산탄현",
+    "sido": "경기",
+    "sigungu": "고양시",
+    "storecd": "11332"
+  },
+  {
+    "StoreName": "일산풍동",
+    "sido": "경기",
+    "sigungu": "고양시",
+    "storecd": "11458"
+  },
+  {
+    "StoreName": "일산후곡",
+    "sido": "경기",
+    "sigungu": "고양시",
+    "storecd": "11456"
+  },
+  {
+    "StoreName": "임실",
+    "sido": "전북",
+    "sigungu": "임실군임실읍",
+    "storecd": "12429"
+  },
+  {
+    "StoreName": "잠실롯데월드몰B1",
+    "sido": "서울",
+    "sigungu": "송파구",
+    "storecd": "12405"
+  },
+  {
+    "StoreName": "장생포",
+    "sido": "울산",
+    "sigungu": "남구",
+    "storecd": "12878"
+  },
+  {
+    "StoreName": "장승포",
+    "sido": "경남",
+    "sigungu": "거제시",
+    "storecd": "11824"
+  },
+  {
+    "StoreName": "장안사거리",
+    "sido": "서울",
+    "sigungu": "동대문구",
+    "storecd": "11162"
+  },
+  {
+    "StoreName": "장한평역",
+    "sido": "서울",
+    "sigungu": "동대문구",
+    "storecd": "12755"
+  },
+  {
+    "StoreName": "장현",
+    "sido": "경기",
+    "sigungu": "남양주시",
+    "storecd": "11325"
+  },
+  {
+    "StoreName": "장호원",
+    "sido": "경기",
+    "sigungu": "이천시",
+    "storecd": "12051"
+  },
+  {
+    "StoreName": "장흥",
+    "sido": "전남",
+    "sigungu": "장흥군",
+    "storecd": "12333"
+  },
+  {
+    "StoreName": "전곡",
+    "sido": "경기",
+    "sigungu": "연천군",
+    "storecd": "11299"
+  },
+  {
+    "StoreName": "전남고흥",
+    "sido": "전남",
+    "sigungu": "고흥군고흥읍",
+    "storecd": "12509"
+  },
+  {
+    "StoreName": "전남곡성",
+    "sido": "전남",
+    "sigungu": "곡성군",
+    "storecd": "12862"
+  },
+  {
+    "StoreName": "전남구례",
+    "sido": "전남",
+    "sigungu": "구례군",
+    "storecd": "12629"
+  },
+  {
+    "StoreName": "전남대",
+    "sido": "광주",
+    "sigungu": "북구",
+    "storecd": "12150"
+  },
+  {
+    "StoreName": "전남장성",
+    "sido": "전남",
+    "sigungu": "장성군장성읍",
+    "storecd": "12493"
+  },
+  {
+    "StoreName": "전남함평",
+    "sido": "전남",
+    "sigungu": "함평군",
+    "storecd": "12679"
+  },
+  {
+    "StoreName": "전북대",
+    "sido": "전북",
+    "sigungu": "전주시",
+    "storecd": "12926"
+  },
+  {
+    "StoreName": "전북도청",
+    "sido": "전북특별자치도",
+    "sigungu": "전주시",
+    "storecd": "13250"
+  },
+  {
+    "StoreName": "전북장수",
+    "sido": "전북",
+    "sigungu": "장수군",
+    "storecd": "12802"
+  },
+  {
+    "StoreName": "전북진안",
+    "sido": "전북",
+    "sigungu": "진안군",
+    "storecd": "12906"
+  },
+  {
+    "StoreName": "전주고사",
+    "sido": "전북특별자치도",
+    "sigungu": "전주시",
+    "storecd": "13253"
+  },
+  {
+    "StoreName": "전주동산",
+    "sido": "전북",
+    "sigungu": "전주시",
+    "storecd": "11671"
+  },
+  {
+    "StoreName": "전주메가월드",
+    "sido": "전북",
+    "sigungu": "전주시",
+    "storecd": "11642"
+  },
+  {
+    "StoreName": "전주법원",
+    "sido": "전북",
+    "sigungu": "전주시",
+    "storecd": "12987"
+  },
+  {
+    "StoreName": "전주삼천",
+    "sido": "전북",
+    "sigungu": "전주시",
+    "storecd": "12147"
+  },
+  {
+    "StoreName": "전주서곡",
+    "sido": "전북특별자치도",
+    "sigungu": "전주시",
+    "storecd": "13335"
+  },
+  {
+    "StoreName": "전주서신",
+    "sido": "전북",
+    "sigungu": "전주시",
+    "storecd": "11613"
+  },
+  {
+    "StoreName": "전주세병호",
+    "sido": "전북",
+    "sigungu": "전주시",
+    "storecd": "13103"
+  },
+  {
+    "StoreName": "전주송천",
+    "sido": "전북",
+    "sigungu": "전주시",
+    "storecd": "12055"
+  },
+  {
+    "StoreName": "전주시청",
+    "sido": "전북",
+    "sigungu": "전주시",
+    "storecd": "12928"
+  },
+  {
+    "StoreName": "전주아중",
+    "sido": "전북",
+    "sigungu": "전주시",
+    "storecd": "11628"
+  },
+  {
+    "StoreName": "전주에코",
+    "sido": "전라북도",
+    "sigungu": "전주시",
+    "storecd": "12937"
+  },
+  {
+    "StoreName": "전주인후",
+    "sido": "전북",
+    "sigungu": "전주시",
+    "storecd": "12264"
+  },
+  {
+    "StoreName": "전주중화산",
+    "sido": "전북",
+    "sigungu": "전주시",
+    "storecd": "12299"
+  },
+  {
+    "StoreName": "전주평화",
+    "sido": "전북",
+    "sigungu": "전주시",
+    "storecd": "12770"
+  },
+  {
+    "StoreName": "전주하가D/I",
+    "sido": "전북",
+    "sigungu": "전주시",
+    "storecd": "12595"
+  },
+  {
+    "StoreName": "전주혁신",
+    "sido": "전북",
+    "sigungu": "전주시",
+    "storecd": "12492"
+  },
+  {
+    "StoreName": "전주호성",
+    "sido": "전북",
+    "sigungu": "전주시",
+    "storecd": "13110"
+  },
+  {
+    "StoreName": "전주효자서부",
+    "sido": "전북",
+    "sigungu": "전주시",
+    "storecd": "12094"
+  },
+  {
+    "StoreName": "전주효자CGV",
+    "sido": "전북",
+    "sigungu": "전주시",
+    "storecd": "11616"
+  },
+  {
+    "StoreName": "점촌",
+    "sido": "경북",
+    "sigungu": "문경시",
+    "storecd": "11721"
+  },
+  {
+    "StoreName": "정릉",
+    "sido": "서울",
+    "sigungu": "성북구",
+    "storecd": "12066"
+  },
+  {
+    "StoreName": "정선고한",
+    "sido": "강원",
+    "sigungu": "정선군",
+    "storecd": "13090"
+  },
+  {
+    "StoreName": "정읍",
+    "sido": "전북",
+    "sigungu": "정읍시",
+    "storecd": "11606"
+  },
+  {
+    "StoreName": "정읍상동",
+    "sido": "전북",
+    "sigungu": "정읍시",
+    "storecd": "12721"
+  },
+  {
+    "StoreName": "정자역",
+    "sido": "경기",
+    "sigungu": "성남시",
+    "storecd": "13077"
+  },
+  {
+    "StoreName": "제기역",
+    "sido": "서울",
+    "sigungu": "동대문구",
+    "storecd": "12734"
+  },
+  {
+    "StoreName": "제물포",
+    "sido": "인천",
+    "sigungu": "미추홀구",
+    "storecd": "11271"
+  },
+  {
+    "StoreName": "제주공항국내선탑승",
+    "sido": "제주",
+    "sigungu": "제주시",
+    "storecd": "12939"
+  },
+  {
+    "StoreName": "제주삼화지구",
+    "sido": "제주",
+    "sigungu": "제주시",
+    "storecd": "12437"
+  },
+  {
+    "StoreName": "제주시청",
+    "sido": "제주",
+    "sigungu": "제주시",
+    "storecd": "11846"
+  },
+  {
+    "StoreName": "제주아라",
+    "sido": "제주",
+    "sigungu": "제주시",
+    "storecd": "12530"
+  },
+  {
+    "StoreName": "제주외도D/I",
+    "sido": "제주",
+    "sigungu": "제주시",
+    "storecd": "12560"
+  },
+  {
+    "StoreName": "제주표선해변",
+    "sido": "제주",
+    "sigungu": "서귀포시",
+    "storecd": "12785"
+  },
+  {
+    "StoreName": "제주한림",
+    "sido": "제주",
+    "sigungu": "제주시",
+    "storecd": "12625"
+  },
+  {
+    "StoreName": "제주함덕",
+    "sido": "제주",
+    "sigungu": "제주시",
+    "storecd": "12993"
+  },
+  {
+    "StoreName": "제주항D/I",
+    "sido": "제주",
+    "sigungu": "제주시",
+    "storecd": "12487"
+  },
+  {
+    "StoreName": "제천",
+    "sido": "충북",
+    "sigungu": "제천시",
+    "storecd": "11494"
+  },
+  {
+    "StoreName": "제천강저",
+    "sido": "충북",
+    "sigungu": "제천시",
+    "storecd": "12912"
+  },
+  {
+    "StoreName": "제천청전",
+    "sido": "충북",
+    "sigungu": "제천시",
+    "storecd": "11561"
+  },
+  {
+    "StoreName": "조치원",
+    "sido": "세종",
+    "sigungu": "조치원읍",
+    "storecd": "11575"
+  },
+  {
+    "StoreName": "조치원죽림",
+    "sido": "세종특별자치시",
+    "sigungu": "조치원읍",
+    "storecd": "13343"
+  },
+  {
+    "StoreName": "종암",
+    "sido": "서울",
+    "sigungu": "성북구",
+    "storecd": "12106"
+  },
+  {
+    "StoreName": "주안",
+    "sido": "인천",
+    "sigungu": "미추홀구",
+    "storecd": "13070"
+  },
+  {
+    "StoreName": "주안고려",
+    "sido": "인천",
+    "sigungu": "미추홀구",
+    "storecd": "11292"
+  },
+  {
+    "StoreName": "주엽역",
+    "sido": "경기도",
+    "sigungu": "고양시",
+    "storecd": "13102"
+  },
+  {
+    "StoreName": "중곡",
+    "sido": "서울",
+    "sigungu": "광진구",
+    "storecd": "12146"
+  },
+  {
+    "StoreName": "중동인성",
+    "sido": "경기",
+    "sigungu": "부천시",
+    "storecd": "12138"
+  },
+  {
+    "StoreName": "중랑역",
+    "sido": "서울",
+    "sigungu": "중랑구",
+    "storecd": "12230"
+  },
+  {
+    "StoreName": "중앙대",
+    "sido": "서울",
+    "sigungu": "동작구",
+    "storecd": "12049"
+  },
+  {
+    "StoreName": "중화역",
+    "sido": "서울",
+    "sigungu": "중랑구",
+    "storecd": "12750"
+  },
+  {
+    "StoreName": "증평",
+    "sido": "충북",
+    "sigungu": "증평군",
+    "storecd": "11515"
+  },
+  {
+    "StoreName": "지축역",
+    "sido": "경기",
+    "sigungu": "고양시",
+    "storecd": "13080"
+  },
+  {
+    "StoreName": "지행역",
+    "sido": "경기",
+    "sigungu": "동두천시",
+    "storecd": "13296"
+  },
+  {
+    "StoreName": "진건",
+    "sido": "경기",
+    "sigungu": "남양주시",
+    "storecd": "11388"
+  },
+  {
+    "StoreName": "진도",
+    "sido": "전남",
+    "sigungu": "진도군",
+    "storecd": "12938"
+  },
+  {
+    "StoreName": "진영휴게소(하)",
+    "sido": "경남",
+    "sigungu": "김해시",
+    "storecd": "13049"
+  },
+  {
+    "StoreName": "진주금산",
+    "sido": "경남",
+    "sigungu": "진주시",
+    "storecd": "11836"
+  },
+  {
+    "StoreName": "진주대안",
+    "sido": "경남",
+    "sigungu": "진주시",
+    "storecd": "12956"
+  },
+  {
+    "StoreName": "진주산업대",
+    "sido": "경남",
+    "sigungu": "진주시",
+    "storecd": "11962"
+  },
+  {
+    "StoreName": "진주상대",
+    "sido": "경남",
+    "sigungu": "진주시",
+    "storecd": "11735"
+  },
+  {
+    "StoreName": "진주상봉",
+    "sido": "경남",
+    "sigungu": "진주시",
+    "storecd": "12757"
+  },
+  {
+    "StoreName": "진주신안",
+    "sido": "경남",
+    "sigungu": "진주시",
+    "storecd": "12751"
+  },
+  {
+    "StoreName": "진주초장",
+    "sido": "경남",
+    "sigungu": "진주시",
+    "storecd": "12955"
+  },
+  {
+    "StoreName": "진주하대",
+    "sido": "경남",
+    "sigungu": "진주시",
+    "storecd": "12481"
+  },
+  {
+    "StoreName": "진주혁신",
+    "sido": "경남",
+    "sigungu": "진주시",
+    "storecd": "13047"
+  },
+  {
+    "StoreName": "진천",
+    "sido": "충북",
+    "sigungu": "진천군",
+    "storecd": "11533"
+  },
+  {
+    "StoreName": "진해남문",
+    "sido": "경남",
+    "sigungu": "창원시",
+    "storecd": "12837"
+  },
+  {
+    "StoreName": "진해용원",
+    "sido": "경남",
+    "sigungu": "창원시",
+    "storecd": "12238"
+  },
+  {
+    "StoreName": "진해자은",
+    "sido": "경남",
+    "sigungu": "창원시",
+    "storecd": "12905"
+  },
+  {
+    "StoreName": "진해장천",
+    "sido": "경남",
+    "sigungu": "창원시",
+    "storecd": "13305"
+  },
+  {
+    "StoreName": "진해중앙",
+    "sido": "경남",
+    "sigungu": "창원시",
+    "storecd": "12173"
+  },
+  {
+    "StoreName": "창동역",
+    "sido": "서울",
+    "sigungu": "도봉구",
+    "storecd": "12283"
+  },
+  {
+    "StoreName": "창원감계",
+    "sido": "경남",
+    "sigungu": "창원시",
+    "storecd": "12619"
+  },
+  {
+    "StoreName": "창원대동백화점",
+    "sido": "경남",
+    "sigungu": "창원시",
+    "storecd": "12918"
+  },
+  {
+    "StoreName": "창원대방",
+    "sido": "경남",
+    "sigungu": "창원시",
+    "storecd": "11739"
+  },
+  {
+    "StoreName": "창원대학",
+    "sido": "경남",
+    "sigungu": "창원시",
+    "storecd": "11742"
+  },
+  {
+    "StoreName": "창원도계",
+    "sido": "경남",
+    "sigungu": "창원시",
+    "storecd": "11760"
+  },
+  {
+    "StoreName": "창원동읍",
+    "sido": "경남",
+    "sigungu": "창원시",
+    "storecd": "12511"
+  },
+  {
+    "StoreName": "창원상남",
+    "sido": "경남",
+    "sigungu": "창원시",
+    "storecd": "11951"
+  },
+  {
+    "StoreName": "창원소답",
+    "sido": "경남",
+    "sigungu": "창원시",
+    "storecd": "12036"
+  },
+  {
+    "StoreName": "창원용호",
+    "sido": "경남",
+    "sigungu": "창원시",
+    "storecd": "11714"
+  },
+  {
+    "StoreName": "창원팔용",
+    "sido": "경남",
+    "sigungu": "창원시",
+    "storecd": "11749"
+  },
+  {
+    "StoreName": "창천",
+    "sido": "서울",
+    "sigungu": "서대문구",
+    "storecd": "12851"
+  },
+  {
+    "StoreName": "천안나사렛",
+    "sido": "충남",
+    "sigungu": "천안시",
+    "storecd": "13015"
+  },
+  {
+    "StoreName": "천안두정",
+    "sido": "충남",
+    "sigungu": "천안시",
+    "storecd": "11556"
+  },
+  {
+    "StoreName": "천안목천",
+    "sido": "충남",
+    "sigungu": "천안시",
+    "storecd": "11987"
+  },
+  {
+    "StoreName": "천안백석",
+    "sido": "충남",
+    "sigungu": "천안시",
+    "storecd": "11520"
+  },
+  {
+    "StoreName": "천안불당",
+    "sido": "충남",
+    "sigungu": "천안시",
+    "storecd": "12648"
+  },
+  {
+    "StoreName": "천안성거",
+    "sido": "충남",
+    "sigungu": "천안시",
+    "storecd": "12440"
+  },
+  {
+    "StoreName": "천안성성레이크시티",
+    "sido": "충남",
+    "sigungu": "천안시",
+    "storecd": "13082"
+  },
+  {
+    "StoreName": "천안성정",
+    "sido": "충남",
+    "sigungu": "천안시",
+    "storecd": "12348"
+  },
+  {
+    "StoreName": "천안신당",
+    "sido": "충남",
+    "sigungu": "천안시",
+    "storecd": "12979"
+  },
+  {
+    "StoreName": "천안신방",
+    "sido": "충남",
+    "sigungu": "천안시",
+    "storecd": "11548"
+  },
+  {
+    "StoreName": "천안신부",
+    "sido": "충남",
+    "sigungu": "천안시",
+    "storecd": "13172"
+  },
+  {
+    "StoreName": "천안쌍용",
+    "sido": "충남",
+    "sigungu": "천안시",
+    "storecd": "11542"
+  },
+  {
+    "StoreName": "천안아산역사",
+    "sido": "충남",
+    "sigungu": "아산시",
+    "storecd": "11961"
+  },
+  {
+    "StoreName": "천안안서",
+    "sido": "충남",
+    "sigungu": "천안시",
+    "storecd": "12231"
+  },
+  {
+    "StoreName": "천안안서D/T",
+    "sido": "충남",
+    "sigungu": "천안시",
+    "storecd": "12344"
+  },
+  {
+    "StoreName": "천안역사",
+    "sido": "충남",
+    "sigungu": "천안시",
+    "storecd": "12992"
+  },
+  {
+    "StoreName": "천안직산",
+    "sido": "충남",
+    "sigungu": "천안시",
+    "storecd": "11583"
+  },
+  {
+    "StoreName": "천안차암",
+    "sido": "충남",
+    "sigungu": "천안시",
+    "storecd": "12479"
+  },
+  {
+    "StoreName": "천안청수",
+    "sido": "충남",
+    "sigungu": "천안시",
+    "storecd": "13088"
+  },
+  {
+    "StoreName": "천안통정",
+    "sido": "충남",
+    "sigungu": "천안시",
+    "storecd": "12563"
+  },
+  {
+    "StoreName": "천왕역",
+    "sido": "서울",
+    "sigungu": "구로구",
+    "storecd": "12522"
+  },
+  {
+    "StoreName": "천호역",
+    "sido": "서울",
+    "sigungu": "강동구",
+    "storecd": "12301"
+  },
+  {
+    "StoreName": "철원동송",
+    "sido": "강원",
+    "sigungu": "철원군",
+    "storecd": "11297"
+  },
+  {
+    "StoreName": "철원와수",
+    "sido": "강원",
+    "sigungu": "철원군",
+    "storecd": "12167"
+  },
+  {
+    "StoreName": "청계산입구역",
+    "sido": "서울",
+    "sigungu": "서초구",
+    "storecd": "12894"
+  },
+  {
+    "StoreName": "청구역",
+    "sido": "서울",
+    "sigungu": "중구",
+    "storecd": "12181"
+  },
+  {
+    "StoreName": "청도",
+    "sido": "경북",
+    "sigungu": "청도군",
+    "storecd": "11796"
+  },
+  {
+    "StoreName": "청량리",
+    "sido": "서울",
+    "sigungu": "동대문구",
+    "storecd": "11182"
+  },
+  {
+    "StoreName": "청량리역사",
+    "sido": "서울",
+    "sigungu": "동대문구",
+    "storecd": "12833"
+  },
+  {
+    "StoreName": "청주가경",
+    "sido": "충북",
+    "sigungu": "청주시",
+    "storecd": "13266"
+  },
+  {
+    "StoreName": "청주강내",
+    "sido": "충북",
+    "sigungu": "청주시",
+    "storecd": "12614"
+  },
+  {
+    "StoreName": "청주개신",
+    "sido": "충북",
+    "sigungu": "청주시",
+    "storecd": "11521"
+  },
+  {
+    "StoreName": "청주금천",
+    "sido": "충북",
+    "sigungu": "청주시",
+    "storecd": "13270"
+  },
+  {
+    "StoreName": "청주남문성안길",
+    "sido": "충북",
+    "sigungu": "청주시",
+    "storecd": "12997"
+  },
+  {
+    "StoreName": "청주내수",
+    "sido": "충북",
+    "sigungu": "청주시",
+    "storecd": "12667"
+  },
+  {
+    "StoreName": "청주대학",
+    "sido": "충북",
+    "sigungu": "청주시",
+    "storecd": "11540"
+  },
+  {
+    "StoreName": "청주동남",
+    "sido": "충북",
+    "sigungu": "청주시",
+    "storecd": "13033"
+  },
+  {
+    "StoreName": "청주봉명",
+    "sido": "충북",
+    "sigungu": "청주시",
+    "storecd": "11599"
+  },
+  {
+    "StoreName": "청주분평",
+    "sido": "충북",
+    "sigungu": "청주시",
+    "storecd": "11530"
+  },
+  {
+    "StoreName": "청주사창",
+    "sido": "충북",
+    "sigungu": "청주시",
+    "storecd": "11529"
+  },
+  {
+    "StoreName": "청주사천",
+    "sido": "충북",
+    "sigungu": "청주시",
+    "storecd": "11536"
+  },
+  {
+    "StoreName": "청주산남",
+    "sido": "충북",
+    "sigungu": "청주시",
+    "storecd": "11582"
+  },
+  {
+    "StoreName": "청주옥산",
+    "sido": "충북",
+    "sigungu": "청주시",
+    "storecd": "12815"
+  },
+  {
+    "StoreName": "청주용암",
+    "sido": "충북",
+    "sigungu": "청주시",
+    "storecd": "11519"
+  },
+  {
+    "StoreName": "청주율량",
+    "sido": "충북",
+    "sigungu": "청주시",
+    "storecd": "11525"
+  },
+  {
+    "StoreName": "청주율량2지구",
+    "sido": "충청북도",
+    "sigungu": "청주시",
+    "storecd": "12548"
+  },
+  {
+    "StoreName": "청주지웰",
+    "sido": "충북",
+    "sigungu": "청주시",
+    "storecd": "12562"
+  },
+  {
+    "StoreName": "청주터미널",
+    "sido": "충북",
+    "sigungu": "청주시",
+    "storecd": "12000"
+  },
+  {
+    "StoreName": "청주테크노폴리스",
+    "sido": "충청북도",
+    "sigungu": "청주시",
+    "storecd": "12946"
+  },
+  {
+    "StoreName": "청주하나로",
+    "sido": "충북",
+    "sigungu": "청주시",
+    "storecd": "12095"
+  },
+  {
+    "StoreName": "청주하복대",
+    "sido": "충북",
+    "sigungu": "청주시",
+    "storecd": "11541"
+  },
+  {
+    "StoreName": "청평D/T",
+    "sido": "경기",
+    "sigungu": "가평군",
+    "storecd": "12524"
+  },
+  {
+    "StoreName": "초월역",
+    "sido": "경기",
+    "sigungu": "광주시",
+    "storecd": "13126"
+  },
+  {
+    "StoreName": "춘천명동",
+    "sido": "강원",
+    "sigungu": "춘천시",
+    "storecd": "11463"
+  },
+  {
+    "StoreName": "춘천온의",
+    "sido": "강원특별자치도",
+    "sigungu": "춘천시",
+    "storecd": "13158"
+  },
+  {
+    "StoreName": "춘천우두",
+    "sido": "강원",
+    "sigungu": "춘천시",
+    "storecd": "12663"
+  },
+  {
+    "StoreName": "춘천장학",
+    "sido": "강원",
+    "sigungu": "춘천시",
+    "storecd": "12847"
+  },
+  {
+    "StoreName": "충남광천",
+    "sido": "충남",
+    "sigungu": "홍성군",
+    "storecd": "12559"
+  },
+  {
+    "StoreName": "충남대",
+    "sido": "대전",
+    "sigungu": "유성구",
+    "storecd": "11985"
+  },
+  {
+    "StoreName": "충남도청",
+    "sido": "충남",
+    "sigungu": "홍성군",
+    "storecd": "12658"
+  },
+  {
+    "StoreName": "충북영동",
+    "sido": "충북",
+    "sigungu": "영동군",
+    "storecd": "11517"
+  },
+  {
+    "StoreName": "충북오송",
+    "sido": "충북",
+    "sigungu": "청주시",
+    "storecd": "12070"
+  },
+  {
+    "StoreName": "충북오송2지구",
+    "sido": "충북",
+    "sigungu": "청주시",
+    "storecd": "13162"
+  },
+  {
+    "StoreName": "충북혁신도시",
+    "sido": "충청북도",
+    "sigungu": "음성군",
+    "storecd": "12786"
+  },
+  {
+    "StoreName": "충주",
+    "sido": "충북",
+    "sigungu": "충주시",
+    "storecd": "11495"
+  },
+  {
+    "StoreName": "충주연수",
+    "sido": "충북",
+    "sigungu": "충주시",
+    "storecd": "12143"
+  },
+  {
+    "StoreName": "충주용산",
+    "sido": "충북",
+    "sigungu": "충주시",
+    "storecd": "12747"
+  },
+  {
+    "StoreName": "충주칠금",
+    "sido": "충북",
+    "sigungu": "충주시",
+    "storecd": "11534"
+  },
+  {
+    "StoreName": "충주터미널",
+    "sido": "충북",
+    "sigungu": "충주시",
+    "storecd": "11588"
+  },
+  {
+    "StoreName": "충주호암",
+    "sido": "충북",
+    "sigungu": "충주시",
+    "storecd": "12998"
+  },
+  {
+    "StoreName": "칠곡석적",
+    "sido": "경북",
+    "sigungu": "칠곡군",
+    "storecd": "11819"
+  },
+  {
+    "StoreName": "키즈마트부산",
+    "sido": "부산",
+    "sigungu": "진구",
+    "storecd": "12079"
+  },
+  {
+    "StoreName": "탑마트신다대",
+    "sido": "부산",
+    "sigungu": "사하구",
+    "storecd": "11221"
+  },
+  {
+    "StoreName": "탕정역",
+    "sido": "충남",
+    "sigungu": "아산시",
+    "storecd": "13112"
+  },
+  {
+    "StoreName": "태백",
+    "sido": "강원",
+    "sigungu": "태백시",
+    "storecd": "11485"
+  },
+  {
+    "StoreName": "태안",
+    "sido": "충남",
+    "sigungu": "태안군",
+    "storecd": "11528"
+  },
+  {
+    "StoreName": "통영",
+    "sido": "경남",
+    "sigungu": "통영시",
+    "storecd": "11705"
+  },
+  {
+    "StoreName": "통영죽림",
+    "sido": "경남",
+    "sigungu": "통영시",
+    "storecd": "11869"
+  },
+  {
+    "StoreName": "퇴계원",
+    "sido": "경기",
+    "sigungu": "남양주시",
+    "storecd": "12194"
+  },
+  {
+    "StoreName": "파주광탄",
+    "sido": "경기",
+    "sigungu": "파주시",
+    "storecd": "12875"
+  },
+  {
+    "StoreName": "파주교하",
+    "sido": "경기",
+    "sigungu": "파주시",
+    "storecd": "11394"
+  },
+  {
+    "StoreName": "파주당동",
+    "sido": "경기",
+    "sigungu": "파주시",
+    "storecd": "12641"
+  },
+  {
+    "StoreName": "파주동패",
+    "sido": "경기",
+    "sigungu": "파주시",
+    "storecd": "13157"
+  },
+  {
+    "StoreName": "파주법원",
+    "sido": "경기",
+    "sigungu": "파주시",
+    "storecd": "11360"
+  },
+  {
+    "StoreName": "파주야당역",
+    "sido": "경기",
+    "sigungu": "파주시",
+    "storecd": "12888"
+  },
+  {
+    "StoreName": "파주운정",
+    "sido": "경기",
+    "sigungu": "파주시",
+    "storecd": "11986"
+  },
+  {
+    "StoreName": "파주운정역",
+    "sido": "경기",
+    "sigungu": "파주시",
+    "storecd": "13091"
+  },
+  {
+    "StoreName": "파주운정해오름",
+    "sido": "경기",
+    "sigungu": "파주시",
+    "storecd": "13155"
+  },
+  {
+    "StoreName": "파주적성",
+    "sido": "경기",
+    "sigungu": "파주시",
+    "storecd": "12466"
+  },
+  {
+    "StoreName": "판교D/T",
+    "sido": "경기",
+    "sigungu": "성남시",
+    "storecd": "12932"
+  },
+  {
+    "StoreName": "팔달시장",
+    "sido": "대구",
+    "sigungu": "북구",
+    "storecd": "11720"
+  },
+  {
+    "StoreName": "평내",
+    "sido": "경기",
+    "sigungu": "남양주시",
+    "storecd": "12763"
+  },
+  {
+    "StoreName": "평창진부",
+    "sido": "강원",
+    "sigungu": "평창군",
+    "storecd": "12936"
+  },
+  {
+    "StoreName": "평촌귀인",
+    "sido": "경기",
+    "sigungu": "안양시",
+    "storecd": "11443"
+  },
+  {
+    "StoreName": "평택고덕에듀",
+    "sido": "경기",
+    "sigungu": "평택시",
+    "storecd": "13169"
+  },
+  {
+    "StoreName": "평택동삭",
+    "sido": "경기",
+    "sigungu": "평택시",
+    "storecd": "13062"
+  },
+  {
+    "StoreName": "평택비전",
+    "sido": "경기",
+    "sigungu": "평택시",
+    "storecd": "12496"
+  },
+  {
+    "StoreName": "평택서정",
+    "sido": "경기",
+    "sigungu": "평택시",
+    "storecd": "12968"
+  },
+  {
+    "StoreName": "평택세교",
+    "sido": "경기",
+    "sigungu": "평택시",
+    "storecd": "12848"
+  },
+  {
+    "StoreName": "평택송탄",
+    "sido": "경기",
+    "sigungu": "평택시",
+    "storecd": "11977"
+  },
+  {
+    "StoreName": "평택시청",
+    "sido": "경기",
+    "sigungu": "평택시",
+    "storecd": "13104"
+  },
+  {
+    "StoreName": "평택안중",
+    "sido": "경기",
+    "sigungu": "평택시",
+    "storecd": "11314"
+  },
+  {
+    "StoreName": "평택안중D/I",
+    "sido": "경기",
+    "sigungu": "평택시",
+    "storecd": "12700"
+  },
+  {
+    "StoreName": "평택중앙",
+    "sido": "경기",
+    "sigungu": "평택시",
+    "storecd": "11064"
+  },
+  {
+    "StoreName": "평택지산",
+    "sido": "경기",
+    "sigungu": "평택시",
+    "storecd": "12469"
+  },
+  {
+    "StoreName": "평택진위D/T",
+    "sido": "경기",
+    "sigungu": "평택시",
+    "storecd": "12800"
+  },
+  {
+    "StoreName": "평택청북",
+    "sido": "경기",
+    "sigungu": "평택시",
+    "storecd": "12705"
+  },
+  {
+    "StoreName": "평택청북D/T",
+    "sido": "경기",
+    "sigungu": "평택시",
+    "storecd": "12660"
+  },
+  {
+    "StoreName": "평택팽성",
+    "sido": "경기",
+    "sigungu": "평택시",
+    "storecd": "11431"
+  },
+  {
+    "StoreName": "평택포승",
+    "sido": "경기",
+    "sigungu": "평택시",
+    "storecd": "12941"
+  },
+  {
+    "StoreName": "포일IT",
+    "sido": "경기",
+    "sigungu": "의왕시",
+    "storecd": "12714"
+  },
+  {
+    "StoreName": "포천",
+    "sido": "경기",
+    "sigungu": "포천시",
+    "storecd": "11277"
+  },
+  {
+    "StoreName": "포천송우",
+    "sido": "경기",
+    "sigungu": "포천시",
+    "storecd": "12062"
+  },
+  {
+    "StoreName": "포천운천",
+    "sido": "경기",
+    "sigungu": "포천시",
+    "storecd": "12137"
+  },
+  {
+    "StoreName": "포항두호",
+    "sido": "경북",
+    "sigungu": "포항시",
+    "storecd": "11783"
+  },
+  {
+    "StoreName": "포항문덕",
+    "sido": "경북",
+    "sigungu": "포항시",
+    "storecd": "12153"
+  },
+  {
+    "StoreName": "포항법원",
+    "sido": "경북",
+    "sigungu": "포항시",
+    "storecd": "12836"
+  },
+  {
+    "StoreName": "포항양덕",
+    "sido": "경북",
+    "sigungu": "포항시",
+    "storecd": "11736"
+  },
+  {
+    "StoreName": "포항에비뉴",
+    "sido": "경북",
+    "sigungu": "포항시",
+    "storecd": "13004"
+  },
+  {
+    "StoreName": "포항오천",
+    "sido": "경북",
+    "sigungu": "포항시",
+    "storecd": "11723"
+  },
+  {
+    "StoreName": "포항이동",
+    "sido": "경북",
+    "sigungu": "포항시",
+    "storecd": "13184"
+  },
+  {
+    "StoreName": "포항이인",
+    "sido": "경상북도",
+    "sigungu": "포항시",
+    "storecd": "13301"
+  },
+  {
+    "StoreName": "포항죽도",
+    "sido": "경북",
+    "sigungu": "포항시",
+    "storecd": "11107"
+  },
+  {
+    "StoreName": "포항초곡",
+    "sido": "경북",
+    "sigungu": "포항시",
+    "storecd": "13075"
+  },
+  {
+    "StoreName": "포항효자",
+    "sido": "경북",
+    "sigungu": "포항시",
+    "storecd": "12760"
+  },
+  {
+    "StoreName": "포항흥해",
+    "sido": "경북",
+    "sigungu": "포항시",
+    "storecd": "11759"
+  },
+  {
+    "StoreName": "하나로고양",
+    "sido": "경기",
+    "sigungu": "고양시",
+    "storecd": "12720"
+  },
+  {
+    "StoreName": "하나로마트광주수완",
+    "sido": "광주",
+    "sigungu": "광산구",
+    "storecd": "12716"
+  },
+  {
+    "StoreName": "하나로마트남창원",
+    "sido": "경남",
+    "sigungu": "창원시",
+    "storecd": "12336"
+  },
+  {
+    "StoreName": "하나로마트춘천퇴계",
+    "sido": "강원",
+    "sigungu": "춘천시",
+    "storecd": "13053"
+  },
+  {
+    "StoreName": "하나로부산",
+    "sido": "부산",
+    "sigungu": "북구",
+    "storecd": "12359"
+  },
+  {
+    "StoreName": "하나로제주성산",
+    "sido": "제주",
+    "sigungu": "서귀포시",
+    "storecd": "12893"
+  },
+  {
+    "StoreName": "하남감일",
+    "sido": "경기",
+    "sigungu": "하남시",
+    "storecd": "13206"
+  },
+  {
+    "StoreName": "하남덕풍",
+    "sido": "경기",
+    "sigungu": "하남시",
+    "storecd": "11272"
+  },
+  {
+    "StoreName": "하남신장",
+    "sido": "경기",
+    "sigungu": "하남시",
+    "storecd": "11329"
+  },
+  {
+    "StoreName": "하남풍산",
+    "sido": "경기",
+    "sigungu": "하남시",
+    "storecd": "12365"
+  },
+  {
+    "StoreName": "하양",
+    "sido": "경북",
+    "sigungu": "경산시",
+    "storecd": "11713"
+  },
+  {
+    "StoreName": "하양무학",
+    "sido": "경북",
+    "sigungu": "경산시",
+    "storecd": "13118"
+  },
+  {
+    "StoreName": "학동역",
+    "sido": "서울",
+    "sigungu": "강남구",
+    "storecd": "12353"
+  },
+  {
+    "StoreName": "한남대",
+    "sido": "대전",
+    "sigungu": "대덕구",
+    "storecd": "12180"
+  },
+  {
+    "StoreName": "한성대입구역",
+    "sido": "서울",
+    "sigungu": "성북구",
+    "storecd": "12186"
+  },
+  {
+    "StoreName": "한티역",
+    "sido": "서울",
+    "sigungu": "강남구",
+    "storecd": "13251"
+  },
+  {
+    "StoreName": "함양",
+    "sido": "경남",
+    "sigungu": "함양군",
+    "storecd": "11999"
+  },
+  {
+    "StoreName": "해남",
+    "sido": "전남",
+    "sigungu": "해남군",
+    "storecd": "11623"
+  },
+  {
+    "StoreName": "해운대백병원",
+    "sido": "부산",
+    "sigungu": "해운대구",
+    "storecd": "12792"
+  },
+  {
+    "StoreName": "향남2신도시",
+    "sido": "경기",
+    "sigungu": "화성시",
+    "storecd": "12788"
+  },
+  {
+    "StoreName": "현풍테크노폴리스",
+    "sido": "대구",
+    "sigungu": "달성군",
+    "storecd": "12677"
+  },
+  {
+    "StoreName": "혜화",
+    "sido": "서울",
+    "sigungu": "종로구",
+    "storecd": "13264"
+  },
+  {
+    "StoreName": "호평",
+    "sido": "경기",
+    "sigungu": "남양주시",
+    "storecd": "11397"
+  },
+  {
+    "StoreName": "홈서비스과천(사당)",
+    "sido": "경기",
+    "sigungu": "과천시",
+    "storecd": "12565"
+  },
+  {
+    "StoreName": "홈서비스남선(농성)",
+    "sido": "광주",
+    "sigungu": "동구",
+    "storecd": "12567"
+  },
+  {
+    "StoreName": "홈서비스부암(부산역)(폐점)",
+    "sido": "부산",
+    "sigungu": "부산진구",
+    "storecd": "12591"
+  },
+  {
+    "StoreName": "홈플러스간석",
+    "sido": "인천",
+    "sigungu": "남동구",
+    "storecd": "12931"
+  },
+  {
+    "StoreName": "홈플러스강동",
+    "sido": "서울",
+    "sigungu": "강동구",
+    "storecd": "13003"
+  },
+  {
+    "StoreName": "홈플러스거제",
+    "sido": "경남",
+    "sigungu": "거제시",
+    "storecd": "11741"
+  },
+  {
+    "StoreName": "홈플러스경산",
+    "sido": "경북",
+    "sigungu": "경산시",
+    "storecd": "12311"
+  },
+  {
+    "StoreName": "홈플러스광주하남",
+    "sido": "광주",
+    "sigungu": "광산구",
+    "storecd": "12921"
+  },
+  {
+    "StoreName": "홈플러스금천",
+    "sido": "서울",
+    "sigungu": "금천구",
+    "storecd": "11167"
+  },
+  {
+    "StoreName": "홈플러스김해",
+    "sido": "경남",
+    "sigungu": "김해시",
+    "storecd": "12031"
+  },
+  {
+    "StoreName": "홈플러스대구성서",
+    "sido": "대구",
+    "sigungu": "달서구",
+    "storecd": "12268"
+  },
+  {
+    "StoreName": "홈플러스동광주",
+    "sido": "광주",
+    "sigungu": "북구",
+    "storecd": "12959"
+  },
+  {
+    "StoreName": "홈플러스동수원",
+    "sido": "경기도",
+    "sigungu": "수원시",
+    "storecd": "11337"
+  },
+  {
+    "StoreName": "홈플러스마산양덕",
+    "sido": "경남",
+    "sigungu": "창원시",
+    "storecd": "11804"
+  },
+  {
+    "StoreName": "홈플러스목포B1",
+    "sido": "전남",
+    "sigungu": "목포시",
+    "storecd": "11663"
+  },
+  {
+    "StoreName": "홈플러스밀양",
+    "sido": "경남",
+    "sigungu": "밀양시",
+    "storecd": "12007"
+  },
+  {
+    "StoreName": "홈플러스방학",
+    "sido": "서울",
+    "sigungu": "도봉구",
+    "storecd": "11181"
+  },
+  {
+    "StoreName": "홈플러스부산감만",
+    "sido": "부산",
+    "sigungu": "남구",
+    "storecd": "11244"
+  },
+  {
+    "StoreName": "홈플러스북수원",
+    "sido": "경기",
+    "sigungu": "수원시",
+    "storecd": "12972"
+  },
+  {
+    "StoreName": "홈플러스상봉",
+    "sido": "서울",
+    "sigungu": "중랑구",
+    "storecd": "12382"
+  },
+  {
+    "StoreName": "홈플러스세종",
+    "sido": "세종",
+    "sigungu": "금남면",
+    "storecd": "12543"
+  },
+  {
+    "StoreName": "홈플러스센텀시티",
+    "sido": "부산",
+    "sigungu": "해운대구",
+    "storecd": "11225"
+  },
+  {
+    "StoreName": "홈플러스송도",
+    "sido": "인천",
+    "sigungu": "연수구",
+    "storecd": "12639"
+  },
+  {
+    "StoreName": "홈플러스시화",
+    "sido": "경기",
+    "sigungu": "시흥시",
+    "storecd": "11366"
+  },
+  {
+    "StoreName": "홈플러스신내",
+    "sido": "서울",
+    "sigungu": "중랑구",
+    "storecd": "11180"
+  },
+  {
+    "StoreName": "홈플러스아시아드",
+    "sido": "부산",
+    "sigungu": "연제구",
+    "storecd": "11229"
+  },
+  {
+    "StoreName": "홈플러스영등포",
+    "sido": "서울",
+    "sigungu": "영등포구",
+    "storecd": "12197"
+  },
+  {
+    "StoreName": "홈플러스오산세교",
+    "sido": "경기",
+    "sigungu": "오산시",
+    "storecd": "12300"
+  },
+  {
+    "StoreName": "홈플러스오창",
+    "sido": "충북",
+    "sigungu": "청주시",
+    "storecd": "11593"
+  },
+  {
+    "StoreName": "홈플러스울산",
+    "sido": "울산",
+    "sigungu": "중구",
+    "storecd": "11754"
+  },
+  {
+    "StoreName": "홈플러스월곡",
+    "sido": "서울",
+    "sigungu": "성북구",
+    "storecd": "11956"
+  },
+  {
+    "StoreName": "홈플러스월드컵",
+    "sido": "서울",
+    "sigungu": "마포구",
+    "storecd": "13017"
+  },
+  {
+    "StoreName": "홈플러스유성",
+    "sido": "대전시",
+    "sigungu": "유성구",
+    "storecd": "12225"
+  },
+  {
+    "StoreName": "홈플러스인천가좌",
+    "sido": "인천",
+    "sigungu": "서구",
+    "storecd": "12243"
+  },
+  {
+    "StoreName": "홈플러스인천숭의",
+    "sido": "인천",
+    "sigungu": "미추홀구",
+    "storecd": "12256"
+  },
+  {
+    "StoreName": "홈플러스인천청라",
+    "sido": "인천",
+    "sigungu": "서구",
+    "storecd": "12345"
+  },
+  {
+    "StoreName": "홈플러스진해",
+    "sido": "경남",
+    "sigungu": "창원시",
+    "storecd": "11822"
+  },
+  {
+    "StoreName": "홈플러스창원",
+    "sido": "경남",
+    "sigungu": "창원시",
+    "storecd": "12935"
+  },
+  {
+    "StoreName": "홈플러스천안",
+    "sido": "충남",
+    "sigungu": "천안시",
+    "storecd": "11589"
+  },
+  {
+    "StoreName": "홈플러스칠곡",
+    "sido": "대구",
+    "sigungu": "북구",
+    "storecd": "12963"
+  },
+  {
+    "StoreName": "홈플러스파주운정",
+    "sido": "경기",
+    "sigungu": "파주시",
+    "storecd": "12753"
+  },
+  {
+    "StoreName": "홍대",
+    "sido": "서울",
+    "sigungu": "마포구",
+    "storecd": "13071"
+  },
+  {
+    "StoreName": "홍성",
+    "sido": "충남",
+    "sigungu": "홍성군",
+    "storecd": "11510"
+  },
+  {
+    "StoreName": "홍은포방",
+    "sido": "서울",
+    "sigungu": "서대문구",
+    "storecd": "12960"
+  },
+  {
+    "StoreName": "홍천",
+    "sido": "강원",
+    "sigungu": "홍천군",
+    "storecd": "11468"
+  },
+  {
+    "StoreName": "화곡시장",
+    "sido": "서울",
+    "sigungu": "강서구",
+    "storecd": "11124"
+  },
+  {
+    "StoreName": "화곡역",
+    "sido": "서울",
+    "sigungu": "강서구",
+    "storecd": "12874"
+  },
+  {
+    "StoreName": "화성기안",
+    "sido": "경기",
+    "sigungu": "화성시",
+    "storecd": "11402"
+  },
+  {
+    "StoreName": "화성남양",
+    "sido": "경기",
+    "sigungu": "화성시",
+    "storecd": "11319"
+  },
+  {
+    "StoreName": "화성동탄",
+    "sido": "경기",
+    "sigungu": "화성시",
+    "storecd": "11408"
+  },
+  {
+    "StoreName": "화성반월",
+    "sido": "경기",
+    "sigungu": "화성시",
+    "storecd": "12711"
+  },
+  {
+    "StoreName": "화성발안",
+    "sido": "경기",
+    "sigungu": "화성시",
+    "storecd": "11368"
+  },
+  {
+    "StoreName": "화성봉담",
+    "sido": "경기",
+    "sigungu": "화성시",
+    "storecd": "11413"
+  },
+  {
+    "StoreName": "화성봉담2지구",
+    "sido": "경기",
+    "sigungu": "화성시",
+    "storecd": "13063"
+  },
+  {
+    "StoreName": "화성비봉",
+    "sido": "경기",
+    "sigungu": "화성시",
+    "storecd": "12922"
+  },
+  {
+    "StoreName": "화성사강D/T",
+    "sido": "경기",
+    "sigungu": "화성시",
+    "storecd": "12279"
+  },
+  {
+    "StoreName": "화성센트럴파크",
+    "sido": "경기",
+    "sigungu": "화성시",
+    "storecd": "11857"
+  },
+  {
+    "StoreName": "화성조암",
+    "sido": "경기",
+    "sigungu": "화성시",
+    "storecd": "12418"
+  },
+  {
+    "StoreName": "화성태안",
+    "sido": "경기",
+    "sigungu": "화성시",
+    "storecd": "11377"
+  },
+  {
+    "StoreName": "화성향남",
+    "sido": "경기",
+    "sigungu": "화성시",
+    "storecd": "11430"
+  },
+  {
+    "StoreName": "화성화산D/T",
+    "sido": "경기",
+    "sigungu": "화성시",
+    "storecd": "12573"
+  },
+  {
+    "StoreName": "화순",
+    "sido": "전남",
+    "sigungu": "화순군",
+    "storecd": "11678"
+  },
+  {
+    "StoreName": "화정역",
+    "sido": "경기",
+    "sigungu": "고양시",
+    "storecd": "13065"
+  },
+  {
+    "StoreName": "화천",
+    "sido": "강원",
+    "sigungu": "화천군",
+    "storecd": "11971"
+  },
+  {
+    "StoreName": "화천사내",
+    "sido": "강원",
+    "sigungu": "화천군",
+    "storecd": "12377"
+  },
+  {
+    "StoreName": "횡성",
+    "sido": "강원",
+    "sigungu": "횡성군",
+    "storecd": "11475"
+  },
+  {
+    "StoreName": "후암",
+    "sido": "서울",
+    "sigungu": "용산구",
+    "storecd": "12403"
+  },
+  {
+    "StoreName": "A.G선수촌",
+    "sido": "부산",
+    "sigungu": "해운대구",
+    "storecd": "11231"
+  },
+  {
+    "StoreName": "DMC향동",
+    "sido": "경기",
+    "sigungu": "고양시",
+    "storecd": "13016"
+  },
+  {
+    "StoreName": "GS마트상계",
+    "sido": "서울",
+    "sigungu": "노원구",
+    "storecd": "11137"
+  },
+  {
+    "StoreName": "GS천안",
+    "sido": "충남",
+    "sigungu": "천안시",
+    "storecd": "11554"
+  },
+  {
+    "StoreName": "NC강서",
+    "sido": "서울",
+    "sigungu": "강서구",
+    "storecd": "12132"
+  },
+  {
+    "StoreName": "NC청주",
+    "sido": "충북",
+    "sigungu": "청주시",
+    "storecd": "11562"
+  }
+]
