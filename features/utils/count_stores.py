@@ -18,7 +18,7 @@ def save_json(data, path):
 # 매장 리스트(records)를 지역별로 카운트 -> 반환
 # memo: def count_by_region(records: list[dict]) -> dict:
 # records: list[dict]-> records 딕셔너리들의 리스트임 
-def count_by_region(records)
+def count_by_region(records):
     out = defaultdict(lambda: defaultdict(int))
 
     for r in records:
