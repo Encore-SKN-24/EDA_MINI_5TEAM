@@ -1,444 +1,444 @@
 [
   {
-    "sido":"서울",
+    "sido":"서울특별시",
     "sigungu":"중구",
     "crime":198,
     "violence":1378
   },
   {
-    "sido":"서울",
+    "sido":"서울특별시",
     "sigungu":"용산구",
     "crime":282,
     "violence":1941
   },
   {
-    "sido":"서울",
+    "sido":"서울특별시",
     "sigungu":"성동구",
     "crime":128,
     "violence":1033
   },
   {
-    "sido":"서울",
+    "sido":"서울특별시",
     "sigungu":"광진구",
     "crime":252,
     "violence":1303
   },
   {
-    "sido":"서울",
+    "sido":"서울특별시",
     "sigungu":"동대문구",
     "crime":144,
     "violence":1462
   },
   {
-    "sido":"서울",
+    "sido":"서울특별시",
     "sigungu":"중랑구",
     "crime":159,
     "violence":1579
   },
   {
-    "sido":"서울",
+    "sido":"서울특별시",
     "sigungu":"성북구",
     "crime":154,
     "violence":1149
   },
   {
-    "sido":"서울",
+    "sido":"서울특별시",
     "sigungu":"강북구",
     "crime":151,
     "violence":1169
   },
   {
-    "sido":"서울",
+    "sido":"서울특별시",
     "sigungu":"도봉구",
     "crime":86,
     "violence":858
   },
   {
-    "sido":"서울",
+    "sido":"서울특별시",
     "sigungu":"노원구",
     "crime":162,
     "violence":1434
   },
   {
-    "sido":"서울",
+    "sido":"서울특별시",
     "sigungu":"은평구",
     "crime":151,
     "violence":1559
   },
   {
-    "sido":"서울",
+    "sido":"서울특별시",
     "sigungu":"서대문구",
     "crime":136,
     "violence":900
   },
   {
-    "sido":"서울",
+    "sido":"서울특별시",
     "sigungu":"마포구",
     "crime":518,
     "violence":1912
   },
   {
-    "sido":"서울",
+    "sido":"서울특별시",
     "sigungu":"양천구",
     "crime":119,
     "violence":1364
   },
   {
-    "sido":"서울",
+    "sido":"서울특별시",
     "sigungu":"강서구",
     "crime":288,
     "violence":2049
   },
   {
-    "sido":"서울",
+    "sido":"서울특별시",
     "sigungu":"구로구",
     "crime":199,
     "violence":1616
   },
   {
-    "sido":"서울",
+    "sido":"서울특별시",
     "sigungu":"금천구",
     "crime":141,
     "violence":992
   },
   {
-    "sido":"서울",
+    "sido":"서울특별시",
     "sigungu":"영등포구",
     "crime":300,
     "violence":2070
   },
   {
-    "sido":"서울",
+    "sido":"서울특별시",
     "sigungu":"동작구",
     "crime":190,
     "violence":1187
   },
   {
-    "sido":"서울",
+    "sido":"서울특별시",
     "sigungu":"관악구",
     "crime":353,
     "violence":2167
   },
   {
-    "sido":"서울",
+    "sido":"서울특별시",
     "sigungu":"서초구",
     "crime":384,
     "violence":1812
   },
   {
-    "sido":"서울",
+    "sido":"서울특별시",
     "sigungu":"강남구",
     "crime":677,
     "violence":3335
   },
   {
-    "sido":"서울",
+    "sido":"서울특별시",
     "sigungu":"송파구",
     "crime":334,
     "violence":2346
   },
   {
-    "sido":"서울",
+    "sido":"서울특별시",
     "sigungu":"강동구",
     "crime":178,
     "violence":1519
   },
   {
-    "sido":"부산",
+    "sido":"부산광역시",
     "sigungu":"중구",
     "crime":50,
     "violence":645
   },
   {
-    "sido":"부산",
+    "sido":"부산광역시",
     "sigungu":"서구",
     "crime":35,
     "violence":470
   },
   {
-    "sido":"부산",
+    "sido":"부산광역시",
     "sigungu":"동구",
     "crime":71,
     "violence":728
   },
   {
-    "sido":"부산",
+    "sido":"부산광역시",
     "sigungu":"영도구",
     "crime":26,
     "violence":487
   },
   {
-    "sido":"부산",
+    "sido":"부산광역시",
     "sigungu":"부산진구",
     "crime":335,
     "violence":2848
   },
   {
-    "sido":"부산",
+    "sido":"부산광역시",
     "sigungu":"동래구",
     "crime":99,
     "violence":1101
   },
   {
-    "sido":"부산",
+    "sido":"부산광역시",
     "sigungu":"남구",
     "crime":110,
     "violence":1039
   },
   {
-    "sido":"부산",
+    "sido":"부산광역시",
     "sigungu":"북구",
     "crime":89,
     "violence":891
   },
   {
-    "sido":"부산",
+    "sido":"부산광역시",
     "sigungu":"강서구",
     "crime":53,
     "violence":625
   },
   {
-    "sido":"부산",
+    "sido":"부산광역시",
     "sigungu":"해운대구",
     "crime":157,
     "violence":1394
   },
   {
-    "sido":"부산",
+    "sido":"부산광역시",
     "sigungu":"사하구",
     "crime":95,
     "violence":1216
   },
   {
-    "sido":"부산",
+    "sido":"부산광역시",
     "sigungu":"금정구",
     "crime":81,
     "violence":854
   },
   {
-    "sido":"부산",
+    "sido":"부산광역시",
     "sigungu":"연제구",
     "crime":101,
     "violence":1076
   },
   {
-    "sido":"부산",
+    "sido":"부산광역시",
     "sigungu":"수영구",
     "crime":101,
     "violence":1015
   },
   {
-    "sido":"부산",
+    "sido":"부산광역시",
     "sigungu":"사상구",
     "crime":90,
     "violence":1072
   },
   {
-    "sido":"부산",
+    "sido":"부산광역시",
     "sigungu":"기장군",
     "crime":67,
     "violence":658
   },
   {
-    "sido":"대구",
+    "sido":"대구광역시",
     "sigungu":"중구",
     "crime":189,
     "violence":994
   },
   {
-    "sido":"대구",
+    "sido":"대구광역시",
     "sigungu":"동구",
     "crime":147,
     "violence":1652
   },
   {
-    "sido":"대구",
+    "sido":"대구광역시",
     "sigungu":"서구",
     "crime":80,
     "violence":974
   },
   {
-    "sido":"대구",
+    "sido":"대구광역시",
     "sigungu":"남구",
     "crime":80,
     "violence":767
   },
   {
-    "sido":"대구",
+    "sido":"대구광역시",
     "sigungu":"북구",
     "crime":108,
     "violence":1571
   },
   {
-    "sido":"대구",
+    "sido":"대구광역시",
     "sigungu":"수성구",
     "crime":133,
     "violence":1417
   },
   {
-    "sido":"대구",
+    "sido":"대구광역시",
     "sigungu":"달서구",
     "crime":210,
     "violence":2177
   },
   {
-    "sido":"대구",
+    "sido":"대구광역시",
     "sigungu":"달성군",
     "crime":75,
     "violence":783
   },
   {
-    "sido":"대구",
+    "sido":"대구광역시",
     "sigungu":"군위군",
     "crime":3,
     "violence":79
   },
   {
-    "sido":"인천",
+    "sido":"인천광역시",
     "sigungu":"중구",
     "crime":128,
     "violence":936
   },
   {
-    "sido":"인천",
+    "sido":"인천광역시",
     "sigungu":"동구",
     "crime":17,
     "violence":204
   },
   {
-    "sido":"인천",
+    "sido":"인천광역시",
     "sigungu":"미추홀구",
     "crime":295,
     "violence":2392
   },
   {
-    "sido":"인천",
+    "sido":"인천광역시",
     "sigungu":"연수구",
     "crime":132,
     "violence":1363
   },
   {
-    "sido":"인천",
+    "sido":"인천광역시",
     "sigungu":"남동구",
     "crime":240,
     "violence":2212
   },
   {
-    "sido":"인천",
+    "sido":"인천광역시",
     "sigungu":"부평구",
     "crime":325,
     "violence":2701
   },
   {
-    "sido":"인천",
+    "sido":"인천광역시",
     "sigungu":"계양구",
     "crime":106,
     "violence":1154
   },
   {
-    "sido":"인천",
+    "sido":"인천광역시",
     "sigungu":"서구",
     "crime":261,
     "violence":2121
   },
   {
-    "sido":"인천",
+    "sido":"인천광역시",
     "sigungu":"강화군",
     "crime":22,
     "violence":312
   },
   {
-    "sido":"인천",
+    "sido":"인천광역시",
     "sigungu":"옹진군",
     "crime":10,
     "violence":65
   },
   {
-    "sido":"광주",
+    "sido":"광주광역시",
     "sigungu":"동구",
     "crime":57,
     "violence":672
   },
   {
-    "sido":"광주",
+    "sido":"광주광역시",
     "sigungu":"서구",
     "crime":204,
     "violence":1635
   },
   {
-    "sido":"광주",
+    "sido":"광주광역시",
     "sigungu":"남구",
     "crime":65,
     "violence":695
   },
   {
-    "sido":"광주",
+    "sido":"광주광역시",
     "sigungu":"북구",
     "crime":155,
     "violence":1432
   },
   {
-    "sido":"광주",
+    "sido":"광주광역시",
     "sigungu":"광산구",
     "crime":168,
     "violence":1811
   },
   {
-    "sido":"대전",
+    "sido":"대전광역시",
     "sigungu":"동구",
     "crime":114,
     "violence":1251
   },
   {
-    "sido":"대전",
+    "sido":"대전광역시",
     "sigungu":"중구",
     "crime":143,
     "violence":1541
   },
   {
-    "sido":"대전",
+    "sido":"대전광역시",
     "sigungu":"서구",
     "crime":246,
     "violence":2519
   },
   {
-    "sido":"대전",
+    "sido":"대전광역시",
     "sigungu":"유성구",
     "crime":141,
     "violence":1222
   },
   {
-    "sido":"대전",
+    "sido":"대전광역시",
     "sigungu":"대덕구",
     "crime":76,
     "violence":810
   },
   {
-    "sido":"울산",
+    "sido":"울산광역시",
     "sigungu":"중구",
     "crime":66,
     "violence":688
   },
   {
-    "sido":"울산",
+    "sido":"울산광역시",
     "sigungu":"남구",
     "crime":181,
     "violence":1652
   },
   {
-    "sido":"울산",
+    "sido":"울산광역시",
     "sigungu":"동구",
     "crime":62,
     "violence":721
   },
   {
-    "sido":"울산",
+    "sido":"울산광역시",
     "sigungu":"북구",
     "crime":50,
     "violence":707
   },
   {
-    "sido":"울산",
+    "sido":"울산광역시",
     "sigungu":"울주군",
     "crime":71,
     "violence":749
