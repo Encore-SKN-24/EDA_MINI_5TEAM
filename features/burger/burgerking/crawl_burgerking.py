@@ -6,10 +6,8 @@ import time
 import json
 from geopy.geocoders import Nominatim
 
-
 ### 상수 선언
 GEO_CODER = Nominatim(user_agent = 'South Korea', timeout=None)
-DRIVER_PATH = "chromedriver.exe"
 CRAWLING_URL = "https://www.burgerking.co.kr/store/all"
 SLEEP_TIME = 1
 
@@ -25,8 +23,7 @@ def convert_coord(address):
 def make_driver():
     options = Options()
     options.add_argument("--headless")
-    service = webdriver.chrome.service.Service(DRIVER_PATH)
-    driver = webdriver.Chrome(service=service, options=options)
+    driver = webdriver.Chrome(options=options)
     return driver
 
 

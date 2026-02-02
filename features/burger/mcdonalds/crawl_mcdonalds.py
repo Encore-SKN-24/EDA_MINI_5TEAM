@@ -3,9 +3,7 @@ from selenium.webdriver.common.by import By
 import time
 import csv
 
-path = "chromedriver.exe"
-service = webdriver.chrome.service.Service(path)
-driver = webdriver.Chrome(service=service)
+driver = webdriver.Chrome()
 
 # 크롤링 순서
 # 필요한 정보 값: 매장명, 주소
