@@ -68,8 +68,8 @@ def main():
         "mcdonalds": "../burger/mcdonalds/data/mcdonalds.json",
     }
 
-    population_path = "../population/population.json"  
-    crime_path = "../crime/crime.json"                
+    population_path = "../population/data/population.json"  
+    crime_path = "../crime/data/crime.json"                
 
     # 최종: {sido: {sigungu: {metrics...}}}
     merged = defaultdict(lambda: defaultdict(ensure_metrics))
