@@ -58,14 +58,25 @@ def transform_store_data(store_data):
     Returns:
         result[]: 약속된 형식에 맞게 주소를 분리 및 저장
     """
+    # 특정 매장명에 대한 sigungu 매핑 (광역시로 들어오는 경우 처리)
+    store_name_exceptions = {
+        '광주금남로': ('광주', '동구'),
+        '광주동림': ('광주', '서구'),
+    }
+
     result = []
 
     for store in store_data:
+        store_name = store.get('storeNm')
         address = store.get('adres', {}).get('adres')
         sido, sigungu = parse_adress(address)
 
+        # 예외 처리: 특정 매장명에 대해 sido/sigungu 오버라이드
+        if store_name in store_name_exceptions:
+            sido, sigungu = store_name_exceptions[store_name]
+
         result.append({
-            'StoreName': store.get('storeNm'),
+            'StoreName': store_name,
             'sido': sido,
             'sigungu': sigungu,
             'storecd': store.get('storecd'),
