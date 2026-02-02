@@ -119,6 +119,10 @@ def main():
         upsert_metric(merged, sido, sigungu, "crime", crime_val)
         upsert_metric(merged, sido, sigungu, "violence", violence_val)
 
+    # 세종은 시군구없이 별도 처리
+    if "세종" in merged:
+        merged.pop("세종")
+
     # defaultdict -> dict 변환
     final = {
         sido: {sigungu: dict(metrics) for sigungu, metrics in sigungu_map.items()}
