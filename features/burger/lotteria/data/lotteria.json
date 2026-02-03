@@ -1250,7 +1250,7 @@
   {
     "StoreName": "나주혁신",
     "sido": "전남",
-    "sigungu": "나주시금천면",
+    "sigungu": "나주시",
     "storecd": "12554"
   },
   {
@@ -5144,7 +5144,7 @@
   {
     "StoreName": "울산온양",
     "sido": "울산",
-    "sigungu": "을주군",
+    "sigungu": "울주군",
     "storecd": "11866"
   },
   {
@@ -5258,7 +5258,7 @@
   {
     "StoreName": "원주치악로",
     "sido": "강원",
-    "sigungu": "원주",
+    "sigungu": "원주시",
     "storecd": "13333"
   },
   {
