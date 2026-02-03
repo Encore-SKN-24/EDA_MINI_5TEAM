@@ -2,8 +2,8 @@
   "서울": {
     "강남구": {
       "population": 557345,
-      "crime": 677,
-      "violence": 3335,
+      "crime": 17235,
+      "violence": 4012,
       "burgerking": 9,
       "lotteria": 7,
       "mcdonalds": 9,
@@ -11,8 +11,8 @@
     },
     "강동구": {
       "population": 476942,
-      "crime": 178,
-      "violence": 1519,
+      "crime": 5328,
+      "violence": 1697,
       "burgerking": 4,
       "lotteria": 8,
       "mcdonalds": 3,
@@ -20,8 +20,8 @@
     },
     "강북구": {
       "population": 283597,
-      "crime": 151,
-      "violence": 1169,
+      "crime": 4264,
+      "violence": 1320,
       "burgerking": 3,
       "lotteria": 5,
       "mcdonalds": 4,
@@ -29,8 +29,8 @@
     },
     "강서구": {
       "population": 556171,
-      "crime": 288,
-      "violence": 2049,
+      "crime": 7727,
+      "violence": 2337,
       "burgerking": 7,
       "lotteria": 12,
       "mcdonalds": 4,
@@ -38,8 +38,8 @@
     },
     "관악구": {
       "population": 477812,
-      "crime": 353,
-      "violence": 2167,
+      "crime": 8651,
+      "violence": 2520,
       "burgerking": 6,
       "lotteria": 9,
       "mcdonalds": 1,
@@ -47,8 +47,8 @@
     },
     "광진구": {
       "population": 331963,
-      "crime": 252,
-      "violence": 1303,
+      "crime": 4744,
+      "violence": 1555,
       "burgerking": 6,
       "lotteria": 7,
       "mcdonalds": 2,
@@ -56,8 +56,8 @@
     },
     "구로구": {
       "population": 388169,
-      "crime": 199,
-      "violence": 1616,
+      "crime": 5928,
+      "violence": 1815,
       "burgerking": 4,
       "lotteria": 7,
       "mcdonalds": 3,
@@ -65,8 +65,8 @@
     },
     "금천구": {
       "population": 225159,
-      "crime": 141,
-      "violence": 992,
+      "crime": 4815,
+      "violence": 1133,
       "burgerking": 3,
       "lotteria": 5,
       "mcdonalds": 4,
@@ -74,8 +74,8 @@
     },
     "노원구": {
       "population": 491247,
-      "crime": 162,
-      "violence": 1434,
+      "crime": 4636,
+      "violence": 1596,
       "burgerking": 4,
       "lotteria": 7,
       "mcdonalds": 6,
@@ -83,8 +83,8 @@
     },
     "도봉구": {
       "population": 303228,
-      "crime": 86,
-      "violence": 858,
+      "crime": 3165,
+      "violence": 944,
       "burgerking": 3,
       "lotteria": 4,
       "mcdonalds": 1,
@@ -92,8 +92,8 @@
     },
     "동대문구": {
       "population": 338735,
-      "crime": 144,
-      "violence": 1462,
+      "crime": 5191,
+      "violence": 1606,
       "burgerking": 6,
       "lotteria": 6,
       "mcdonalds": 3,
@@ -101,8 +101,8 @@
     },
     "동작구": {
       "population": 375799,
-      "crime": 190,
-      "violence": 1187,
+      "crime": 4727,
+      "violence": 1377,
       "burgerking": 3,
       "lotteria": 7,
       "mcdonalds": 4,
@@ -110,8 +110,8 @@
     },
     "마포구": {
       "population": 361417,
-      "crime": 518,
-      "violence": 1912,
+      "crime": 6587,
+      "violence": 2430,
       "burgerking": 4,
       "lotteria": 5,
       "mcdonalds": 4,
@@ -119,8 +119,8 @@
     },
     "서대문구": {
       "population": 302853,
-      "crime": 136,
-      "violence": 900,
+      "crime": 3772,
+      "violence": 1036,
       "burgerking": 5,
       "lotteria": 7,
       "mcdonalds": 3,
@@ -128,8 +128,8 @@
     },
     "서초구": {
       "population": 408376,
-      "crime": 384,
-      "violence": 1812,
+      "crime": 8533,
+      "violence": 2196,
       "burgerking": 6,
       "lotteria": 7,
       "mcdonalds": 6,
@@ -137,8 +137,8 @@
     },
     "성동구": {
       "population": 273669,
-      "crime": 128,
-      "violence": 1033,
+      "crime": 4714,
+      "violence": 1161,
       "burgerking": 1,
       "lotteria": 5,
       "mcdonalds": 1,
@@ -146,8 +146,8 @@
     },
     "성북구": {
       "population": 421560,
-      "crime": 154,
-      "violence": 1149,
+      "crime": 4824,
+      "violence": 1303,
       "burgerking": 4,
       "lotteria": 7,
       "mcdonalds": 3,
@@ -155,8 +155,8 @@
     },
     "송파구": {
       "population": 650110,
-      "crime": 334,
-      "violence": 2346,
+      "crime": 9574,
+      "violence": 2680,
       "burgerking": 8,
       "lotteria": 13,
       "mcdonalds": 6,
@@ -164,8 +164,8 @@
     },
     "양천구": {
       "population": 430976,
-      "crime": 119,
-      "violence": 1364,
+      "crime": 4739,
+      "violence": 1483,
       "burgerking": 5,
       "lotteria": 5,
       "mcdonalds": 3,
@@ -173,8 +173,8 @@
     },
     "영등포구": {
       "population": 373773,
-      "crime": 300,
-      "violence": 2070,
+      "crime": 7826,
+      "violence": 2370,
       "burgerking": 3,
       "lotteria": 8,
       "mcdonalds": 4,
@@ -182,8 +182,8 @@
     },
     "용산구": {
       "population": 203854,
-      "crime": 282,
-      "violence": 1941,
+      "crime": 5249,
+      "violence": 2223,
       "burgerking": 3,
       "lotteria": 6,
       "mcdonalds": 2,
@@ -191,8 +191,8 @@
     },
     "은평구": {
       "population": 460919,
-      "crime": 151,
-      "violence": 1559,
+      "crime": 5362,
+      "violence": 1710,
       "burgerking": 3,
       "lotteria": 7,
       "mcdonalds": 2,
@@ -200,8 +200,8 @@
     },
     "종로구": {
       "population": 138336,
-      "crime": 223,
-      "violence": 1360,
+      "crime": 5101,
+      "violence": 1583,
       "burgerking": 3,
       "lotteria": 4,
       "mcdonalds": 3,
@@ -209,8 +209,8 @@
     },
     "중구": {
       "population": 120544,
-      "crime": 198,
-      "violence": 1378,
+      "crime": 4475,
+      "violence": 1576,
       "burgerking": 5,
       "lotteria": 4,
       "mcdonalds": 3,
@@ -218,8 +218,8 @@
     },
     "중랑구": {
       "population": 379274,
-      "crime": 159,
-      "violence": 1579,
+      "crime": 5287,
+      "violence": 1738,
       "burgerking": 4,
       "lotteria": 10,
       "mcdonalds": 2,
@@ -229,8 +229,8 @@
   "부산": {
     "강서구": {
       "population": 142789,
-      "crime": 53,
-      "violence": 625,
+      "crime": 2486,
+      "violence": 678,
       "burgerking": 2,
       "lotteria": 4,
       "mcdonalds": 1,
@@ -238,8 +238,8 @@
     },
     "금정구": {
       "population": 209932,
-      "crime": 81,
-      "violence": 854,
+      "crime": 3143,
+      "violence": 935,
       "burgerking": 4,
       "lotteria": 4,
       "mcdonalds": 3,
@@ -247,8 +247,8 @@
     },
     "남구": {
       "population": 254498,
-      "crime": 110,
-      "violence": 1039,
+      "crime": 4675,
+      "violence": 1149,
       "burgerking": 2,
       "lotteria": 6,
       "mcdonalds": 3,
@@ -256,8 +256,8 @@
     },
     "부산진구": {
       "population": 359281,
-      "crime": 335,
-      "violence": 2848,
+      "crime": 8889,
+      "violence": 3183,
       "burgerking": 3,
       "lotteria": 8,
       "mcdonalds": 5,
@@ -265,8 +265,8 @@
     },
     "북구": {
       "population": 267692,
-      "crime": 89,
-      "violence": 891,
+      "crime": 3874,
+      "violence": 980,
       "burgerking": 2,
       "lotteria": 5,
       "mcdonalds": 3,
@@ -274,8 +274,8 @@
     },
     "사상구": {
       "population": 198635,
-      "crime": 90,
-      "violence": 1072,
+      "crime": 3721,
+      "violence": 1162,
       "burgerking": 3,
       "lotteria": 4,
       "mcdonalds": 2,
@@ -283,8 +283,8 @@
     },
     "사하구": {
       "population": 292491,
-      "crime": 95,
-      "violence": 1216,
+      "crime": 4030,
+      "violence": 1311,
       "burgerking": 4,
       "lotteria": 8,
       "mcdonalds": 3,
@@ -292,8 +292,8 @@
     },
     "수영구": {
       "population": 171918,
-      "crime": 101,
-      "violence": 1015,
+      "crime": 2492,
+      "violence": 1116,
       "burgerking": 0,
       "lotteria": 3,
       "mcdonalds": 2,
@@ -301,8 +301,8 @@
     },
     "연제구": {
       "population": 212589,
-      "crime": 101,
-      "violence": 1076,
+      "crime": 3947,
+      "violence": 1177,
       "burgerking": 3,
       "lotteria": 5,
       "mcdonalds": 3,
@@ -310,8 +310,8 @@
     },
     "중구": {
       "population": 37537,
-      "crime": 50,
-      "violence": 645,
+      "crime": 1816,
+      "violence": 695,
       "burgerking": 0,
       "lotteria": 2,
       "mcdonalds": 0,
@@ -319,8 +319,8 @@
     },
     "해운대구": {
       "population": 376404,
-      "crime": 157,
-      "violence": 1394,
+      "crime": 5719,
+      "violence": 1551,
       "burgerking": 4,
       "lotteria": 8,
       "mcdonalds": 4,
@@ -328,8 +328,8 @@
     },
     "기장군": {
       "population": 175626,
-      "crime": 67,
-      "violence": 658,
+      "crime": 2631,
+      "violence": 725,
       "burgerking": 2,
       "lotteria": 5,
       "mcdonalds": 2,
@@ -337,8 +337,8 @@
     },
     "서구": {
       "population": 103188,
-      "crime": 35,
-      "violence": 470,
+      "crime": 1766,
+      "violence": 505,
       "burgerking": 1,
       "lotteria": 2,
       "mcdonalds": 0,
@@ -346,8 +346,8 @@
     },
     "동래구": {
       "population": 274370,
-      "crime": 99,
-      "violence": 1101,
+      "crime": 3904,
+      "violence": 1200,
       "burgerking": 3,
       "lotteria": 7,
       "mcdonalds": 4,
@@ -355,8 +355,8 @@
     },
     "영도구": {
       "population": 103737,
-      "crime": 26,
-      "violence": 487,
+      "crime": 1394,
+      "violence": 513,
       "burgerking": 1,
       "lotteria": 2,
       "mcdonalds": 1,
@@ -364,8 +364,8 @@
     },
     "동구": {
       "population": 85911,
-      "crime": 71,
-      "violence": 728,
+      "crime": 2236,
+      "violence": 799,
       "burgerking": 0,
       "lotteria": 2,
       "mcdonalds": 2,
@@ -375,8 +375,8 @@
   "대구": {
     "달서구": {
       "population": 522021,
-      "crime": 210,
-      "violence": 2177,
+      "crime": 7334,
+      "violence": 2387,
       "burgerking": 5,
       "lotteria": 10,
       "mcdonalds": 7,
@@ -384,8 +384,8 @@
     },
     "동구": {
       "population": 342339,
-      "crime": 147,
-      "violence": 1652,
+      "crime": 5140,
+      "violence": 1799,
       "burgerking": 3,
       "lotteria": 10,
       "mcdonalds": 2,
@@ -393,8 +393,8 @@
     },
     "북구": {
       "population": 413010,
-      "crime": 108,
-      "violence": 1571,
+      "crime": 5302,
+      "violence": 1679,
       "burgerking": 6,
       "lotteria": 11,
       "mcdonalds": 4,
@@ -402,8 +402,8 @@
     },
     "서구": {
       "population": 163135,
-      "crime": 80,
-      "violence": 974,
+      "crime": 2758,
+      "violence": 1054,
       "burgerking": 2,
       "lotteria": 4,
       "mcdonalds": 1,
@@ -411,8 +411,8 @@
     },
     "수성구": {
       "population": 409107,
-      "crime": 133,
-      "violence": 1417,
+      "crime": 5822,
+      "violence": 1550,
       "burgerking": 5,
       "lotteria": 11,
       "mcdonalds": 6,
@@ -420,8 +420,8 @@
     },
     "중구": {
       "population": 97711,
-      "crime": 189,
-      "violence": 994,
+      "crime": 2868,
+      "violence": 1183,
       "burgerking": 2,
       "lotteria": 4,
       "mcdonalds": 1,
@@ -429,8 +429,8 @@
     },
     "남구": {
       "population": 136263,
-      "crime": 80,
-      "violence": 767,
+      "crime": 2547,
+      "violence": 847,
       "burgerking": 2,
       "lotteria": 3,
       "mcdonalds": 0,
@@ -438,8 +438,8 @@
     },
     "달성군": {
       "population": 257580,
-      "crime": 75,
-      "violence": 783,
+      "crime": 2438,
+      "violence": 858,
       "burgerking": 3,
       "lotteria": 11,
       "mcdonalds": 2,
@@ -447,8 +447,8 @@
     },
     "군위군": {
       "population": 22463,
-      "crime": 3,
-      "violence": 79,
+      "crime": 202,
+      "violence": 82,
       "burgerking": 0,
       "lotteria": 0,
       "mcdonalds": 0,
@@ -458,8 +458,8 @@
   "인천": {
     "계양구": {
       "population": 280227,
-      "crime": 106,
-      "violence": 1154,
+      "crime": 3990,
+      "violence": 1260,
       "burgerking": 3,
       "lotteria": 5,
       "mcdonalds": 1,
@@ -467,8 +467,8 @@
     },
     "남동구": {
       "population": 486225,
-      "crime": 240,
-      "violence": 2212,
+      "crime": 7933,
+      "violence": 2452,
       "burgerking": 6,
       "lotteria": 11,
       "mcdonalds": 4,
@@ -476,8 +476,8 @@
     },
     "부평구": {
       "population": 493200,
-      "crime": 325,
-      "violence": 2701,
+      "crime": 7980,
+      "violence": 3026,
       "burgerking": 4,
       "lotteria": 10,
       "mcdonalds": 6,
@@ -485,8 +485,8 @@
     },
     "서구": {
       "population": 634064,
-      "crime": 261,
-      "violence": 2121,
+      "crime": 8567,
+      "violence": 2382,
       "burgerking": 7,
       "lotteria": 19,
       "mcdonalds": 2,
@@ -494,8 +494,8 @@
     },
     "연수구": {
       "population": 400213,
-      "crime": 132,
-      "violence": 1363,
+      "crime": 5085,
+      "violence": 1495,
       "burgerking": 6,
       "lotteria": 8,
       "mcdonalds": 4,
@@ -503,8 +503,8 @@
     },
     "중구": {
       "population": 167113,
-      "crime": 128,
-      "violence": 936,
+      "crime": 3931,
+      "violence": 1064,
       "burgerking": 4,
       "lotteria": 8,
       "mcdonalds": 3,
@@ -512,8 +512,8 @@
     },
     "미추홀구": {
       "population": 412274,
-      "crime": 295,
-      "violence": 2392,
+      "crime": 7889,
+      "violence": 2687,
       "burgerking": 5,
       "lotteria": 11,
       "mcdonalds": 1,
@@ -521,8 +521,8 @@
     },
     "강화군": {
       "population": 69402,
-      "crime": 22,
-      "violence": 312,
+      "crime": 833,
+      "violence": 334,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -530,8 +530,8 @@
     },
     "동구": {
       "population": 58296,
-      "crime": 17,
-      "violence": 204,
+      "crime": 576,
+      "violence": 221,
       "burgerking": 0,
       "lotteria": 0,
       "mcdonalds": 0,
@@ -539,8 +539,8 @@
     },
     "옹진군": {
       "population": 19996,
-      "crime": 10,
-      "violence": 65,
+      "crime": 173,
+      "violence": 75,
       "burgerking": 0,
       "lotteria": 0,
       "mcdonalds": 0,
@@ -550,8 +550,8 @@
   "광주": {
     "광산구": {
       "population": 391611,
-      "crime": 168,
-      "violence": 1811,
+      "crime": 6532,
+      "violence": 1979,
       "burgerking": 6,
       "lotteria": 14,
       "mcdonalds": 1,
@@ -559,8 +559,8 @@
     },
     "동구": {
       "population": 106203,
-      "crime": 57,
-      "violence": 672,
+      "crime": 1995,
+      "violence": 729,
       "burgerking": 1,
       "lotteria": 3,
       "mcdonalds": 0,
@@ -568,8 +568,8 @@
     },
     "북구": {
       "population": 423961,
-      "crime": 155,
-      "violence": 1432,
+      "crime": 5856,
+      "violence": 1587,
       "burgerking": 5,
       "lotteria": 12,
       "mcdonalds": 5,
@@ -577,8 +577,8 @@
     },
     "서구": {
       "population": 279050,
-      "crime": 204,
-      "violence": 1635,
+      "crime": 5644,
+      "violence": 1839,
       "burgerking": 2,
       "lotteria": 7,
       "mcdonalds": 2,
@@ -586,19 +586,28 @@
     },
     "남구": {
       "population": 207597,
-      "crime": 65,
-      "violence": 695,
+      "crime": 2380,
+      "violence": 760,
       "burgerking": 4,
       "lotteria": 5,
       "mcdonalds": 2,
+      "kfc": 0
+    },
+    "광역시": {
+      "population": 0,
+      "crime": 0,
+      "violence": 0,
+      "burgerking": 0,
+      "lotteria": 2,
+      "mcdonalds": 0,
       "kfc": 0
     }
   },
   "대전": {
     "동구": {
       "population": 218513,
-      "crime": 114,
-      "violence": 1251,
+      "crime": 4226,
+      "violence": 1365,
       "burgerking": 3,
       "lotteria": 10,
       "mcdonalds": 1,
@@ -606,8 +615,8 @@
     },
     "서구": {
       "population": 457951,
-      "crime": 246,
-      "violence": 2519,
+      "crime": 8575,
+      "violence": 2765,
       "burgerking": 7,
       "lotteria": 13,
       "mcdonalds": 3,
@@ -615,8 +624,8 @@
     },
     "유성구": {
       "population": 369468,
-      "crime": 141,
-      "violence": 1222,
+      "crime": 4863,
+      "violence": 1363,
       "burgerking": 6,
       "lotteria": 14,
       "mcdonalds": 3,
@@ -624,8 +633,8 @@
     },
     "중구": {
       "population": 225008,
-      "crime": 143,
-      "violence": 1541,
+      "crime": 4858,
+      "violence": 1684,
       "burgerking": 1,
       "lotteria": 5,
       "mcdonalds": 3,
@@ -633,8 +642,8 @@
     },
     "대덕구": {
       "population": 168217,
-      "crime": 76,
-      "violence": 810,
+      "crime": 2472,
+      "violence": 886,
       "burgerking": 1,
       "lotteria": 6,
       "mcdonalds": 2,
@@ -644,8 +653,8 @@
   "울산": {
     "남구": {
       "population": 304885,
-      "crime": 181,
-      "violence": 1652,
+      "crime": 5370,
+      "violence": 1833,
       "burgerking": 4,
       "lotteria": 9,
       "mcdonalds": 6,
@@ -653,8 +662,8 @@
     },
     "울주군": {
       "population": 218806,
-      "crime": 71,
-      "violence": 749,
+      "crime": 3006,
+      "violence": 820,
       "burgerking": 1,
       "lotteria": 6,
       "mcdonalds": 1,
@@ -662,8 +671,8 @@
     },
     "중구": {
       "population": 207000,
-      "crime": 66,
-      "violence": 688,
+      "crime": 2272,
+      "violence": 754,
       "burgerking": 3,
       "lotteria": 4,
       "mcdonalds": 2,
@@ -671,8 +680,8 @@
     },
     "동구": {
       "population": 150836,
-      "crime": 62,
-      "violence": 721,
+      "crime": 1889,
+      "violence": 783,
       "burgerking": 2,
       "lotteria": 4,
       "mcdonalds": 1,
@@ -680,8 +689,8 @@
     },
     "북구": {
       "population": 216522,
-      "crime": 50,
-      "violence": 707,
+      "crime": 1974,
+      "violence": 757,
       "burgerking": 2,
       "lotteria": 7,
       "mcdonalds": 1,
@@ -697,11 +706,22 @@
       "kfc": 0
     }
   },
+  "세종": {
+    "세종시": {
+      "population": 781370,
+      "crime": 4335,
+      "violence": 1038,
+      "burgerking": 5,
+      "lotteria": 12,
+      "mcdonalds": 0,
+      "kfc": 2
+    }
+  },
   "강원": {
     "속초시": {
       "population": 80933,
-      "crime": 46,
-      "violence": 553,
+      "crime": 1728,
+      "violence": 599,
       "burgerking": 1,
       "lotteria": 3,
       "mcdonalds": 1,
@@ -709,8 +729,8 @@
     },
     "원주시": {
       "population": 362164,
-      "crime": 156,
-      "violence": 1490,
+      "crime": 5359,
+      "violence": 1646,
       "burgerking": 3,
       "lotteria": 12,
       "mcdonalds": 2,
@@ -718,8 +738,8 @@
     },
     "춘천시": {
       "population": 286069,
-      "crime": 104,
-      "violence": 1158,
+      "crime": 4022,
+      "violence": 1262,
       "burgerking": 3,
       "lotteria": 6,
       "mcdonalds": 2,
@@ -727,8 +747,8 @@
     },
     "강릉시": {
       "population": 207731,
-      "crime": 89,
-      "violence": 1205,
+      "crime": 3145,
+      "violence": 1294,
       "burgerking": 2,
       "lotteria": 7,
       "mcdonalds": 2,
@@ -736,8 +756,8 @@
     },
     "홍천군": {
       "population": 66717,
-      "crime": 37,
-      "violence": 286,
+      "crime": 869,
+      "violence": 323,
       "burgerking": 2,
       "lotteria": 2,
       "mcdonalds": 0,
@@ -745,8 +765,8 @@
     },
     "고성군": {
       "population": 26999,
-      "crime": 9,
-      "violence": 138,
+      "crime": 360,
+      "violence": 147,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -754,8 +774,8 @@
     },
     "동해시": {
       "population": 87675,
-      "crime": 29,
-      "violence": 424,
+      "crime": 991,
+      "violence": 453,
       "burgerking": 0,
       "lotteria": 2,
       "mcdonalds": 1,
@@ -763,8 +783,8 @@
     },
     "삼척시": {
       "population": 61735,
-      "crime": 24,
-      "violence": 296,
+      "crime": 852,
+      "violence": 320,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -772,8 +792,8 @@
     },
     "양구군": {
       "population": 20621,
-      "crime": 14,
-      "violence": 98,
+      "crime": 232,
+      "violence": 112,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -781,8 +801,8 @@
     },
     "양양군": {
       "population": 27489,
-      "crime": 24,
-      "violence": 184,
+      "crime": 353,
+      "violence": 208,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -790,8 +810,8 @@
     },
     "영월군": {
       "population": 36721,
-      "crime": 14,
-      "violence": 161,
+      "crime": 462,
+      "violence": 175,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -808,8 +828,8 @@
     },
     "인제군": {
       "population": 31535,
-      "crime": 9,
-      "violence": 92,
+      "crime": 420,
+      "violence": 101,
       "burgerking": 0,
       "lotteria": 2,
       "mcdonalds": 0,
@@ -817,8 +837,8 @@
     },
     "정선군": {
       "population": 33515,
-      "crime": 24,
-      "violence": 186,
+      "crime": 552,
+      "violence": 210,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -826,8 +846,8 @@
     },
     "철원군": {
       "population": 40497,
-      "crime": 19,
-      "violence": 151,
+      "crime": 654,
+      "violence": 170,
       "burgerking": 0,
       "lotteria": 2,
       "mcdonalds": 0,
@@ -835,8 +855,8 @@
     },
     "태백시": {
       "population": 37936,
-      "crime": 13,
-      "violence": 157,
+      "crime": 482,
+      "violence": 170,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -844,8 +864,8 @@
     },
     "평창군": {
       "population": 40396,
-      "crime": 11,
-      "violence": 173,
+      "crime": 503,
+      "violence": 184,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -853,8 +873,8 @@
     },
     "화천군": {
       "population": 22922,
-      "crime": 12,
-      "violence": 98,
+      "crime": 308,
+      "violence": 110,
       "burgerking": 0,
       "lotteria": 2,
       "mcdonalds": 0,
@@ -862,8 +882,8 @@
     },
     "횡성군": {
       "population": 46111,
-      "crime": 15,
-      "violence": 137,
+      "crime": 455,
+      "violence": 152,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -871,37 +891,19 @@
     }
   },
   "경기": {
-    "덕양구": {
-      "population": 0,
-      "crime": 0,
-      "violence": 0,
-      "burgerking": 0,
-      "lotteria": 0,
-      "mcdonalds": 0,
-      "kfc": 3
-    },
-    "일산동구": {
-      "population": 0,
-      "crime": 0,
-      "violence": 0,
-      "burgerking": 0,
-      "lotteria": 0,
-      "mcdonalds": 0,
-      "kfc": 2
-    },
-    "일산서구": {
-      "population": 0,
-      "crime": 0,
-      "violence": 0,
-      "burgerking": 0,
-      "lotteria": 0,
-      "mcdonalds": 0,
-      "kfc": 3
+    "고양시": {
+      "population": 1070120,
+      "crime": 12701,
+      "violence": 4073,
+      "burgerking": 17,
+      "lotteria": 25,
+      "mcdonalds": 11,
+      "kfc": 8
     },
     "광명시": {
       "population": 278167,
-      "crime": 66,
-      "violence": 1094,
+      "crime": 3507,
+      "violence": 1160,
       "burgerking": 3,
       "lotteria": 6,
       "mcdonalds": 5,
@@ -909,8 +911,8 @@
     },
     "광주시": {
       "population": 397605,
-      "crime": 114,
-      "violence": 1670,
+      "crime": 5610,
+      "violence": 1784,
       "burgerking": 3,
       "lotteria": 9,
       "mcdonalds": 1,
@@ -918,8 +920,8 @@
     },
     "구리시": {
       "population": 186882,
-      "crime": 81,
-      "violence": 709,
+      "crime": 2385,
+      "violence": 790,
       "burgerking": 3,
       "lotteria": 4,
       "mcdonalds": 2,
@@ -927,8 +929,8 @@
     },
     "군포시": {
       "population": 255931,
-      "crime": 76,
-      "violence": 771,
+      "crime": 3159,
+      "violence": 847,
       "burgerking": 2,
       "lotteria": 4,
       "mcdonalds": 2,
@@ -936,8 +938,8 @@
     },
     "김포시": {
       "population": 486853,
-      "crime": 151,
-      "violence": 2057,
+      "crime": 7835,
+      "violence": 2208,
       "burgerking": 6,
       "lotteria": 10,
       "mcdonalds": 4,
@@ -945,143 +947,80 @@
     },
     "남양주시": {
       "population": 732482,
-      "crime": 208,
-      "violence": 2258,
+      "crime": 8094,
+      "violence": 2466,
       "burgerking": 7,
-      "lotteria": 17,
+      "lotteria": 16,
       "mcdonalds": 4,
       "kfc": 5
     },
-    "소사구": {
-      "population": 0,
-      "crime": 0,
-      "violence": 0,
-      "burgerking": 0,
-      "lotteria": 0,
-      "mcdonalds": 0,
-      "kfc": 2
-    },
-    "원미구": {
-      "population": 0,
-      "crime": 0,
-      "violence": 0,
-      "burgerking": 0,
-      "lotteria": 0,
-      "mcdonalds": 0,
-      "kfc": 2
-    },
-    "분당구": {
-      "population": 0,
-      "crime": 0,
-      "violence": 0,
-      "burgerking": 0,
-      "lotteria": 0,
-      "mcdonalds": 0,
-      "kfc": 3
-    },
-    "수정구": {
-      "population": 0,
-      "crime": 0,
-      "violence": 0,
-      "burgerking": 0,
-      "lotteria": 0,
-      "mcdonalds": 0,
-      "kfc": 2
-    },
-    "중원구": {
-      "population": 0,
-      "crime": 0,
-      "violence": 0,
-      "burgerking": 0,
-      "lotteria": 0,
-      "mcdonalds": 0,
-      "kfc": 1
-    },
-    "권선구": {
-      "population": 0,
-      "crime": 0,
-      "violence": 0,
-      "burgerking": 0,
-      "lotteria": 0,
-      "mcdonalds": 0,
-      "kfc": 1
-    },
-    "영통구": {
-      "population": 0,
-      "crime": 0,
-      "violence": 0,
-      "burgerking": 0,
-      "lotteria": 0,
-      "mcdonalds": 0,
-      "kfc": 2
-    },
-    "팔달구": {
-      "population": 0,
-      "crime": 0,
-      "violence": 0,
-      "burgerking": 0,
-      "lotteria": 0,
-      "mcdonalds": 0,
+    "부천시": {
+      "population": 769918,
+      "crime": 12717,
+      "violence": 4234,
+      "burgerking": 9,
+      "lotteria": 16,
+      "mcdonalds": 5,
       "kfc": 4
+    },
+    "성남시": {
+      "population": 913009,
+      "crime": 13648,
+      "violence": 4208,
+      "burgerking": 10,
+      "lotteria": 17,
+      "mcdonalds": 8,
+      "kfc": 6
+    },
+    "수원시": {
+      "population": 1193005,
+      "crime": 20374,
+      "violence": 5781,
+      "burgerking": 15,
+      "lotteria": 29,
+      "mcdonalds": 12,
+      "kfc": 7
     },
     "시흥시": {
       "population": 518132,
-      "crime": 225,
-      "violence": 2598,
+      "crime": 8422,
+      "violence": 2823,
       "burgerking": 7,
       "lotteria": 18,
       "mcdonalds": 2,
       "kfc": 5
     },
-    "단원구": {
-      "population": 0,
-      "crime": 0,
-      "violence": 0,
-      "burgerking": 0,
-      "lotteria": 0,
-      "mcdonalds": 0,
-      "kfc": 3
-    },
-    "상록구": {
-      "population": 0,
-      "crime": 0,
-      "violence": 0,
-      "burgerking": 0,
-      "lotteria": 0,
-      "mcdonalds": 0,
-      "kfc": 1
+    "안산시": {
+      "population": 620579,
+      "crime": 11918,
+      "violence": 4100,
+      "burgerking": 5,
+      "lotteria": 15,
+      "mcdonalds": 1,
+      "kfc": 4
     },
     "안성시": {
       "population": 193949,
-      "crime": 67,
-      "violence": 836,
+      "crime": 2821,
+      "violence": 903,
       "burgerking": 2,
       "lotteria": 8,
       "mcdonalds": 1,
       "kfc": 1
     },
-    "동안구": {
-      "population": 0,
-      "crime": 0,
-      "violence": 0,
-      "burgerking": 0,
-      "lotteria": 0,
-      "mcdonalds": 0,
-      "kfc": 2
-    },
-    "만안구": {
-      "population": 0,
-      "crime": 0,
-      "violence": 0,
-      "burgerking": 0,
-      "lotteria": 0,
-      "mcdonalds": 0,
-      "kfc": 1
+    "안양시": {
+      "population": 556492,
+      "crime": 6088,
+      "violence": 2031,
+      "burgerking": 5,
+      "lotteria": 12,
+      "mcdonalds": 3,
+      "kfc": 3
     },
     "양주시": {
       "population": 289005,
-      "crime": 97,
-      "violence": 1075,
+      "crime": 3308,
+      "violence": 1172,
       "burgerking": 3,
       "lotteria": 7,
       "mcdonalds": 3,
@@ -1089,44 +1028,26 @@
     },
     "오산시": {
       "population": 242065,
-      "crime": 104,
-      "violence": 1257,
+      "crime": 3894,
+      "violence": 1361,
       "burgerking": 3,
       "lotteria": 5,
       "mcdonalds": 2,
       "kfc": 1
     },
-    "기흥구": {
-      "population": 0,
-      "crime": 0,
-      "violence": 0,
-      "burgerking": 0,
-      "lotteria": 0,
-      "mcdonalds": 0,
-      "kfc": 1
-    },
-    "수지구": {
-      "population": 0,
-      "crime": 0,
-      "violence": 0,
-      "burgerking": 0,
-      "lotteria": 0,
-      "mcdonalds": 0,
-      "kfc": 2
-    },
-    "처인구": {
-      "population": 0,
-      "crime": 0,
-      "violence": 0,
-      "burgerking": 0,
-      "lotteria": 0,
-      "mcdonalds": 0,
-      "kfc": 2
+    "용인시": {
+      "population": 1085864,
+      "crime": 12181,
+      "violence": 3529,
+      "burgerking": 7,
+      "lotteria": 24,
+      "mcdonalds": 8,
+      "kfc": 5
     },
     "의정부시": {
       "population": 461271,
-      "crime": 201,
-      "violence": 2129,
+      "crime": 7040,
+      "violence": 2330,
       "burgerking": 6,
       "lotteria": 11,
       "mcdonalds": 5,
@@ -1134,8 +1055,8 @@
     },
     "파주시": {
       "population": 511308,
-      "crime": 196,
-      "violence": 2058,
+      "crime": 8327,
+      "violence": 2254,
       "burgerking": 9,
       "lotteria": 16,
       "mcdonalds": 1,
@@ -1143,8 +1064,8 @@
     },
     "평택시": {
       "population": 598556,
-      "crime": 307,
-      "violence": 3418,
+      "crime": 12423,
+      "violence": 3725,
       "burgerking": 10,
       "lotteria": 17,
       "mcdonalds": 6,
@@ -1152,8 +1073,8 @@
     },
     "하남시": {
       "population": 329120,
-      "crime": 87,
-      "violence": 1042,
+      "crime": 4813,
+      "violence": 1129,
       "burgerking": 5,
       "lotteria": 5,
       "mcdonalds": 1,
@@ -1161,8 +1082,8 @@
     },
     "화성시": {
       "population": 968821,
-      "crime": 293,
-      "violence": 3483,
+      "crime": 12337,
+      "violence": 3776,
       "burgerking": 13,
       "lotteria": 26,
       "mcdonalds": 5,
@@ -1170,98 +1091,35 @@
     },
     "양평군": {
       "population": 126804,
-      "crime": 45,
-      "violence": 483,
+      "crime": 2021,
+      "violence": 528,
       "burgerking": 1,
       "lotteria": 2,
       "mcdonalds": 0,
       "kfc": 0
     },
-    "고양시": {
-      "population": 1070120,
-      "crime": 306,
-      "violence": 3767,
-      "burgerking": 17,
-      "lotteria": 25,
-      "mcdonalds": 11,
-      "kfc": 0
-    },
     "과천시": {
       "population": 85512,
-      "crime": 18,
-      "violence": 179,
+      "crime": 842,
+      "violence": 197,
       "burgerking": 1,
       "lotteria": 3,
       "mcdonalds": 1,
       "kfc": 0
     },
-    "수원시": {
-      "population": 1193005,
-      "crime": 551,
-      "violence": 5230,
-      "burgerking": 15,
-      "lotteria": 29,
-      "mcdonalds": 12,
-      "kfc": 0
-    },
     "동두천시": {
       "population": 86838,
-      "crime": 66,
-      "violence": 558,
+      "crime": 1571,
+      "violence": 624,
       "burgerking": 1,
       "lotteria": 2,
       "mcdonalds": 1,
       "kfc": 0
     },
-    "부천시": {
-      "population": 769918,
-      "crime": 368,
-      "violence": 3866,
-      "burgerking": 9,
-      "lotteria": 16,
-      "mcdonalds": 5,
-      "kfc": 0
-    },
-    "성남시": {
-      "population": 913009,
-      "crime": 356,
-      "violence": 3852,
-      "burgerking": 10,
-      "lotteria": 17,
-      "mcdonalds": 8,
-      "kfc": 0
-    },
-    "안산시": {
-      "population": 620579,
-      "crime": 363,
-      "violence": 3737,
-      "burgerking": 5,
-      "lotteria": 15,
-      "mcdonalds": 1,
-      "kfc": 0
-    },
-    "용인시": {
-      "population": 1085864,
-      "crime": 284,
-      "violence": 3245,
-      "burgerking": 7,
-      "lotteria": 24,
-      "mcdonalds": 8,
-      "kfc": 0
-    },
-    "안양시": {
-      "population": 556492,
-      "crime": 223,
-      "violence": 1808,
-      "burgerking": 5,
-      "lotteria": 12,
-      "mcdonalds": 3,
-      "kfc": 0
-    },
     "이천시": {
       "population": 222443,
-      "crime": 91,
-      "violence": 960,
+      "crime": 3358,
+      "violence": 1051,
       "burgerking": 2,
       "lotteria": 7,
       "mcdonalds": 1,
@@ -1269,8 +1127,8 @@
     },
     "포천시": {
       "population": 141463,
-      "crime": 73,
-      "violence": 715,
+      "crime": 2237,
+      "violence": 788,
       "burgerking": 1,
       "lotteria": 4,
       "mcdonalds": 1,
@@ -1278,17 +1136,26 @@
     },
     "가평군": {
       "population": 62527,
-      "crime": 36,
-      "violence": 306,
+      "crime": 1145,
+      "violence": 342,
       "burgerking": 0,
       "lotteria": 5,
       "mcdonalds": 0,
       "kfc": 0
     },
+    "남양주시화도읍": {
+      "population": 0,
+      "crime": 0,
+      "violence": 0,
+      "burgerking": 0,
+      "lotteria": 1,
+      "mcdonalds": 0,
+      "kfc": 0
+    },
     "여주시": {
       "population": 114610,
-      "crime": 49,
-      "violence": 436,
+      "crime": 1722,
+      "violence": 485,
       "burgerking": 0,
       "lotteria": 5,
       "mcdonalds": 1,
@@ -1296,8 +1163,8 @@
     },
     "의왕시": {
       "population": 154488,
-      "crime": 43,
-      "violence": 363,
+      "crime": 1472,
+      "violence": 406,
       "burgerking": 0,
       "lotteria": 2,
       "mcdonalds": 1,
@@ -1305,8 +1172,8 @@
     },
     "연천군": {
       "population": 40866,
-      "crime": 14,
-      "violence": 278,
+      "crime": 729,
+      "violence": 292,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -1316,8 +1183,8 @@
   "경남": {
     "김해시": {
       "population": 531676,
-      "crime": 174,
-      "violence": 2152,
+      "crime": 6816,
+      "violence": 2326,
       "burgerking": 7,
       "lotteria": 14,
       "mcdonalds": 4,
@@ -1325,8 +1192,8 @@
     },
     "밀양시": {
       "population": 100691,
-      "crime": 52,
-      "violence": 492,
+      "crime": 1425,
+      "violence": 544,
       "burgerking": 1,
       "lotteria": 3,
       "mcdonalds": 1,
@@ -1334,8 +1201,8 @@
     },
     "양산시": {
       "population": 359531,
-      "crime": 104,
-      "violence": 1473,
+      "crime": 4714,
+      "violence": 1577,
       "burgerking": 4,
       "lotteria": 9,
       "mcdonalds": 5,
@@ -1343,44 +1210,26 @@
     },
     "진주시": {
       "population": 338785,
-      "crime": 115,
-      "violence": 1407,
+      "crime": 5227,
+      "violence": 1522,
       "burgerking": 4,
       "lotteria": 10,
       "mcdonalds": 4,
       "kfc": 1
     },
-    "성산구": {
-      "population": 0,
-      "crime": 0,
-      "violence": 0,
-      "burgerking": 0,
-      "lotteria": 0,
-      "mcdonalds": 0,
-      "kfc": 1
-    },
-    "의창구": {
-      "population": 0,
-      "crime": 0,
-      "violence": 0,
-      "burgerking": 0,
-      "lotteria": 0,
-      "mcdonalds": 0,
-      "kfc": 1
-    },
-    "진해구": {
-      "population": 0,
-      "crime": 0,
-      "violence": 0,
-      "burgerking": 0,
-      "lotteria": 0,
-      "mcdonalds": 0,
-      "kfc": 1
+    "창원시": {
+      "population": 999858,
+      "crime": 14491,
+      "violence": 4674,
+      "burgerking": 7,
+      "lotteria": 30,
+      "mcdonalds": 11,
+      "kfc": 3
     },
     "거제시": {
       "population": 232972,
-      "crime": 116,
-      "violence": 1180,
+      "crime": 3571,
+      "violence": 1296,
       "burgerking": 3,
       "lotteria": 7,
       "mcdonalds": 2,
@@ -1388,8 +1237,8 @@
     },
     "거창군": {
       "population": 59588,
-      "crime": 16,
-      "violence": 221,
+      "crime": 677,
+      "violence": 237,
       "burgerking": 1,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -1397,35 +1246,26 @@
     },
     "사천시": {
       "population": 108504,
-      "crime": 51,
-      "violence": 495,
+      "crime": 1482,
+      "violence": 546,
       "burgerking": 1,
       "lotteria": 2,
       "mcdonalds": 1,
       "kfc": 0
     },
-    "창원시": {
-      "population": 999858,
-      "crime": 356,
-      "violence": 4318,
-      "burgerking": 7,
-      "lotteria": 30,
-      "mcdonalds": 11,
-      "kfc": 0
-    },
-    "창녕군": {
-      "population": 56085,
-      "crime": 19,
-      "violence": 223,
+    "창녕군남지읍": {
+      "population": 0,
+      "crime": 0,
+      "violence": 0,
       "burgerking": 0,
-      "lotteria": 2,
+      "lotteria": 1,
       "mcdonalds": 0,
       "kfc": 0
     },
     "산청군": {
       "population": 33259,
-      "crime": 10,
-      "violence": 97,
+      "crime": 263,
+      "violence": 107,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -1433,8 +1273,17 @@
     },
     "의령군": {
       "population": 25150,
-      "crime": 9,
-      "violence": 126,
+      "crime": 359,
+      "violence": 135,
+      "burgerking": 0,
+      "lotteria": 1,
+      "mcdonalds": 0,
+      "kfc": 0
+    },
+    "창녕군": {
+      "population": 56085,
+      "crime": 842,
+      "violence": 242,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -1442,8 +1291,8 @@
     },
     "하동군": {
       "population": 40765,
-      "crime": 17,
-      "violence": 158,
+      "crime": 487,
+      "violence": 175,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -1451,8 +1300,8 @@
     },
     "함안군": {
       "population": 58842,
-      "crime": 14,
-      "violence": 194,
+      "crime": 840,
+      "violence": 208,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -1460,8 +1309,8 @@
     },
     "합천군": {
       "population": 40225,
-      "crime": 5,
-      "violence": 150,
+      "crime": 401,
+      "violence": 155,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -1469,8 +1318,8 @@
     },
     "고성군": {
       "population": 48005,
-      "crime": 23,
-      "violence": 175,
+      "crime": 661,
+      "violence": 198,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -1478,8 +1327,8 @@
     },
     "남해군": {
       "population": 39832,
-      "crime": 14,
-      "violence": 116,
+      "crime": 417,
+      "violence": 130,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -1487,8 +1336,8 @@
     },
     "통영시": {
       "population": 118481,
-      "crime": 72,
-      "violence": 768,
+      "crime": 1871,
+      "violence": 840,
       "burgerking": 0,
       "lotteria": 3,
       "mcdonalds": 1,
@@ -1496,8 +1345,8 @@
     },
     "함양군": {
       "population": 36131,
-      "crime": 9,
-      "violence": 110,
+      "crime": 353,
+      "violence": 119,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -1507,8 +1356,8 @@
   "경북": {
     "경산시": {
       "population": 266398,
-      "crime": 82,
-      "violence": 1115,
+      "crime": 4444,
+      "violence": 1197,
       "burgerking": 5,
       "lotteria": 7,
       "mcdonalds": 1,
@@ -1516,35 +1365,26 @@
     },
     "구미시": {
       "population": 404820,
-      "crime": 166,
-      "violence": 1562,
+      "crime": 6223,
+      "violence": 1728,
       "burgerking": 6,
       "lotteria": 16,
       "mcdonalds": 3,
       "kfc": 1
     },
-    "남구": {
-      "population": 0,
-      "crime": 0,
-      "violence": 0,
-      "burgerking": 0,
-      "lotteria": 0,
-      "mcdonalds": 0,
-      "kfc": 1
-    },
-    "북구": {
-      "population": 0,
-      "crime": 0,
-      "violence": 0,
-      "burgerking": 0,
-      "lotteria": 0,
-      "mcdonalds": 0,
-      "kfc": 1
+    "포항시": {
+      "population": 491581,
+      "crime": 6196,
+      "violence": 1959,
+      "burgerking": 7,
+      "lotteria": 12,
+      "mcdonalds": 5,
+      "kfc": 2
     },
     "안동시": {
       "population": 153159,
-      "crime": 73,
-      "violence": 549,
+      "crime": 2058,
+      "violence": 622,
       "burgerking": 3,
       "lotteria": 6,
       "mcdonalds": 1,
@@ -1552,8 +1392,8 @@
     },
     "상주시": {
       "population": 91850,
-      "crime": 26,
-      "violence": 341,
+      "crime": 1199,
+      "violence": 367,
       "burgerking": 1,
       "lotteria": 2,
       "mcdonalds": 0,
@@ -1561,8 +1401,8 @@
     },
     "영주시": {
       "population": 98870,
-      "crime": 33,
-      "violence": 432,
+      "crime": 1063,
+      "violence": 465,
       "burgerking": 1,
       "lotteria": 3,
       "mcdonalds": 0,
@@ -1570,8 +1410,8 @@
     },
     "칠곡군": {
       "population": 107383,
-      "crime": 37,
-      "violence": 525,
+      "crime": 1735,
+      "violence": 562,
       "burgerking": 1,
       "lotteria": 2,
       "mcdonalds": 0,
@@ -1579,8 +1419,8 @@
     },
     "경주시": {
       "population": 244769,
-      "crime": 95,
-      "violence": 1003,
+      "crime": 3260,
+      "violence": 1098,
       "burgerking": 3,
       "lotteria": 6,
       "mcdonalds": 3,
@@ -1588,8 +1428,8 @@
     },
     "김천시": {
       "population": 135446,
-      "crime": 40,
-      "violence": 506,
+      "crime": 1667,
+      "violence": 546,
       "burgerking": 2,
       "lotteria": 3,
       "mcdonalds": 1,
@@ -1597,26 +1437,17 @@
     },
     "영천시": {
       "population": 98143,
-      "crime": 45,
-      "violence": 431,
+      "crime": 1349,
+      "violence": 476,
       "burgerking": 1,
       "lotteria": 2,
       "mcdonalds": 1,
       "kfc": 0
     },
-    "포항시": {
-      "population": 491581,
-      "crime": 198,
-      "violence": 1761,
-      "burgerking": 7,
-      "lotteria": 12,
-      "mcdonalds": 5,
-      "kfc": 0
-    },
     "고령군": {
       "population": 30062,
-      "crime": 11,
-      "violence": 113,
+      "crime": 334,
+      "violence": 124,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -1624,8 +1455,8 @@
     },
     "봉화군": {
       "population": 28836,
-      "crime": 8,
-      "violence": 85,
+      "crime": 213,
+      "violence": 93,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -1633,8 +1464,8 @@
     },
     "의성군": {
       "population": 48690,
-      "crime": 9,
-      "violence": 141,
+      "crime": 496,
+      "violence": 150,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -1642,8 +1473,8 @@
     },
     "울릉군": {
       "population": 9099,
-      "crime": 4,
-      "violence": 25,
+      "crime": 88,
+      "violence": 29,
       "burgerking": 0,
       "lotteria": 4,
       "mcdonalds": 0,
@@ -1651,8 +1482,8 @@
     },
     "문경시": {
       "population": 67257,
-      "crime": 18,
-      "violence": 258,
+      "crime": 820,
+      "violence": 276,
       "burgerking": 0,
       "lotteria": 3,
       "mcdonalds": 0,
@@ -1660,8 +1491,8 @@
     },
     "성주군": {
       "population": 41452,
-      "crime": 15,
-      "violence": 169,
+      "crime": 566,
+      "violence": 184,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -1669,8 +1500,8 @@
     },
     "영덕군": {
       "population": 33210,
-      "crime": 15,
-      "violence": 182,
+      "crime": 522,
+      "violence": 197,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -1678,8 +1509,8 @@
     },
     "예천군": {
       "population": 54609,
-      "crime": 21,
-      "violence": 171,
+      "crime": 672,
+      "violence": 192,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -1687,8 +1518,8 @@
     },
     "울진군": {
       "population": 46124,
-      "crime": 11,
-      "violence": 177,
+      "crime": 556,
+      "violence": 188,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -1696,8 +1527,8 @@
     },
     "청도군": {
       "population": 40582,
-      "crime": 15,
-      "violence": 201,
+      "crime": 529,
+      "violence": 216,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -1705,8 +1536,8 @@
     },
     "청송군": {
       "population": 23716,
-      "crime": 10,
-      "violence": 134,
+      "crime": 295,
+      "violence": 144,
       "burgerking": 0,
       "lotteria": 0,
       "mcdonalds": 0,
@@ -1714,8 +1545,8 @@
     },
     "영양군": {
       "population": 15328,
-      "crime": 1,
-      "violence": 68,
+      "crime": 161,
+      "violence": 69,
       "burgerking": 0,
       "lotteria": 0,
       "mcdonalds": 0,
@@ -1725,8 +1556,8 @@
   "전남": {
     "목포시": {
       "population": 209890,
-      "crime": 145,
-      "violence": 1213,
+      "crime": 4552,
+      "violence": 1358,
       "burgerking": 1,
       "lotteria": 7,
       "mcdonalds": 2,
@@ -1734,8 +1565,8 @@
     },
     "광양시": {
       "population": 154692,
-      "crime": 49,
-      "violence": 645,
+      "crime": 2201,
+      "violence": 694,
       "burgerking": 2,
       "lotteria": 3,
       "mcdonalds": 1,
@@ -1743,17 +1574,17 @@
     },
     "나주시": {
       "population": 116654,
-      "crime": 35,
-      "violence": 459,
+      "crime": 1512,
+      "violence": 494,
       "burgerking": 1,
-      "lotteria": 2,
+      "lotteria": 1,
       "mcdonalds": 0,
       "kfc": 0
     },
     "순천시": {
       "population": 276329,
-      "crime": 100,
-      "violence": 1287,
+      "crime": 4090,
+      "violence": 1387,
       "burgerking": 2,
       "lotteria": 9,
       "mcdonalds": 2,
@@ -1761,8 +1592,8 @@
     },
     "여수시": {
       "population": 267816,
-      "crime": 109,
-      "violence": 1302,
+      "crime": 4104,
+      "violence": 1411,
       "burgerking": 1,
       "lotteria": 10,
       "mcdonalds": 2,
@@ -1770,8 +1601,8 @@
     },
     "무안군": {
       "population": 92687,
-      "crime": 23,
-      "violence": 315,
+      "crime": 1083,
+      "violence": 338,
       "burgerking": 1,
       "lotteria": 4,
       "mcdonalds": 1,
@@ -1779,8 +1610,17 @@
     },
     "강진군": {
       "population": 32189,
-      "crime": 14,
-      "violence": 141,
+      "crime": 366,
+      "violence": 155,
+      "burgerking": 0,
+      "lotteria": 1,
+      "mcdonalds": 0,
+      "kfc": 0
+    },
+    "나주시금천면": {
+      "population": 0,
+      "crime": 0,
+      "violence": 0,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -1788,8 +1628,8 @@
     },
     "담양군": {
       "population": 44623,
-      "crime": 11,
-      "violence": 140,
+      "crime": 391,
+      "violence": 151,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -1797,8 +1637,8 @@
     },
     "보성군": {
       "population": 37045,
-      "crime": 13,
-      "violence": 144,
+      "crime": 390,
+      "violence": 157,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -1806,8 +1646,8 @@
     },
     "영암군": {
       "population": 51391,
-      "crime": 33,
-      "violence": 254,
+      "crime": 675,
+      "violence": 287,
       "burgerking": 0,
       "lotteria": 2,
       "mcdonalds": 0,
@@ -1815,8 +1655,8 @@
     },
     "영광군": {
       "population": 52098,
-      "crime": 20,
-      "violence": 194,
+      "crime": 502,
+      "violence": 214,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -1824,8 +1664,8 @@
     },
     "완도군": {
       "population": 45631,
-      "crime": 27,
-      "violence": 216,
+      "crime": 597,
+      "violence": 243,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -1833,17 +1673,17 @@
     },
     "장흥군": {
       "population": 34451,
-      "crime": 11,
-      "violence": 150,
+      "crime": 432,
+      "violence": 161,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
       "kfc": 0
     },
-    "고흥군": {
-      "population": 60190,
-      "crime": 24,
-      "violence": 261,
+    "고흥군고흥읍": {
+      "population": 0,
+      "crime": 0,
+      "violence": 0,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -1851,8 +1691,8 @@
     },
     "곡성군": {
       "population": 26566,
-      "crime": 6,
-      "violence": 86,
+      "crime": 284,
+      "violence": 92,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -1860,17 +1700,17 @@
     },
     "구례군": {
       "population": 24025,
-      "crime": 5,
-      "violence": 97,
+      "crime": 237,
+      "violence": 102,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
       "kfc": 0
     },
-    "장성군": {
-      "population": 42026,
-      "crime": 21,
-      "violence": 156,
+    "장성군장성읍": {
+      "population": 0,
+      "crime": 0,
+      "violence": 0,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -1878,8 +1718,8 @@
     },
     "함평군": {
       "population": 30010,
-      "crime": 9,
-      "violence": 111,
+      "crime": 294,
+      "violence": 120,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -1887,8 +1727,8 @@
     },
     "진도군": {
       "population": 28478,
-      "crime": 12,
-      "violence": 153,
+      "crime": 386,
+      "violence": 165,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -1896,8 +1736,8 @@
     },
     "해남군": {
       "population": 63120,
-      "crime": 20,
-      "violence": 271,
+      "crime": 757,
+      "violence": 291,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -1905,17 +1745,35 @@
     },
     "화순군": {
       "population": 60735,
-      "crime": 19,
-      "violence": 210,
+      "crime": 757,
+      "violence": 229,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
       "kfc": 0
     },
+    "고흥군": {
+      "population": 60190,
+      "crime": 655,
+      "violence": 285,
+      "burgerking": 0,
+      "lotteria": 0,
+      "mcdonalds": 0,
+      "kfc": 0
+    },
+    "장성군": {
+      "population": 42026,
+      "crime": 443,
+      "violence": 177,
+      "burgerking": 0,
+      "lotteria": 0,
+      "mcdonalds": 0,
+      "kfc": 0
+    },
     "신안군": {
       "population": 38173,
-      "crime": 8,
-      "violence": 122,
+      "crime": 349,
+      "violence": 130,
       "burgerking": 0,
       "lotteria": 0,
       "mcdonalds": 0,
@@ -1925,8 +1783,8 @@
   "전북": {
     "군산시": {
       "population": 258047,
-      "crime": 123,
-      "violence": 1091,
+      "crime": 3922,
+      "violence": 1214,
       "burgerking": 3,
       "lotteria": 7,
       "mcdonalds": 2,
@@ -1934,44 +1792,26 @@
     },
     "익산시": {
       "population": 268001,
-      "crime": 128,
-      "violence": 1182,
+      "crime": 4249,
+      "violence": 1310,
       "burgerking": 4,
       "lotteria": 8,
       "mcdonalds": 1,
       "kfc": 1
     },
-    "덕진구": {
-      "population": 0,
-      "crime": 0,
-      "violence": 0,
-      "burgerking": 0,
-      "lotteria": 0,
-      "mcdonalds": 0,
-      "kfc": 1
-    },
-    "완산구": {
-      "population": 0,
-      "crime": 0,
-      "violence": 0,
-      "burgerking": 0,
-      "lotteria": 0,
-      "mcdonalds": 0,
-      "kfc": 2
-    },
     "전주시": {
       "population": 635651,
-      "crime": 283,
-      "violence": 2622,
+      "crime": 9897,
+      "violence": 2905,
       "burgerking": 8,
       "lotteria": 23,
       "mcdonalds": 6,
-      "kfc": 0
+      "kfc": 3
     },
     "부안군": {
       "population": 48066,
-      "crime": 16,
-      "violence": 157,
+      "crime": 505,
+      "violence": 173,
       "burgerking": 1,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -1979,8 +1819,8 @@
     },
     "정읍시": {
       "population": 102127,
-      "crime": 28,
-      "violence": 423,
+      "crime": 1152,
+      "violence": 451,
       "burgerking": 1,
       "lotteria": 2,
       "mcdonalds": 1,
@@ -1988,8 +1828,8 @@
     },
     "고창군": {
       "population": 50982,
-      "crime": 25,
-      "violence": 187,
+      "crime": 674,
+      "violence": 212,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -1997,8 +1837,8 @@
     },
     "김제시": {
       "population": 80635,
-      "crime": 31,
-      "violence": 291,
+      "crime": 887,
+      "violence": 322,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -2006,8 +1846,8 @@
     },
     "남원시": {
       "population": 75647,
-      "crime": 28,
-      "violence": 310,
+      "crime": 996,
+      "violence": 338,
       "burgerking": 0,
       "lotteria": 2,
       "mcdonalds": 0,
@@ -2015,8 +1855,8 @@
     },
     "무주군": {
       "population": 23032,
-      "crime": 12,
-      "violence": 74,
+      "crime": 288,
+      "violence": 86,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -2024,8 +1864,8 @@
     },
     "순창군": {
       "population": 26822,
-      "crime": 5,
-      "violence": 61,
+      "crime": 184,
+      "violence": 66,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -2033,17 +1873,17 @@
     },
     "완주군": {
       "population": 99279,
-      "crime": 34,
-      "violence": 303,
+      "crime": 964,
+      "violence": 337,
       "burgerking": 0,
       "lotteria": 2,
       "mcdonalds": 0,
       "kfc": 0
     },
-    "임실군": {
-      "population": 25577,
-      "crime": 6,
-      "violence": 52,
+    "임실군임실읍": {
+      "population": 0,
+      "crime": 0,
+      "violence": 0,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -2051,8 +1891,8 @@
     },
     "장수군": {
       "population": 20663,
-      "crime": 6,
-      "violence": 60,
+      "crime": 199,
+      "violence": 66,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -2060,10 +1900,19 @@
     },
     "진안군": {
       "population": 24161,
-      "crime": 6,
-      "violence": 63,
+      "crime": 298,
+      "violence": 69,
       "burgerking": 0,
       "lotteria": 1,
+      "mcdonalds": 0,
+      "kfc": 0
+    },
+    "임실군": {
+      "population": 25577,
+      "crime": 200,
+      "violence": 58,
+      "burgerking": 0,
+      "lotteria": 0,
       "mcdonalds": 0,
       "kfc": 0
     }
@@ -2071,8 +1920,8 @@
   "제주": {
     "제주시": {
       "population": 488348,
-      "crime": 297,
-      "violence": 3301,
+      "crime": 11560,
+      "violence": 3598,
       "burgerking": 6,
       "lotteria": 9,
       "mcdonalds": 7,
@@ -2080,8 +1929,8 @@
     },
     "서귀포시": {
       "population": 182020,
-      "crime": 104,
-      "violence": 1230,
+      "crime": 3714,
+      "violence": 1334,
       "burgerking": 1,
       "lotteria": 5,
       "mcdonalds": 3,
@@ -2091,8 +1940,8 @@
   "충남": {
     "당진시": {
       "population": 171931,
-      "crime": 80,
-      "violence": 741,
+      "crime": 2591,
+      "violence": 821,
       "burgerking": 1,
       "lotteria": 7,
       "mcdonalds": 1,
@@ -2100,8 +1949,8 @@
     },
     "서산시": {
       "population": 174445,
-      "crime": 97,
-      "violence": 741,
+      "crime": 2482,
+      "violence": 838,
       "burgerking": 1,
       "lotteria": 6,
       "mcdonalds": 1,
@@ -2109,35 +1958,26 @@
     },
     "아산시": {
       "population": 355014,
-      "crime": 148,
-      "violence": 1523,
+      "crime": 4913,
+      "violence": 1671,
       "burgerking": 4,
       "lotteria": 14,
       "mcdonalds": 2,
       "kfc": 1
     },
-    "동남구": {
-      "population": 0,
-      "crime": 0,
-      "violence": 0,
-      "burgerking": 0,
-      "lotteria": 0,
-      "mcdonalds": 0,
-      "kfc": 1
-    },
-    "서북구": {
-      "population": 0,
-      "crime": 0,
-      "violence": 0,
-      "burgerking": 0,
-      "lotteria": 0,
-      "mcdonalds": 0,
-      "kfc": 3
+    "천안시": {
+      "population": 659920,
+      "crime": 12548,
+      "violence": 3645,
+      "burgerking": 6,
+      "lotteria": 23,
+      "mcdonalds": 5,
+      "kfc": 4
     },
     "계룡시": {
       "population": 46540,
-      "crime": 8,
-      "violence": 70,
+      "crime": 237,
+      "violence": 78,
       "burgerking": 1,
       "lotteria": 2,
       "mcdonalds": 0,
@@ -2145,8 +1985,8 @@
     },
     "공주시": {
       "population": 101285,
-      "crime": 49,
-      "violence": 315,
+      "crime": 1231,
+      "violence": 364,
       "burgerking": 1,
       "lotteria": 2,
       "mcdonalds": 0,
@@ -2154,35 +1994,26 @@
     },
     "논산시": {
       "population": 108529,
-      "crime": 37,
-      "violence": 447,
+      "crime": 1688,
+      "violence": 484,
       "burgerking": 1,
-      "lotteria": 3,
+      "lotteria": 2,
       "mcdonalds": 1,
       "kfc": 0
     },
     "보령시": {
       "population": 93780,
-      "crime": 50,
-      "violence": 345,
+      "crime": 1115,
+      "violence": 395,
       "burgerking": 1,
       "lotteria": 3,
       "mcdonalds": 1,
       "kfc": 0
     },
-    "천안시": {
-      "population": 659920,
-      "crime": 361,
-      "violence": 3284,
-      "burgerking": 6,
-      "lotteria": 23,
-      "mcdonalds": 5,
-      "kfc": 0
-    },
     "홍성군": {
       "population": 99198,
-      "crime": 36,
-      "violence": 255,
+      "crime": 1111,
+      "violence": 291,
       "burgerking": 1,
       "lotteria": 3,
       "mcdonalds": 1,
@@ -2190,8 +2021,8 @@
     },
     "태안군": {
       "population": 60133,
-      "crime": 31,
-      "violence": 322,
+      "crime": 912,
+      "violence": 353,
       "burgerking": 1,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -2199,8 +2030,17 @@
     },
     "금산군": {
       "population": 49615,
-      "crime": 32,
-      "violence": 184,
+      "crime": 596,
+      "violence": 216,
+      "burgerking": 0,
+      "lotteria": 1,
+      "mcdonalds": 0,
+      "kfc": 0
+    },
+    "논산시연무읍": {
+      "population": 0,
+      "crime": 0,
+      "violence": 0,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -2208,8 +2048,8 @@
     },
     "부여군": {
       "population": 59550,
-      "crime": 11,
-      "violence": 166,
+      "crime": 506,
+      "violence": 177,
       "burgerking": 0,
       "lotteria": 2,
       "mcdonalds": 0,
@@ -2217,8 +2057,8 @@
     },
     "서천군": {
       "population": 48204,
-      "crime": 14,
-      "violence": 184,
+      "crime": 602,
+      "violence": 198,
       "burgerking": 0,
       "lotteria": 2,
       "mcdonalds": 0,
@@ -2226,8 +2066,8 @@
     },
     "예산군": {
       "population": 78772,
-      "crime": 29,
-      "violence": 281,
+      "crime": 1212,
+      "violence": 310,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -2235,8 +2075,8 @@
     },
     "청양군": {
       "population": 29658,
-      "crime": 8,
-      "violence": 102,
+      "crime": 334,
+      "violence": 110,
       "burgerking": 0,
       "lotteria": 0,
       "mcdonalds": 0,
@@ -2244,23 +2084,14 @@
     }
   },
   "충북": {
-    "흥덕구": {
-      "population": 0,
-      "crime": 0,
-      "violence": 0,
-      "burgerking": 0,
-      "lotteria": 0,
-      "mcdonalds": 0,
-      "kfc": 1
-    },
-    "서원구": {
-      "population": 0,
-      "crime": 0,
-      "violence": 0,
-      "burgerking": 0,
-      "lotteria": 0,
-      "mcdonalds": 0,
-      "kfc": 1
+    "청주시": {
+      "population": 854537,
+      "crime": 11481,
+      "violence": 3452,
+      "burgerking": 8,
+      "lotteria": 31,
+      "mcdonalds": 6,
+      "kfc": 2
     },
     "청원군": {
       "population": 0,
@@ -2273,26 +2104,17 @@
     },
     "제천시": {
       "population": 128569,
-      "crime": 45,
-      "violence": 413,
+      "crime": 1595,
+      "violence": 458,
       "burgerking": 1,
       "lotteria": 4,
       "mcdonalds": 1,
       "kfc": 0
     },
-    "청주시": {
-      "population": 854537,
-      "crime": 339,
-      "violence": 3113,
-      "burgerking": 8,
-      "lotteria": 31,
-      "mcdonalds": 6,
-      "kfc": 0
-    },
     "진천군": {
       "population": 86537,
-      "crime": 46,
-      "violence": 437,
+      "crime": 1690,
+      "violence": 483,
       "burgerking": 1,
       "lotteria": 2,
       "mcdonalds": 0,
@@ -2300,8 +2122,8 @@
     },
     "음성군": {
       "population": 91236,
-      "crime": 45,
-      "violence": 482,
+      "crime": 1556,
+      "violence": 527,
       "burgerking": 1,
       "lotteria": 5,
       "mcdonalds": 0,
@@ -2309,8 +2131,8 @@
     },
     "충주시": {
       "population": 207241,
-      "crime": 106,
-      "violence": 715,
+      "crime": 2520,
+      "violence": 821,
       "burgerking": 2,
       "lotteria": 8,
       "mcdonalds": 1,
@@ -2318,8 +2140,8 @@
     },
     "괴산군": {
       "population": 36252,
-      "crime": 12,
-      "violence": 128,
+      "crime": 624,
+      "violence": 140,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -2327,8 +2149,8 @@
     },
     "단양군": {
       "population": 27352,
-      "crime": 13,
-      "violence": 106,
+      "crime": 267,
+      "violence": 119,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -2336,8 +2158,8 @@
     },
     "보은군": {
       "population": 30527,
-      "crime": 10,
-      "violence": 93,
+      "crime": 379,
+      "violence": 103,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -2345,8 +2167,8 @@
     },
     "옥천군": {
       "population": 48204,
-      "crime": 19,
-      "violence": 162,
+      "crime": 720,
+      "violence": 181,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -2354,8 +2176,8 @@
     },
     "증평군": {
       "population": 37171,
-      "crime": 13,
-      "violence": 103,
+      "crime": 266,
+      "violence": 116,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -2363,23 +2185,12 @@
     },
     "영동군": {
       "population": 43551,
-      "crime": 8,
-      "violence": 96,
+      "crime": 316,
+      "violence": 104,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
       "kfc": 0
-    }
-  },
-  "세종시": {
-    "세종시": {
-      "population": 390685,
-      "crime": 0,
-      "violence": 0,
-      "burgerking": 5,
-      "lotteria": 12,
-      "mcdonalds": 0,
-      "kfc": 2
     }
   }
 }
