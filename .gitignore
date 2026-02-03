@@ -1,0 +1,11 @@
+.venv
+venv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.DS_Store
+eda_mini_5team.egg-info/
