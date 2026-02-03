@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "eda-mini-5team"
+version = "0.1.0"
+description = "EDA analysis for burger franchise data (시도/시군구 인구·범죄·버거 매장)"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas>=2.0.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "jupyter",
+    "jupyterlab",
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["eda*"]
