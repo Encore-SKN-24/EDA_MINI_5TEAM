@@ -17,6 +17,13 @@ def normalize_sigungu(sido, sigungu):
         ('부산', '진구'): '부산진구',
         ('부산광역시', '진구'): '부산진구',
         ('서울', '구로'): '구로구',
+        ('전북', '임실군임실읍'): '임실군',
+        ('전남', '고흥군고흥읍'): '고흥군',
+        ('전남', '장성군장성읍'): '장성군',
+        ('경남', '창녕군남지읍'): '창녕군',
+        ('충남', '논산시연무읍'): '논산시',
+        ('경기', '남양주시화도읍'): '남양주시',
+
     }
 
     return normalization_map.get((sido, sigungu), sigungu)
@@ -58,14 +65,25 @@ def transform_store_data(store_data):
     Returns:
         result[]: 약속된 형식에 맞게 주소를 분리 및 저장
     """
+    # 특정 매장명에 대한 sigungu 매핑 (광역시로 들어오는 경우 처리)
+    store_name_exceptions = {
+        '광주금남로': ('광주', '동구'),
+        '광주동림': ('광주', '서구'),
+    }
+
     result = []
 
     for store in store_data:
+        store_name = store.get('storeNm')
         address = store.get('adres', {}).get('adres')
         sido, sigungu = parse_adress(address)
 
+        # 예외 처리: 특정 매장명에 대해 sido/sigungu 오버라이드
+        if store_name in store_name_exceptions:
+            sido, sigungu = store_name_exceptions[store_name]
+
         result.append({
-            'StoreName': store.get('storeNm'),
+            'StoreName': store_name,
             'sido': sido,
             'sigungu': sigungu,
             'storecd': store.get('storecd'),

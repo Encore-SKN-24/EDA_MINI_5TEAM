@@ -224,7 +224,7 @@
   {
     "StoreName": "경남남지",
     "sido": "경남",
-    "sigungu": "창녕군남지읍",
+    "sigungu": "창녕군",
     "storecd": "12443"
   },
   {
@@ -548,7 +548,7 @@
   {
     "StoreName": "광주금남로",
     "sido": "광주",
-    "sigungu": "광역시",
+    "sigungu": "동구",
     "storecd": "11602"
   },
   {
@@ -578,7 +578,7 @@
   {
     "StoreName": "광주동림",
     "sido": "광주",
-    "sigungu": "광역시",
+    "sigungu": "서구",
     "storecd": "11676"
   },
   {
@@ -1346,7 +1346,7 @@
   {
     "StoreName": "논산연무",
     "sido": "충남",
-    "sigungu": "논산시연무읍",
+    "sigungu": "논산시",
     "storecd": "12471"
   },
   {
@@ -2474,7 +2474,7 @@
   {
     "StoreName": "마석",
     "sido": "경기",
-    "sigungu": "남양주시화도읍",
+    "sigungu": "남양주시",
     "storecd": "11298"
   },
   {
@@ -5870,7 +5870,7 @@
   {
     "StoreName": "임실",
     "sido": "전북",
-    "sigungu": "임실군임실읍",
+    "sigungu": "임실군",
     "storecd": "12429"
   },
   {
@@ -5930,7 +5930,7 @@
   {
     "StoreName": "전남고흥",
     "sido": "전남",
-    "sigungu": "고흥군고흥읍",
+    "sigungu": "고흥군",
     "storecd": "12509"
   },
   {
@@ -5954,7 +5954,7 @@
   {
     "StoreName": "전남장성",
     "sido": "전남",
-    "sigungu": "장성군장성읍",
+    "sigungu": "장성군",
     "storecd": "12493"
   },
   {
@@ -6664,6 +6664,12 @@
     "sido": "서울",
     "sigungu": "동대문구",
     "storecd": "12833"
+  },
+  {
+    "StoreName": "청양",
+    "sido": "충남",
+    "sigungu": "청양군",
+    "storecd": "12127"
   },
   {
     "StoreName": "청주가경",
