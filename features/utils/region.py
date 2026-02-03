@@ -47,7 +47,8 @@ def normalize_sido(s):
 
 # 시군구 표준(1차): 공백만 정리하는 안전한 방식
 # ex. '  수원시   영통구 ' -> '수원시 영통구'
-def normalize_sigungu(s):
+# sido 가 주어지면 (시도, 시군구) 통합 매핑 적용 (예: 청원군 -> 청주시)
+def normalize_sigungu(s, sido=None):
     if not s:
         return s
 
@@ -57,5 +58,11 @@ def normalize_sigungu(s):
     # "OO시 OO구" / "OO시 OO군" 형태 -> "OO시"로 통합 
     parts = s.split()
     if len(parts) >= 2 and parts[0].endswith("시") and (parts[1].endswith("구") or parts[1].endswith("군")):
-        return parts[0]
+        s = parts[0]
+
+    if sido:
+        _sigungu_override = {
+            ("충북", "청원군"): "청주시",
+        }
+        s = _sigungu_override.get((sido, s), s)
     return s

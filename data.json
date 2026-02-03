@@ -656,7 +656,7 @@
       "crime": 3006,
       "violence": 820,
       "burgerking": 1,
-      "lotteria": 6,
+      "lotteria": 7,
       "mcdonalds": 1,
       "kfc": 0
     },
@@ -686,15 +686,6 @@
       "lotteria": 7,
       "mcdonalds": 1,
       "kfc": 0
-    },
-    "을주군": {
-      "population": 0,
-      "crime": 0,
-      "violence": 0,
-      "burgerking": 0,
-      "lotteria": 1,
-      "mcdonalds": 0,
-      "kfc": 0
     }
   },
   "세종": {
@@ -723,7 +714,7 @@
       "crime": 5359,
       "violence": 1646,
       "burgerking": 3,
-      "lotteria": 12,
+      "lotteria": 13,
       "mcdonalds": 2,
       "kfc": 1
     },
@@ -803,15 +794,6 @@
       "population": 36721,
       "crime": 462,
       "violence": 175,
-      "burgerking": 0,
-      "lotteria": 1,
-      "mcdonalds": 0,
-      "kfc": 0
-    },
-    "원주": {
-      "population": 0,
-      "crime": 0,
-      "violence": 0,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -1550,7 +1532,7 @@
       "crime": 1512,
       "violence": 494,
       "burgerking": 1,
-      "lotteria": 1,
+      "lotteria": 2,
       "mcdonalds": 0,
       "kfc": 0
     },
@@ -1585,15 +1567,6 @@
       "population": 32189,
       "crime": 366,
       "violence": 155,
-      "burgerking": 0,
-      "lotteria": 1,
-      "mcdonalds": 0,
-      "kfc": 0
-    },
-    "나주시금천면": {
-      "population": 0,
-      "crime": 0,
-      "violence": 0,
       "burgerking": 0,
       "lotteria": 1,
       "mcdonalds": 0,
@@ -2025,19 +1998,10 @@
       "population": 854537,
       "crime": 11481,
       "violence": 3452,
-      "burgerking": 8,
+      "burgerking": 9,
       "lotteria": 31,
       "mcdonalds": 6,
       "kfc": 2
-    },
-    "청원군": {
-      "population": 0,
-      "crime": 0,
-      "violence": 0,
-      "burgerking": 1,
-      "lotteria": 0,
-      "mcdonalds": 0,
-      "kfc": 0
     },
     "제천시": {
       "population": 128569,

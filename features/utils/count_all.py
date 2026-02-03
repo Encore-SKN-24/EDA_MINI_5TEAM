@@ -42,7 +42,7 @@ def count_store_by_region(store_records):
 
     for r in store_records:
         sido = normalize_sido(r.get("sido"))
-        sigungu = normalize_sigungu(r.get("sigungu"))
+        sigungu = normalize_sigungu(r.get("sigungu"), sido=sido)
 
         if not sido or not sigungu or sigungu == "소계" or sido == "소계":
             continue
@@ -112,7 +112,7 @@ def main():
         sigungu_raw = r.get("sigungu")
 
         sido = normalize_sido(sido_raw)
-        sigungu = normalize_sigungu(sigungu_raw)
+        sigungu = normalize_sigungu(sigungu_raw, sido=sido)
 
         # 소계 및 전국 제외 (세종 제외)
         if sido != "세종" and (sigungu == "소계" or sido == "소계" or sido == "전국"):
@@ -145,7 +145,7 @@ def main():
         sigungu_raw = r.get("sigungu")
 
         sido = normalize_sido(sido_raw)
-        sigungu = normalize_sigungu(sigungu_raw)
+        sigungu = normalize_sigungu(sigungu_raw, sido=sido)
 
         # 소계 제외 (세종 제외)
         if sido != "세종" and (sigungu == "소계" or sido == "소계"):
