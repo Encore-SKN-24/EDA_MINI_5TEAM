@@ -40,9 +40,9 @@
 
 본 프로젝트 아이디어는 “도시의 발전 수준은 글로벌 패스트푸드 프랜차이즈의 입점 수로 가늠할 수 있다”는 대중적인 인식에서 출발하였다.  
 
-이러한 인식은 흔히 밈(meme)의 형태로 소비되지만, 실제로 *The Economist*가 1986년부터 발표해 온 **빅맥지수(Big Mac Index)**와 개념적으로 맞닿아 있다.
+이러한 인식은 흔히 밈(meme)의 형태로 소비되지만, 실제로 The Economist가 1986년부터 발표해 온 빅맥지수(Big Max Index)와 버거 지수는 국내 특정 프랜차이즈의 입점지/상품 가격 등을 통해 사회적 지표를 탐색할 수 있다는 점에서 맞닿아 있다. 
 
-
+<img width="1084" height="946" alt="big max index" src="https://github.com/user-attachments/assets/038c5b17-9d9a-48ba-9116-0cad460b872b" />
 
 빅맥지수는 동일한 상품(빅맥)의 국가별 가격을 비교하여 구매력 평가(PPP)와 경제 수준을 직관적으로 설명하기 위해 고안된 지표이다. 이는 경제 교과서와 다수의 학술 연구에서도 활용되어 왔다.
 
@@ -54,7 +54,7 @@
 
 즉, 버거 프랜차이즈의 분포는 지역의 사회·경제적 특성과 사람의 활동이 집중되는 공간적 특성을 간접적으로 반영하는 지표로 활용될 수 있다.
 
-
+<img width="1514" height="1158" alt="busan_news" src="https://github.com/user-attachments/assets/526c4eb3-5dbd-468f-a3d1-bc660fca7358" />
 
 전문가들은 이러한 현상의 원인으로 상업지역 비율, 인프라의 상대적 부족 등 환경 요인의 복합적 작용을 지적한다. 이는 범죄 발생을 인구 활동이 집중되는 공간적 조건과 함께 해석할 필요가 있음을 시사한다.
 
@@ -95,7 +95,7 @@
 
 # 4. WBS 및 폴더 구조
 
-
+<img width="1300" height="642" alt="wbs2" src="https://github.com/user-attachments/assets/d21fa293-f402-4ffa-b282-4ceebf95c478" />
 
 ```text
 burger-crime-eda/
@@ -200,6 +200,7 @@ Burger Index = burgerking + lotteria + mcdonalds + kfc
 - 목적: 지역별 체감 치안 수준을 설명하기 위한 범죄 유형 분석
 - 강력 범죄 단독 지표 사용 시 발생하는 데이터 공백 문제 보완
 
+<img width="2880" height="1378" alt="범죄율" src="https://github.com/user-attachments/assets/8e585c61-8c42-4962-aef8-ddbe84c60db0" />
 
 ---
 
@@ -230,7 +231,8 @@ Burger Index = burgerking + lotteria + mcdonalds + kfc
 # 8. 분석 인사이트
 
 # 🍔 버거 지수 히트맵
-
+<img width="2426" height="1304" alt="버거지수 히트맵1" src="https://github.com/user-attachments/assets/95bba4ac-feb2-404e-a666-dc829122267c" />
+<img width="2370" height="1356" alt="버거지수 히트맵" src="https://github.com/user-attachments/assets/088e8bf1-ad52-4d01-8d10-81109e6fd18f" />
 
 - 위는 버거지수를 나타낸 단계 구분도이다.  
 - IQR 기준 이상치는 강남구, 서초구, 중구였으나, 이들은 단순 이상치가 아닌 유동인구가 많은 동시에 업무 지구의 역할을 하는 장소라는 점에서 의미를 가진다.  
@@ -241,6 +243,7 @@ Burger Index = burgerking + lotteria + mcdonalds + kfc
 
 # 🚨 범죄율 등급화 바그래프
 
+<img width="1002" height="718" alt="범죄율 등급화 바그래프" src="https://github.com/user-attachments/assets/ec2cf90f-e4fa-47de-a8be-733c47f96b32" />
 
 - 범죄율을 구간별로 나누어 보니, 범죄율이 높은 구간일수록 대체로 버거지수도 함께 증가하는 경향을 보인다.  
 - 버거지수가 높을수록 도시화된 지역이고 인구 밀도도 높을 것이므로 범죄율도 증가하는 것으로 추측된다.  
@@ -251,6 +254,7 @@ Burger Index = burgerking + lotteria + mcdonalds + kfc
 
 # 📊 범죄율 등급별 버거지수 분포 (Violin Plot)
 
+<img width="552" height="453" alt="범죄율 등급별 버거지수 분포" src="https://github.com/user-attachments/assets/4707c9c5-5bef-4478-9a2a-21d65987e3a6" />
 
 - 위 그래프는 범죄율 등급별 버거지수 분포를 바이올린 차트로 시각화한 것이다.  
 - 이전 그래프는 **5등급 분할**, 본 그래프는 **4분위 값 기준 분할**을 사용하였다.  
@@ -259,7 +263,7 @@ Burger Index = burgerking + lotteria + mcdonalds + kfc
 
 - 1등급의 중앙값은 버거지수 0이 가장 많이 분포한다. 이는 범죄율이 낮고 버거지수 또한 낮은 지역이 다수이며, 인구 밀도 자체가 낮은 지역이 많음을 의미한다.  
 
-- 4등급의 경우 버거지수가 1인 지역이 다수 분포하고 있고, 버거지수가 0인 지역의 분포는 적다. 이는 대체로 발달된 지역이며 인구 밀도가 높은 지역이므로 범죄율 또한 높은 등급에 속함을 보여준다.  
+- 4등급의 경우 버거지수가 1인 지역이 다수 분포하고 있고, 버거지수가 0인 지역의 분포는 적다. 이는 대체로 발달된 지역이며 인구 밀도가 높은 지역이므로 범죄율 또한 높은 등급에 속함을 보여준다. 
 
 - 중앙값이 등급별로 점차 상승하는 경향은  
   **버거지수 증가 → 인구 밀도 증가 → 범죄율 증가**라는 구조적 관계를 시사한다.  
@@ -268,6 +272,7 @@ Burger Index = burgerking + lotteria + mcdonalds + kfc
 
 # 📈 버거지수별 범죄율 평균 바그래프
 
+<img width="567" height="452" alt="버거지수별 범죄율 평균 바그래프" src="https://github.com/user-attachments/assets/a51920b7-bc04-4dc8-a151-339f280777c5" />
 
 - 버거지수를 반올림하여 지수별 범죄율 평균을 산출한 그래프이다.  
 - 버거지수가 높을수록 범죄율이 높아지는 경향은, 인구 밀도가 높아짐에 따라 범죄율이 증가하는 이전 그래프와 동일한 흐름을 보인다.  
@@ -280,11 +285,18 @@ Burger Index = burgerking + lotteria + mcdonalds + kfc
 
 # 🗺 주요 도시의 버거지수 단계 구분도
 
-
 - 경기도, 서울, 강원도, 경상북도  
-- 경상남도, 세종특별시, 전라남도, 충청북도  
-- 전라남도, 충청남도, 광주광역시, 대전광역시, 대구광역시, 부산광역시  
+<img width="1637" height="1035" alt="주요 도시(경기도 외)" src="https://github.com/user-attachments/assets/d29d3949-48ec-4177-9c5e-c05aaa88b74f" />
+
+- 경상남도, 세종특별시, 전라남도, 충청북도
+<img width="1478" height="1037" alt="주요도시(경삼남도 외)2" src="https://github.com/user-attachments/assets/bfc54f1b-ce05-41de-9a3c-c7ce22611994" />
+
+- 전라남도, 충청남도, 광주광역시, 대전광역시, 대구광역시, 부산광역시
+<img width="1641" height="507" alt="주요도시(전라남도 외) 3" src="https://github.com/user-attachments/assets/d4e1b4aa-a079-440b-8577-e29f0a76ce1a" />
+<img width="1538" height="983" alt="주요도시(광주광역시 외)3" src="https://github.com/user-attachments/assets/273c7c50-980e-409c-9062-ac672ca708fc" />
+
 - 울산광역시, 인천광역시  
+<img width="1639" height="519" alt="주요도시(울산광역시 외)4" src="https://github.com/user-attachments/assets/8598ae69-30a8-48c8-af7d-905fdb5a4701" />
 
 버거지수와 범죄율의 관계를 지도 시각화 결과를 종합하면 다음과 같은 해석이 가능하다.
 
