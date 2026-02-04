@@ -217,6 +217,8 @@ Burger Index = burgerking + lotteria + mcdonalds + kfc
 - `pandas`, `numpy`를 활용하여 DataFrame 생성 및 전처리
 - 불필요한 컬럼 제거 및 컬럼 정리  
   (예: `sido`, `sigungu`, `population` 등)
+- 세종시의 경우, 세종시 하위 '구' 단위가 없어 통합하는 코드 추가/처리
+<img width="1336" height="664" alt="세종시" src="https://github.com/user-attachments/assets/ec1f7976-ccf5-443f-adad-8508cf5f29c4" />
 
 ### 버거 프랜차이즈 데이터
 
