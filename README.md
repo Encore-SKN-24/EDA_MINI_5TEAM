@@ -203,6 +203,7 @@ Burger Index = burgerking + lotteria + mcdonalds + kfc
 - 강력 범죄 단독 지표 사용 시 발생하는 데이터 공백 문제 보완
 
 <img width="2880" height="1378" alt="범죄율" src="https://github.com/user-attachments/assets/8e585c61-8c42-4962-aef8-ddbe84c60db0" />
+<img width="1512" height="262" alt="범죄율 계산" src="https://github.com/user-attachments/assets/357b1d17-f5f1-41a7-99c1-5ad7bf0302d9" />
 
 ---
 
@@ -222,6 +223,7 @@ Burger Index = burgerking + lotteria + mcdonalds + kfc
 - 브랜드별 수집 방식이 상이함
 - 주소 체계를 시·도 / 시·군·구 기준으로 통일
 - 전처리 후 JSON 구조로 변환
+<img width="2166" height="1276" alt="json" src="https://github.com/user-attachments/assets/b136343c-a64a-4823-a284-3b583f8288e7" />
 
 ### 데이터 통합
 
