@@ -187,7 +187,7 @@ burger-crime-eda/
   → 지역의 생활 밀집도 및 상업 환경 수준을 간접적으로 나타내는 대리 변수
 
 ```text
-Burger Index = burgerking + lotteria + mcdonalds + kfc
+Burger Index = (burgerking + mcdonalds + kfc) / lotteria
 ```
 ## 6-2. Crime 지표
 
